@@ -1,6 +1,16 @@
-You've found the naguvault. 
+---
+title: "The NaguVault"
+---
 
+# 🜲 Welcome to the NaguVault
 
-- [Worldbuilding →](Nagusaverse-Vault/Worldbuilding/)
-- [Stories →](Nagusaverse-Vault/Plotlines/Stories/)
-- [Dictionary →](Nagusaverse-Vault/Worldbuilding/Dictionary/)
+A sprawling archive of worlds, timelines, and stories from the **Nagusaverse**.  
+Browse through the sidebar or search to explore worldbuilding notes, AU timelines, and plotlines.
+
+---
+
+**Quick access**
+- [🌌 Worldbuilding](./Worldbuilding/)
+- [📖 Plotlines](./Plotlines/)
+- [💭 Loose Leaf](./Loose-Leaf/)
+- [📚 Minis & Requests](./Loose-Leaf/Minis%20and%20Requests/)
