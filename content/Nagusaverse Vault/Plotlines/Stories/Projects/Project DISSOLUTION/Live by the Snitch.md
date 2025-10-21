@@ -1,0 +1,3992 @@
+---
+No.: "012"
+Alias: H-0111
+Type: Multichapter
+---
+#Voltaction #Story
+
+
+
+| Character               | ***Primary House***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Burnt? | Modelling?                                                                                                                                                                                                                                                                                                                                                                                                                                           | ***Secondary***                                                                                                                                                                                                                                                                                                                                                                       | Modelling?                                                                                                                                                                                                                  | Performing?                                                                                                                                                                                                                                                            |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fura Kanato**         | Slytherin (Snake)<br>➣ pureblood<br>➣ strong 'promotion of the self and important people'<br>➣ he calls himself self-centered and selfish but doesn't treat it as a flaw<br>➣ 'me and mine first'<br>➣ has to rely on a secondary morality system to gate this mentality the mafia has taught him<br>➣ but would hurt others, if necessary, if what he believed the optimal outcome is makes it so                                                                                                                                                                                                                                                                                                                            | X      | Bird<br>➣ gauges his morals based on what he has been taught or experienced over time (Re:Find Self)<br>➣ decisions are calculated on likelihoods and throughlines of careful consideration (Detroit: Become Human)<br>➣ but his ultimate priority is in what he wants for himself, or personally believes is best<br>➣ requires this built system in order to mitigate or balance out making decisions that would otherwise rely on his selfishness | Snake<br>➣ adaptability and flexibility make him a quick and adept problem-solver<br>➣ the entrepreneur mindset to play to his own strengths while appealing to others<br>➣ the quickest thinker of Voltaction; fastest responder in planning<br>➣ different 'faces' for different situations (mafia; businessman; stalwart heir; Kanato)                                             | Bird<br>➣ leadership<br>➣ contingency and problem-solving mindset as byproduct of upbringing<br>➣ caution and preparedness as requisite to survival<br>➣ ten billion random skills under his belt                           | X                                                                                                                                                                                                                                                                      |
+| **Watarai Hibari**      | Gryffindor (Lion)<br>➣ defaults to his personal moral compass under duress (survival above all else)<br>➣ driven to survive for the sake of said moral compass<br>➣ a lack of understanding often leads him to follow his gut feeling more than anything else<br>➣ often flies by the seat of his pants (Erfolg)<br>➣ his morality is strong and good but not systematic or selfish<br>➣ systematic morality will often be charged through on the basis of his own moral compass<br>➣ cannot be shaken on his fundamental values and will act immediately on them<br>➣ perseveres, in spite of discouragement<br>➣ go-getter type attitude (sometimes to detriment)<br>➣ guilt in the boy who folds his morals for any reason | X      | Badger<br>➣ the personal ideal to value all people and strive for kindness<br>➣ values community and connections to others<br>➣ makes decisions based on who needs help and fair chance<br>➣ forgives easily (but never forgets unforgiveable slights)<br>➣ good patience and even greater tolerance is a practice                                                                                                                                   | Snake<br>➣ 'people who think he's a natural are being fooled' - Kanato<br>➣ 'it's all calculations' - Seraph<br>➣ maintains a small, small circle of close friends despite many, many connections<br>➣ the 'mood-maker', ability to read and control conversations, make people feel safe<br>➣ different 'faces' for different situations (idol; role model; moralist; thief; friend) | Badger<br>➣ 'strength from consistency and the integrity of the method'<br>➣ persistence, determination, accomplishment through effort<br>➣ (the Lion's) determination underpins the ability to persevere and never give up | Lion<br>➣ he wants to be someone people can look up to, or to be the person he himself once looked up to<br>➣ his bravery is a conscious choice, and what is more brave than choosing to be in the face of fear?<br>➣ Places heroism for others above his own survival |
+| **Shikinagi Akira**     | Ravenclaw (Bird)<br>➣ a planner by nature<br>➣ his personal beliefs and approaches are driven by a system constructed by experience and consideration<br>➣ a natural distrust of the gut instinct in consideration of the most favourable outcome<br>➣ is likely to second-guess himself, and is driven by the need to identify before act                                                                                                                                                                                                                                                                                                                                                                                    | X      | X                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Badger<br>➣ appeals to his work ethic and views of having to work to keep up and survive<br>➣ his connections, kindnesses, and steady work ethic make him the rock<br>➣ value of hard work makes him a dark horse                                                                                                                                                                     | Bird<br>➣ this guy had a welding iron on him in the voice drama, need I say more?                                                                                                                                           | Snake<br>➣ when necessary<br>➣ his resourcefulness lends to the ability to read, interpret, blackmail and manipulate people                                                                                                                                            |
+| **Seraph Dazzlegarden** | Slytherin (Snake) → Ravenclaw (Bird)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Snake  | X                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Bird                                                                                                                                                                                                                                                                                                                                                                                  | X                                                                                                                                                                                                                           | X                                                                                                                                                                                                                                                                      |
+
+| Character         | ***Primary House*** | Burnt? | Modelling? | ***Secondary*** | Modelling? | Performing? |
+| ----------------- | ------------------- | ------ | ---------- | --------------- | ---------- | ----------- |
+| **Lauren Iroas**  | Gryffindor (Lion)   | X      |            |                 |            |             |
+| **Milan Kestrel** |                     |        |            |                 |            |             |
+| **Kaisei**        |                     |        |            |                 |            |             |
+| **Kanae**         | Slytherin (Snake)   | X      | X          | Snake           | Badger     | X           |
+| **Kuzuha**        | Slytherin (Snake)   | X      | X          |                 |            | Badger      |
+
+https://www.hp-lexicon.org/thing/school-schedules/
+https://www.hp-lexicon.org/thing/year-calendar/
+https://houseofspells.co.uk/blogs/house-of-spells-blog/what-is-the-schedule-for-hogwarts-students
+
+**
+
+I: September
+
+Murphy’s Law, or Midas Touch?
+
+---
+
+School Calendar
+
+- Welcoming feast
+    
+- First year sorting
+    
+- 1st or 2nd week quidditch tryouts
+    
+
+Key Points
+
+- Paired during potions
+    
+- Hibari is decided to perform at Yule Ball
+    
+- Kanato starts tutoring him
+    
+
+  
+
+II: October
+
+Thou Hast Acquired a New Vow
+
+---
+
+School Calendar
+
+- Halloween
+    
+- Hogsmeade opens up
+    
+
+Key Points
+
+- Building peer pressure and gossip
+    
+- Kanato finds the Room of Requirement and ends up subsequently avoiding Hibari
+    
+- Hibari finds the Room of Requirement
+    
+
+  
+
+III: November
+
+Typhoon in a Teacup
+
+---
+
+School Calendar
+
+- Quidditch match x2
+    
+
+Key Points
+
+- Build-up to Yule Ball
+    
+- Akira & Seraph join the Room of Requirement
+    
+
+  
+
+IV: December
+
+Slip the Net, Catch that Snitch
+
+---
+
+School Calendar
+
+- Yule ball
+    
+- Christmas holidays (start a few days before christmas, end a few days after new years)
+    
+- Christmas
+    
+- New years eve
+    
+
+Key Points
+
+- Attending the Yule Ball (Kanato avoiding Hibari entirely afterwards due to misunderstanding)
+    
+- Hibari spends Christmas break looking for him– finds him in the Room of Hidden Things
+    
+- The vanishing cabinet and Knockturn Alley assault and rescue
+    
+- The fight on the train and detention
+    
+
+V: January
+
+Cold War
+
+---
+
+School Calendar
+
+- New years
+    
+- School year resumes
+    
+
+Key Points
+
+- Kanato reasserts dominance in Slytherin after cutting off Hibari
+    
+- Hibari retreats after being shut out, relies on Seraph & Akira for advice, and does research into Kanato’s family (The Fura Mafia)
+    
+- He begins to watch Kanato with renewed interest and disillusioned eyes, waiting for his chance
+    
+
+  
+
+VI: February
+
+Seeing-Eye Dog
+
+---
+
+School Calendar
+
+- Valentines day
+    
+- Quidditch season resumes
+    
+
+Key Points
+
+- Chance comes when Hibari takes quaffle to the face and is sent to the infirmary
+    
+- Finds out Kanato is (temporarily) partially blind due to an eye injury, doesn’t know how long the blindness will last for
+    
+- Hibari is volunteered his assistant because Kanato has no friends in Slytherin (he also volunteers himself)
+    
+- Gradual mending of their friendship (closer than before)
+    
+
+- It’s revealed the damage to Kanato’s eye is from strain, overusing his magic, in a fight with the people who kidnapped him in Knockturn Alley (who were after Hibari to get to him)
+    
+
+  
+
+VII: March
+
+Hexed Halfway to Hell
+
+---
+
+School Calendar
+
+- Easter holidays?
+    
+
+Key Points
+
+- The hex wars begin
+    
+
+  
+
+VIII: April
+
+A Modern-Day Icarus
+
+---
+
+School Calendar
+
+- Easter holidays?
+    
+
+Key Points
+
+- Hibari is sabotaged and nearly falls to his death (is saved by the others– caught by Kanato, who stumbled down 50 ft's worth of stairs half-blind to do so, and stalled by Akira, who counter-cursed his robes when Seraph pointed them out)
+    
+- Kanato is hit by hexed bludgers, breaking his ribs violently
+    
+- Kanato is framed for the ordeal (his wand was used and stolen by someone jealous and hateful of Hibari)
+    
+- His name is cleared by Lauren
+    
+- Hibari’s feelings overflow when Kanato tries to brush off his injuries, and he calls Kanato ‘his snitch’
+    
+- Kanato fails to understand the true weight of this confession, but their friendship gets closer.
+    
+
+  
+
+IX: May
+
+19.32 Grams per Cubic Centimeter
+
+---
+
+School Calendar
+
+- Last quidditch matches of the year
+    
+
+Key Points
+
+- Hibari, thinking his feelings are out, openly flirts with Kanato, who doesn’t get it.
+    
+- Kanato being dense (hence this chapter’s subtitle. It’s the density of gold.)
+    
+- Culminates in an overflow of emotions and final confessions
+    
+
+X: June
+
+Burning Up, Burning Out
+
+---
+
+School Calendar
+
+- Final exams
+    
+- Leaving feast
+    
+
+Key Points
+
+- Kanato, knowing he won’t be able to see Hibari over summer… first time together.
+    
+- Back at King’s Cross Station, Kanato makes Hibari swear not to try to find him or contact him or anything over summer. Doesn’t even give Hibari his address.
+    
+- Hibari reluctantly agrees (doesn’t sound earnest, though)
+    
+
+  
+
+XI: July
+
+Country Roads
+
+---
+
+- Summer break.
+    
+
+Key Points
+
+- Hibari’s family doesn’t pay attention to him and are borderline neglectful
+    
+- He overhears them discussing the arson of the Fura manor and, worried for Kanato, resolves to find out what happened
+    
+- He spends a lot of time travelling (and stealing) to get to the ruined remains, where he finds nearly no clues, but his search continues.
+    
+
+  
+
+XII: August
+
+Terms of Endangerment
+
+---
+
+- Summer break.
+    
+
+Key Points
+
+- Hibari continues searching for Kanato, but becomes a target of the Fura Family’s men in doing so
+    
+
+- Kanato barely prevents his death by intercepting a killing curse, furious. He is so angry, unbridled, unfiltered, raw rage.
+    
+- Kanato presents Hibari to his father, where Hibari is openly shunned for his ‘uselessness’ (and not being able to bear an heir, and not being a pure-blooded wizard)
+    
+- Hibari overhears Kanato and his father fighting, where Kanato’s future freedom is rescinded because he ‘cannot be trusted to make good connections’ or protect himself, etc etc etc…
+    
+- Hibari is allowed to be a guest in the manor, but he isn’t allowed to speak or talk or even look at Kanato for the whole duration.
+    
+- Hibari eventually decides to make a deal with Kanato’s father– he will leave Kanato alone and quit Hogwarts if Kanato is given his freedom back.
+    
+- Kanato’s father takes the deal, but who knows if he’s being entirely truthful? It also seems Hibari’s family returned some very important files, so out of goodwill, he will allow Hibari to go back to Hogwarts as long as he doesn’t even think about interacting with Kanato.
+    
+- After hearing about this, Kanato barges into Hibari’s room screaming at him, betrayed, angry, (“You were meant to be my partner, but you’re just another one of his lapdogs!”), and curses Hibari and says he never wants to look at him again.
+    
+
+  
+
+XIII: September
+
+Murphy’s Law, Plain and Simple
+
+---
+
+School Calendar
+
+- Welcoming feast
+    
+- First year sorting
+    
+- 1st or 2nd week quidditch tryouts
+    
+
+Key Points
+
+- Hibari and Kanato don’t talk. Kanato is cold to him.
+    
+- But Hibari still receives the (pre-ordered) Aurum One for his birthday, a god amongst gods of quidditch brooms.
+    
+- Kanato receives a howler the next day about using family money. Kanato writes a passive-aggressive letter back detailing it was at least 2/3rds his own money, and it reflects his own standards and not his family’s. A letter that Hibari steals, and finds out that it was Kanato who sent him the broom.
+    
+- And the day after that, a howler comes for Kanato about having his own illegal stocks. Word gets out and he’s quickly named the ‘Underworld King’ or ‘Hades’ due to his wealth.
+    
+- Hibari realizes. If the howlers are only coming now, then it means Kanato’s family doesn’t know everything, or they only have informants. He begins to hatch a plan to get back his golden snitch.
+    
+
+  
+
+XIV: October
+
+Thou Hast Turned a Vow into a Blood Oath
+
+---
+
+- Halloween
+    
+- Hogsmeade opens up
+    
+
+Key Points
+
+- Rise of the ‘Chimera’
+    
+- Seraph’s Advice: Use Kanato’s newfound reputation as leverage. The Slytherins value power and wealth above all else, and Kanato’s nickname, ‘God of Riches,’ is a perfect hook. Do favors, make good on promises, and they will never leave.
+    
+- Hibari, with Seraph and Akira’s help, starts charming the Slytherins. He’s subtle at first but begins attracting attention during Quidditch practice.
+    
+- Kanato receives another howler from his mother, accusing him of bribing supporters and pulling rank. Kanato denies it, thoroughly shocked but calmly stating: “I didn’t bribe anyone.”
+    
+- The howler falls silent. Kanato’s influence has grown without him even realizing it.
+    
+- Akira explains to Hibari: “It was you. You caused it. The Slytherins pulled rank because they’re impressed by you.”
+    
+- Hibari panics at first, fearing the Fura family will retaliate, but Seraph reassures him. “If they’ve pulled, they’ll lie low. Nobody burns a good source in the underworld.”
+    
+- Hibari starts solving more mundane problems for the Slytherins, including retrieving something from the headmaster’s office and helping Rafael ace a mock Muggle Studies test, which lands him a date.
+    
+- Just when Hibari thinks things are going well, Kanato confronts him in the hallway, asking coldly, “What the hell are you doing?”
+    
+- Hibari panics and runs to Seraph and Akira, fearing that Kanato knows everything about the secret vigilante network.
+    
+- Lauren, studying law enforcement, admits he’s known about their crime ring all along. He tells them that their vigilante actions have actually helped him protect certain teachers and students, like the Muggle Studies professor.
+    
+- Hibari is overwhelmed but tries to shake it off, focusing on the upcoming first Quidditch match of the season.
+    
+- Hayase Sou announces that the Golden Snitch has been upgraded, making it lightning fast and almost sentient.
+    
+- Despite the challenge, Hibari catches the snitch, cementing his legendary status as a seeker.
+    
+- After the match, Slytherin Quidditch players corner Hibari, demanding that he teach them how to fly like him, invoking the codeword “Chimera.”
+    
+- Kanato watches from afar, realizing that Hibari is playing a dangerous game. He worries that if the Fura family finds out about Hibari’s newfound power and influence, Hibari’s life will be in danger.
+    
+
+  
+
+XV: November
+
+Golden Girl on the Charm Offensive
+
+---
+
+- Quidditch match x2
+    
+
+Key Points
+
+- Hibari tries to invite Kanato to the Yule Ball, but Kanato coldly brushes him off: “If it isn’t the Chimera half-wit.” He rejects Hibari coldly, reminding him that it was Hibari’s idea to never speak to him again. He claims he already has a date and leaves.
+    
+- Huge heartbreak for Hibari, who withdraws to the Room of Requirement.
+    
+- Cue the transfer student: Fura Kana, Kanato’s cousin, who looks so much like him she could be his twin.
+    
+- She is charming, beautiful, sexy, playful, friendly, and immediately immensely popular. Peppy and outgoing, her skirt is way too short (Hibari tries to look everywhere but there, but fails. Lauren points it out. Seraph just straight-up doesn’t look).
+    
+- Kana’s true purpose is to help Kanato. Be his second pair of eyes, and assist in stomping out any potential leaks about Hibari’s activities. She is there to help Kanato keep Hibari safe, but nobody knows that.
+    
+- Hibari continues to avoid the Yule Ball, hiding in the Room of Requirement.
+    
+- Seraph and Akira decide to teach him the Patronus Charm to cheer him up and distract him from his heartbreak.
+    
+- Hibari struggles at first but eventually summons a wolf, which resembles the wolf earring Kanato received for Christmas in sixth year. Hibari realizes how deep his feelings for Kanato run and breaks down in front of Seraph and Akira.
+    
+- The charm is brought up again in Defense Against the Dark Arts. Hibari struggles at first, but his wolf Patronus reappears and instinctively moves toward Kanato.
+    
+- Kanato tries the charm himself and accidentally summons a skylark—Hibari’s namesake. He brushes it off as irrelevant, though Seraph and Akira know the significance.
+    
+
+  
+
+XVI: December
+
+Flesh Memory
+
+---
+
+- Yule ball
+    
+- Christmas holidays (start a few days before christmas, end a few days after new years)
+    
+- Christmas
+    
+- New years eve
+    
+
+Key Points
+
+- Taking pity on Hibari, Kana decides to reveal everything to him and follows him to the Room of Requirement.
+    
+- She proposes a trade: if Hibari can steal Kanato’s glasses (which she doesn’t like, because he wears them out of habit and insecurity) she will give him her place as Kanato’s date to the Yule Ball.
+    
+- Hibari accepts and succeeds. On the night of the ball, he is waiting there when Kanato arrives, irritated about his missing glasses.
+    
+- Kanato immediately recognizes that Hibari was behind the missing glasses. Furious, he demands an explanation.
+    
+- Despite Kanato’s cold demeanor, Hibari persists. They dance together, with Kanato reluctantly leading.
+    
+- Hibari savors the rare closeness, but Kanato remains visibly upset. The dance is bittersweet—sweet for Hibari, but tinged with tension and anger for Kanato.
+    
+- When the dance ends, Kanato leaves abruptly, chasing after Kana to get his glasses back. Hibari refuses to let Kanato go and gives chase, determined to fix things.
+    
+- Kanato sprints through the castle, trying to escape Hibari and catch Kana. The chase is chaotic, with Kana giggling and teasing them from ahead.
+    
+- They run through snowy hallways, past startled students, and nearly crash into Akira and Seraph, who are… suspiciously making out in a hidden alcove.
+    
+- Eventually, Hibari catches Kanato by throwing his weight on him, pinning him down in the snow courtyard. Hibari repeatedly apologizes, pleading for another chance. He promises to listen to Kanato from now on and be his partner, not another pawn.
+    
+- Kanato is torn. He wants to forgive Hibari, but the risks are too high. If his father finds out, it could spell disaster for Hibari, Seraph, Akira, and himself.
+    
+- Kanato reminds Hibari of the stakes, but Hibari insists that everything he’s done—the vigilante group, gaining the Slytherins’ trust—was for Kanato’s freedom. Kanato’s resolve starts to crack as Hibari continues to plead, calling Kanato his soul and promising to be by his side every day for the rest of his life.
+    
+- “Can you stop making it sound like a marriage proposal?”
+    
+- … They make up.
+    
+
+  
+
+XVII: January
+
+King and Chimera
+
+---
+
+- New years
+    
+- School year resumes
+    
+
+Key Points
+
+- Nickname Frenzy: The "Underworld King" and "His Chimera" dominate the gossip mill, cementing their power couple status.
+    
+- Some students wonder if this time it’s "different"—not just a fling. Slytherins, in particular, see it as a power move, viewing Hibari as a rising star thanks to their growing alliance.
+    
+- Kana, Akira, Seraph, and Kanato have streamlined their operation into a smooth vigilante network. Kanato’s business expertise boosts their efficiency and helps them manage favors and leverage better deals.
+    
+- Akira and Seraph remain the grounded planners, while Kana stomps out information leaks before they spread.
+    
+- Hibari’s leadership is shining, but he’s also drowning under the increased pressure of attention and mounting requests. A Slytherin girl approaches them with a serious favor: obtain information from a high-ranking Ravenclaw tied to a corrupt politician.
+    
+- Kanato negotiates a careful bargain:
+    
+
+- If the information is harmless, she won’t get it.
+    
+- If it’s dangerous, they’ll expose the politician, but under no circumstances will they provide blackmail material.
+    
+
+- The mission involves breaking into the Ministry of Magic—something only this group could pull off.
+    
+
+- The mission is swift and clean. With their skills:
+    
+- Akira as the spy, Hibari as the infiltrator, Seraph as the enforcer,Kanato as the strategist they retrieve classified information.
+    
+- The next day, it’s all over the news—a politician caught blackmailing goblins at Gringotts.
+    
+- The group celebrates their victory quietly, but Lauren notices, impressed yet wary.
+    
+
+  
+
+XVIII: February
+
+Snitch, Hitch, Stitch, then Kiss it Better
+
+---
+
+- Valentines day
+    
+- Quidditch season resumes
+    
+
+Key Points
+
+- Hibari plays his first match of the new term, riding high on recent successes.
+    
+- The upgraded snitch makes it a challenge, but Gryffindor doesn’t lose—not with Hibari as their seeker.
+    
+- Kanato, watching from the stands, is openly smug, proud of Hibari and his role in helping him shine.
+    
+- Post-game, Hibari’s confidence peaks, and he falls back into his habit of flirting with Kanato.
+    
+- Kanato teases him for being too obvious, calling him the most predictable person on the planet. Hibari fires back with “You look like you want to eat me right now”, only half-joking.
+    
+
+  
+
+XIX: March
+
+Divine Judgement
+
+---
+
+- Easter holidays?
+    
+
+Key Points
+
+- Even with Kana on the job, information inevitably leaks. And Seraph’s family forces him to attempt Kanato’s assassination.
+    
+- He pushes Kanato from the stairs, breaking his ribs (again) but not killing him, and makes no report, hoping his family will mistake his silence for success.
+    
+- Seraph begins to receive increasingly concerning threats the longer Kanato remains alive. Akira finds out, and pitches a request in secret to Hibari and Kanato– to help him free Seraph from his family. He’s a good guy and feels endless guilt at the lives he’s taken.
+    
+- It’s child’s play for Kanato, who gets Hibari to take him to the vanishing cabinet because he’s injured and can’t really move. 
+    
+- Because Seraph’s family is under the Fura Mafia, he ‘negotiates’ with them for Seraph and Akira’s freedom from contract and is successful.
+    
+
+  
+
+XX: April
+
+A Rubber Band for a Tightrope
+
+---
+
+- Easter holidays?
+    
+
+Key Points
+
+- However, these actions land the gang in hot water, and Kanato and Hibari are pinned as liable for the Fura Family’s recent decline.
+    
+- Hibari is immediately targeted. Even with the protection of the Hogwarts Houses and everyone in the vigilante circle, it is decided to be too dangerous. Either Kanato will drop out and turn himself in to the mafia, or Hibari will have to run.
+    
+- Hibari says he hates both. Kanato says they should run away.
+    
+- They run away.
+    
+
+  
+
+XXI: May-June
+
+Seekers Sought and Snitches Caught
+
+---
+
+Key Points
+
+- Hibari and Kanato on the run. The others cover their tracks as far as Hogwarts, but outside of the castle, they’re on their own.
+    
+- They get by. On Kanato’s clever resourcefulness and Hibari’s thievery.
+    
+- But they can’t run forever. They will get hurt. Things will happen.
+    
+- In the end, Kanato will realise there is no such thing as unchained freedom for him. But he can still let Hibari fly.
+    
+
+  
+
+XXII: July
+
+Thy Bond Shall Become the Wings of Rebellion
+
+---
+
+Key Points
+
+- Kanato forms a plan.
+    
+- They steal information from the Fura Family, and then separate. If one dies, the other releases the sensitive information that will cripple the empire for good (but likely get themselves killed in the process). It’s a failsafe.
+    
+- Hibari hates this idea of being separated. He hates this idea in general. But in the end, he listens to Kanato, because Kanato is right that it’s the only way.
+    
+- They aren’t strong enough to take down the Fura Family alone and come out unharmed, not even with the other kids at Hogwarts. It’s information that might be outdated in five years or even five months, so securing Hibari’s temporary freedom while Kanato resigns himself to a foot in the mafia is the best they can do.
+    
+- Kanato: “As long as you’re out there somewhere flying free, I’m okay.”
+    
+- If Kanato can pull this deal, he can use his own mafia standing to make it more secure. It wouldn’t be safe to leverage the information and then both run off. They’d be chased forever and that’s not real freedom.
+    
+- So… reluctantly, tearfully, heartbroken, Hibari accepts the plan. He steals the information with his phantom thief skills, and passes half off to Kanato,
+    
+- And then they split up.
+    
+- (Kanato’s deal works.)
+    
+
+  
+  
+
+XXIII: Five Years Later, August
+
+Café Zéffiro
+
+---
+
+- Five years on, Hibari is a freeter. A drifter. He’s back in Japan, his home country.
+    
+- He follows a flier for a newly opened café looking for staff, walks in, talks to the manager. Waits for the interview with the owner.
+    
+- Someone walks through the door and tinkles the bell.
+    
+- The owner’s name is Fura Kanato.
+    
+
+**
+
+**
+
+HOGWARTS AU OUTLINE
+
+  
+
+*Starts in sixth year.
+
+  
+
+CHARACTERS:
+
+1. Fura Kanato: Slytherin prefect and straight-A student. Feels a lot of pressure from his pureblood lineage (the magic mafia, of which his father is the boss). 
+
+2. Watarai Hibari: Gryffindor quidditch captain and seeker. Extremely popular and charming-- well-loved. Half-blood. His grades are bad. A phantom thief with some kleptomaniac habits (that Kanato eventually trains out of him). Also part of Nijidatoka, Fuwa Minato's band, as vocalist.
+
+  
+
+3. Shikinagi Akira: Ravenclaw prefect and straight-A student. Secretly a spy (until 7th year).
+
+4. Seraph Dazzlegarden: Hufflepuff. Just a nice guy, if not a bit closed off to begin with. Secretly an assassin (until 7th year).
+
+  
+
+5. Lauren Iroas: Gryffindor's quidditch co-captain. Also the keeper. Aiming to be an enforcer in the wizarding world, so makes for a great detective. his grades aren't bad. Also part of nijidatoka.
+
+6. Fura Kana (only during 7th year): Kanato's cousin. A nice girl, immensely popular and charming. Transferred from Beuxbaton's on Kanato's request. Close enough to him (and looks very alike to him) to seem more like his sister than cousin. Extremely cute, wears her skirt too short but gets away with it, which makes all the boys stare (or if you're Hibari, stare and rip your eyes away and try desperately not to look. or if you're seraph, just don't look at all to begin with.)
+
+  
+
+OTHERS
+
+Ibrahim: Ravenclaw, part of Nijidatoka.
+
+Fuwa Minato: Slytherin, Nijidatoka's leader.
+
+Saiki Ittetsu: Rookie Gryffindor, a promising beater.
+
+  
+
+Professors
+
+Ex Albio: Defense Against the Dark Arts. Gryffindor House coordinator. A serious but nice man.
+
+Shirayuki Tomoe: Transfiguration. A nice onee-san type. Slytherin House coordinator.
+
+Ange Katerina: Potions. Ravenclaw House coordinator. Cheerful and a little sly (in a flirtatious way). Will dock copious amounts of points for being made fun of for being flat.
+
+Sukoya Kana: School nurse and herbology. A nice girl.
+
+Hayase Sou: Sports coordinator and flying teacher. She's an exuberant but stern type.
+
+Oliver Evans: Muggle Studies and Hufflepuff House coordinator.
+
+Inui Toko: Care of Magical Creatures.
+
+Yumeoi Kakeru: Divination professor.
+
+  
+
++ miscellaneous mob characters for plot reasons.
+
+  
+
+PLOT OUTLINE:
+
+1. There is a scheduling change that causes the Gryffindors and Slytherins to be paired together for potions class. To facilitate good interhouse relations (Gryffs/Slyths have always been notorious for having *bad* ones), Prof Ange makes them get partners from the other house.
+
+- Nobody moves, but Hibari being Hibari (Gryffindor golden boy and super-friendly extrovert), gets up first and targets Kanato, since he is the Slytherin prefect, thinking it might start a (tenuous) alliance.
+
+- they know of each other, of course. very sterling reputations in hogwarts, both of them- even hibari, even if his grades are awful, hes well loved. so theyve run into each other or observed each other on occasion, and kanato has even passed hibari in the library and helped him once or twice with homework for five minutes or so.
+
+- Their first assignment is a basic truth serum. Their clashing personalities make them argue through the entire exercise. Of course it goes wrong.
+
+- It results in an argument (that sounds like two dogs yapping at each other) whereupon Kanato's thoughts come out thanks to the serum: that its a shame Hibari's so annoying, because his voice is practically melodic when hes singing. Its so good, he should perform at the next Yule Ball.
+
+- First of all, its a shocking thing to say (a compliment?!), and second of all, how does Kanato know that?! (He hears Hibari singing in the prefects' bathroom, which he gets into *somehow*-- phantom thief, though nobody knows that part.) Prof Ange thinks its great and will pitch the idea.
+
+- As for the assignment... They argue after it, too, even while trying to fix it and pass the assignment.
+
+- When its over, class splits up. Kanato on his lonesome as usual. Hibari probably sees him, but is hanging out with Lauren, most likely. Hibari thinks Kanato is a stuck-up rich kid, though Lauren thinks Hibari looked like he was having fun. still affected by the truth serum, hibari says it was fun. and then tries t o keep his mouth shut.. to no avail, as lauren badgers him more.
+
+  
+
+2. Seems like the idea about Hibari going to the Yule Ball moves through the staff and gets a pass, unfortunately for him.
+
+- Kanato and Hibari don't talk for a good while. long enough that thoughts of each other begin to leave their minds-- outside of potions class, which ange keeps insisting they do the interhouse cooperation stuff. very lame.
+
+- Hibari is cornered by one of his professors, and is told to go meet the teachers in charge of organising the yule ball. he protests that he doesnt even have a band, and he doesn't know what he's supposed to do.
+
+- this doesnt seem to matter to Prof Albio, but one thing albio is concerned about is hibaris grades.
+
+- Hibari pitches Akira, but Albio says no ("Akira is already tutoring six students."), and because of what he's heard from Ange, he assigns Hibari *Kanato* instead ("Ange says you and he get along.") to Hibari's dismay.
+
+2.5: Hibari finds Kanato in the library to tell him the news. (Part of him wants to die, part of him is resentful, and part of him is still hearing the things the Not-Lauren Gryffs always say about Slythers.)
+
+- hibari isnt sure he agrees, because they were kind of mean. especially about kanato. so what hes the son of some conglomerate bigshot? its not like it really shows. yeah, maybe his hair is shiny and silky and maybe his eyes are very blue and his glasses are totally fake--not that anyone except hibari seems to have noticed--but still.
+
+- all of his silver lining ideas go out the window when kanato gives him a sort of grimacing look when he hears  the news that hes hibaris tutor, and theres no way out.
+
+- hibari tries, he really does. and as the session goes on kanato seems to go a little easier on him. just a bit. and by the end hes learnt *something* about transfiguration, so that must mean kanato is really as good as they say, right? number one in the grade. or was it two? he cant remember whos winning, kanato or akira or kanae. probably akira. hes a ravenclaw. 
+
+- anyways, when he packs up and is finally freed so he can run off to quidditch practice, he stops  to return a book to the shelf , where he overhears kanato being apprehended by some fellow slytherins. they arent bullying him, but they dont seem impressed that kanato was helpign a gryffindor, no matter what he says about assignmetns.
+
+  
+
+Interlude 1: 
+
+there isnt a lot for hibari to do at quidditch practice, rly. run some drills. try to catch a training snitch. play beater bash .. (where the beaters try to hit him with the bludger, and he, the seeker, skillfully evades). train the freshmen (this saiki ittetsu kid has a lot of promise, what a nasty right bat.)  eventually, he even gets the time to corner co-captain lauren iroas, keeper, and badger him into helping Hibari get the band on for the yule ball.
+
+- in some twist of irony, the gryffindors that arent in the quidditch team are a lot meaner to hibari about getting along with kanato as the days go by-- about kanato. it never seems to be about hibari. even kanatos slytherins badger kanato about *kanatos* half of their inescapable duo, no matter how many time kanato  tells them its his *job.* maybe its because everyone likes hibari more than kanato, says some unwitting gryffindor in the dining hall, in earshot of kanato. shut the fuck up dude, says hibari, more worried about kanato than gryffindors reputation. one of the professors dock him 3 points for it, but it might.. just might be worth the curious glance kanato shoots his way.
+
+  
+
+3. Potions isn't popular, so when the schedule changes, it's left alone. But Defense of the Dark Arts is, so that one does change. Damn. Hibari will miss getting his ass kicked by Seraph.
+
+- But when he sees Kanato on the roster, he feels a mix of excited and 'you're kidding me'.
+
+- you know whats interesting is that people tend to pair up in their own houses, but hibari does head for kanato first. i think that would cause quite a stir, nobody said it had to be interhouse. and kanato, espicially, might be silently surprised.
+
+- Sidenotes: Kanato has a lot of power in his spells, and he can cast without incantations. Hibari isn't on his level, but unlike most wizards, Hibari isn't a stationary defender. He's agile enough to dodge spells rather than defend against them, making him hard to hit defensively. He still loses, though. Kanato might test him at first, so it will look like he's keeping up, but once Kanato starts casting silently, it's as good as over.
+
+- i think hibari would still be feeling the adrenaline, even if he lost. fidgeting in his spot as the duels progress, curious so curious about how kanato is *that* good. how is he that good? isnt he just in sixth form?? is he going to be an auror? whys he that good?
+
+- and when class is out and gives way for lunch time, hibari chases him up, howd you get that good? at what, spellcasting? says kanato. hibari nods vigorously. kanato looks at him for a bit, smiles secretively to himself--whoa, smiling-- and says something like, 'what if i told you my father is a dark wizard?' as some kind of joke.
+
+- hibari though, doesnt take it at face value. 'is he? are you?'
+
+- taken aback, kanato cant really answer. hibari thinks, that maybe a lot of slytherins are dark wizards. but kanato doesnt remind him of a dark wizard, so he wonders if thats true.
+
+- 'well if you are,' hibari says matter of factly, returning the smile he was accidentally gifted earlier, 'it doesnt really make a difference to me anyway. will you teach me how to cast nonverbal too?'
+
+  
+
+4. After gaining more respect for each other, they start gravitating. Hibari still has band to rehearse for, and quidditch practice to captain and quidditch matches to worry about. As for Kanato, he's got his grades and prefect stuff to attend to. But...
+
+- Kanato keeps tutoring Hibari. Hibari teaches Kanato how to fly better in exchange. When Hibari misses quidditch because of detention (for bad grades or being late or otherwise), Kanato helps him make up by firing spells at him while he dodges (while Hibari learns to deflect, because Kanato's aim is really good, suspiciously so.)
+
+- But the pressure from their house peers begins to come down harder. They ignore it of course, but things start to get a little sharp in Kanato's direction (because Hibari is just too likeable, I guess? Talking down about him would be social suicide.)
+
+- Unable to temper it much longer without killing someone (yes, Kanato's father is a dark wizard, actually)-- Kanato roves the halls, wishing if he could just have a *moment* of peace and fucking quiet--!
+
+- And so shows up the Room of Requirement.
+
+  
+
+5. instead of at the dorms, kanato flees to the room of requirement at night. hes the prefect, so he can get away with it, saying hes just busy on patrols.
+
+- the slytherins are pretty cagey about in-house conflicts, but words begin to slip. kanato hasnt been at the commons for ages, but shows up just as prim and perfect to every class as always. how the hell is he doing this?
+
+- it bothers hibari too. because in trying to escape all the quiet gossip, kanato has been escaping him too. skipping out on their spell-flinging sessions and even the tutoring (although, Hibari is managing to get by now.) But Hibari hasn't been able to find him (and it troubles him).
+
+- hibari badgers him in potions about it. kanato evades. kanato badgers him about it in defense against the dark artes. kanato evades. but here, Kanato cant get much more distance than the runway allows, and hibari lets loose all his annoyance at kanato-- in his attacks for the duel.
+
+  
+
+6. the truth is that hibari knows the answer. but when kanato runs off every night to god knows where, hibari cant *help*. hes not even sure why he wants to help. kanato has been such a prat lately, shrugging him off.
+
+- 'My bad for thinking we were friends or something,' Hibari grumbles to himself, bitterly. 'That could never happen, could it, Kanato?' (He uses Kanato's given name from the point after this bitter thought, testing it on his tongue.)
+
+- Its plain to his cohort the day after the duel at quidditch practice. His bad mood always manifests a neutral expression (flat-line mouth, mildly tense brows.) It scares his team a little.
+
+- he goes looking for kanato again after hours, cleverly evading detection as always, but to no avail. and in kanatos absence the backtalk about him only grows louder. the reason hibari is so frustrated is because he doesnt understand why kanato doesnt stand up for himself, and hes frustrated that he cant stand up for kanato because kanato isnt *around* to stand up for.
+
+- sure hes some smartass rich kid who probably is from a dark wizard family or something, but hes a stand up guy. and as hibaris annoyance begins to turn into dejection.. what shows up but the room of requirement?
+
+  
+  
+
+7. the rivalry begins to die, replaced with friendship. hibari and kanato cant be found in the library anymore, to everyones confusion (except for those close to them, like lauren. hes got a vague hunch, but hes not gonna tell. he, ibrahim and fuwa are all loyal like that).
+
+- they turn up to class, to  practice, and dinner, and whatnot, and then kanato goes missing after patrol. hibari clocks in at the gryffindor tower and then when everyones asleep he clocks right back out, to the room of requirement. 
+
+- neither of them  can hear the whispers anymore, and as if to compensate, they g et louder in the moments hibari and kanato are together. but its getting easier not to care.
+
+- Kanato begins to show more aspects of his true personality-- more of the light-hearted, easy guy under the pressure. The clever guy, who laughs and simles a lot and is dramatic and a scaredy-cat.
+
+- And while that's happening out of sight, teacher's pet Shikinagi Akira is the first to catch Hibari sneaking around the halls (undetected until now, his phantom thief skills serve him well). So instead of apprehending him immediately, he follows.
+
+- He's a bit surprised by what he finds, but it seems like a very nice study space. He seriously considers ratting them out for breaking curfew all the time, but Kanato bargains with him: let him hang in the Room of Requirement, and Akira can use it as a study space. Akira considers it, thinks, thinks, and then decides after Hibari hits him with the pleading puppy face-- fine.
+
+- and where akira goes so does seraph dazzlegarden, stoic hufflepuff. not long after akira starts joining them does seraph track them down, just as efficient.
+
+- kanato starts to complain that his pad has been taken over, and asserts absolutely no more people! everyones fine with this. they all seem to be the sort that prefers their own space.. except for hibari. isnt he an extrovert? isnt he popular? well liked? why does he choose to come here every time, rather than hang out with his friends? hibari defends that he does, between band practice (which is more like screwing around in the auditorium) and quidditch and classes and the times he does stop by the gryffindor commons. but to the others, it doesnt really sound like enough.
+
+  
+
+Interlude 2:
+
+- even all motives were ulterior at first-- except for hibaris-- they seem to get quite close. working with each other more when classes align. seraph and akira have always been a bit of a duo-- hufflepuff and ravenclaw share a lot of classes-- but the new comraderie between hibari and kanato begins to showcase outside of their little room, bleeding into their class times more. it becomes noticeable.
+
+  
+
+8. finally finally finally.. the yule ball begins to swing around. hibari asks kanato who hes going to take, since its a rule for prefects to have partners, right? (“You don’t have anyone in mind yet,” Hibari corrected, sitting up and leaning forward, his grin widening. “Come on, there’s gotta be someone. You’re, like, super smart and kind of pretty. I’m sure people are lining up to go with you.”)
+
+- akira says hes not going to be there, that hes doing some other ravenclaw stuff. because of course the academic ravenclaws are allowed to get out of the party.
+
+- kanato cant though. so when hes reminded of the rule, he just sinks into his chair as if trying to hide. hibari tries to bring him out of the shell, encouraging him, he really does, but kanatos heart just rly isnt in it. seraph and akira watch quietly.
+
+- Hibari puts his foot in his mouth: “Hey,” Hibari said quickly, softening his tone. “I’m not trying to pressure you or anything. I just... think it’d be nice, you know? To have someone there who actually wants to spend time with you.”
+
+- Yikes! Kanato knows its an accident, so he doesn't get too upset about it, but it does make him shrink a bit more. 
+
+- eventually hibari gives up, relenting with a cheerful, 'tell me if you find a partner.'
+
+- checking the time.. hibari has late night quidditch practice, because half the team will be going over home over the holidays (not him though!), so theyre running another to make up for it. he heads out in a hurry, leaving kanato with seraph and akira. 
+
+- its akira who asks kanato why he doesnt ask hibari. and kanato says he *cant*. hibaris a gryffindor. and hes a boy. and theres a bunch of reasons Kanato doesn't have the self-awareness or words to articulate.
+
+8.5: kanato doesnt ask hibari to the dance. he doesnt tell hibari he enlists ponto nei, fellow slytherin (and someone who makes it very clear she doesn't like him like that) to take with him. they get along fine, aside from that.
+
+- from there, kanato just carries on, like there isnt anything amiss. hibari spends less time as he helps arrange the yule ball. hes going to be using the auditorium for one song after all, so hes gotta make his keep. and in his absence, the gossip feels a lot louder to kanato.
+
+  
+
+9. The night of the yule ball comes. akira is absent.
+
+- seraph is conspicuously also *not* present. so kanato does the traditional proceedings with his usual grace, ponto nei very accommodating when kanato says he wants to split up.
+
+- the traditional ball goes on for a bit longer, but the pairs allowed to move of the floor should they so choose-- oh, and theres hibari, with a gryffindor girl that Kanato actually recognises. makes sense. ponto nei says shes a chaser.
+
+- hibari plays his set. its very special. exhilarating. probably riles the crowd up more than the act to follow. he steals hearts, all eyes on him. when he gets off the stage his yule date pulls him down by the collar and whispers something that makes hibaris face heat.
+
+- but kanato has seen enough. its not as if hes jealous, really. the ugly feeling in his chest isnt quite monumental enough. but he turns and leaves. for him, the party is over. (the narration is too unreliable to make it obvious, but Kanato is very upset. It's unreliable narration because he isn't aware of his own feelings about it, or is denying them.)
+
+- for kanato, the room of requirement isnt a hiding place anymore. not when three other people can find him there. so he goes back to the slytherin commons, changes out of his stupid dress robes, and then goes off roaming.
+
+- doesnt know where. too cold outside, too populated inside. room of requirement, for once too dangerous.
+
+- its obvious the yule ball is still going on, because the paintings are gossiping amongst themselves and the ghosts are the ones delivering the gossip. now, the paintings and ghosts are all very nice to kanato, much nicer than any of his peers. his peers who run into him and, perhaps riding the high of the yule ball, arent holding back on their criticisms tonight.
+
+- Kanato leaves them behind, not as untouched as he looks on the surface.
+
+  
+
+9.5: as the staircases move and change, that same group of slytherins runs into watarai hibari. who seems perfectly fine, not at all cross today, but hes got a curious look on his face, like hes searching for someone.
+
+- have you guys seen kanato? he asks them, dimwitted. and if they were mean to kanato to his face, then theyre much meaner to kanato behind his back.
+
+- (In the background, theres someone more nasty than a group of slytherins-- and thats one of hibaris own gryffindors on his quidditch team. to this gryffindor, henceforth called shirogane, hibari gets everything. hes the captain, the school sweetheart, the guy who gets the girl, and now a rockstar, too. isnt that so unfair? funny enough, this gryffindor gets along well enough with the slytherins in their mutual disdain of hibari and recently kanato.)
+
+- kanato.. who is still wandering about, unsure of where hes going. and hibari doesnt seem to be having any luck finding him. heading in the opposite direction, on the other end of the school, until he runs into one of the resident ghosts, who is quite nice about kanato actually, and tries to help Hibari by telling him where he last saw Kanato.
+
+- No luck. maybe hibari even happens upon akira and seraph, who havent seen kanato either. maybe he even tries the room of requirement-- still nothing. is there anywhere left to check?
+
+- he checks the kitchens and the other out of bounds places. hes on good terms with the elves. he even checks some of the classrooms and the teachers officers. hes been running around the castle for an hour or two at least, when nearly headless nick passes by, scaring hibari out of his skin. nick says he scared the kanato boy way harder, what a scaredy cat that guy is.. etc. until nick gives kanato away-- hes on the third floor.
+
+- meanwhile on the third floor, Kanato is unnerved. hes not good with horror, and hogwarts can be freaky eonugh on its own. but its restricted floors? whyd he come here again? because it was safest, he argued. whatever spooks are lying in wait, arent as trying to deal with as his human cohort right now. honestly, hed even take the whomping willow over the yule ball and hibari and his girlfriend.
+
+- there isnt anything on the third floor, really. so kanato sort of keeps going until he hits the stairs taking him down past the headmasters office, near the clock outside, where he sits on the steps for a bit. the ghosts have been telling him hibari had been looking for him, so he doesnt rly want to stop walking, in case hibari catches up. he really wants to be left alone right now. so round and round he goes, wearing out his feet, until hes just wishing.. god, a place to hide. from everyone, even *him*.
+
+- and so comes the room of requirement-- not with his usual hideaway, but instead with the room of hidden things.
+
+- hibari cannot find kanato, no matter how hard he tries. he goes back and asks and begs the room of requirement to please open, let me in pleease.. it denies him, stalwart.
+
+- the ghosts, which have become curious about him, checking in every so often, even relay a message from Kanato, which goes as follows: 'leave me alone tonight, watarai.'
+
+- which for hibari, causes pause. kanato hasnt used his surname in a while. it was like taking three steps backwards.. and also confirming that kanato is grumping it up somewhere, sulking.
+
+- but Hibari cannot find him.
+
+  
+
+10. Winter holidays. Class is off for the season and the place is starting to empty out. Anyone who stayed for the Yule Ball (miniature, since the Triwizard Cup was permanently banned after the return of the Dark Lord decades ago) but doesn't want to stay for season also leaves. Akira, Seraph, Lauren, and several others-- Kanato and Hibari included, stay.
+
+-  hibari tells them he remembers that kanato wasnt going home for the holidays. and he knows kanato has turned up for breakfast and dinner, bc hibari *sees* him but is always held back by his own posse (the dinner table alliances are something of an unbreakable rule).
+
+- but theres so few people in the castle now and yet still kanato is so hard for him to track down. hes starting to get really mad
+
+- hibari squeezes the slytherin commons password out of a slytherin girl with a crush on kanato, with some well placed pleading. kanato isnt in there either-- a lot of the slytherins are gone too. its completely empty. the dungeons are awful. why dont they move the slytherin commons somewhere nicer? no wonder kanato hates this place.
+
+- hes bordering on ripping his hair out, hanging out on his own at the quidditch pitch. he tries hogsmeade. no. the black lake, freezing his ass off. no. with how everyone seems to say kanato scares easily, he doesnt try the scream shack or the whomping willow.
+
+- maybe kanato rly has gone home for the winter? thats so lame of him, he didnt even send a letter... hibari thinks this must be true, and so resigns his rage to disappointment.
+
+- and its at the moment he heads back, defeated, that the room of requirement, perhaps acknowledging hes over his anger.. opens the room of hidden things. this must be where kanato is. it must be, or it wouldnt have opened.
+
+- the moment the doors open, kanato knows. its a big fucking room-- he wont let hibari find him.
+
+  
+
+11. suddenly, the hunt is on. kanato really does not want to b e found, but hibari can outrun him, so its hide and seek in the room of hidden things.
+
+Sidenotes: Hibari most certainly has the upper hand. His keen senses and agility as boy of phantom thief lineage grants him a huge advantage, especially in a room full of small trinkets that Kanato can easily rustle, knock over, trip on, etc.
+
+Kanato will do a good job of outmanoeuvring him for a while-- he's still more clever than Hibari, and utilises his wits and knowledge of Hibari's way of thinking and diversions created with his wand to avoid detection. He does so well that for a while, Hibari begins to doubt Kanato is even here. And then Kanato knocks over a goblet. Hibari calls out immediately, and Kanato retorts with 'Leave me alone, Watarai! Get lost!' (Which stings a bit again-- Kanato is meant to call him *Hibari*.)
+
+- usually kanato calls him hibari, so its like taking three steps back in what he thought was a friendship. but with how long kanato has been avoiding him, the stakes for him would be less fun and more frustrating. kind of both. kanato is blonde, after all, and hibari is a seeker.. his very own golden snitch.
+
+SIDENOTE: hibari is something of an ambush predator. in a game of endurance, kanato wins. except kanato doesnt account for how easily hibari might navigate this terrain. hes a seeker, a gryffindor, and a halfblood, yes. but one thing nobody knows about him? hes also a thief. he knows how to be patient. how to wait for the moment. how to steal his prize, how to snatch a snitch from the air. he masks his steps, erases his presence. for a while, he waits. listens. as he walks, he gets closer, he can hear it.
+
+IMPORTANT: "The golden snitch." > As the chase becomes more chaotic and high-tension, Hibari begins to get excited. Kanato is his very own golden snitch-- he's blonde after all, it fits so well! Kanato continues to escape, but Hibari is a seeker. This kind of shit? Is what he *lives* for.
+
+11.5: kanato.. hes catching his breath behind a trunk against a pillar, covered in a pile of gold trinkets and broken chairs and other whatnots. thinking hibari is gone, finally.
+
+- maybe hes given up and kanato can go back to his solitary days-- the thought pangs him, but its better than beign at home with his father and his young master title-- when something breathes in his ear, "gotcha."
+
+- that hibari just whispered in his ear-- that would send blood rushing straight to his face. and its startling, hed probably scream.
+
+- as for hibari.. hed probably be pretty mad about being ghosted for so long, even if hes calmed down a bit, even if catching his very own snitch was a little fun. and this annoys kanato, when he says these things, because he doesnt even know what hes saying. 
+
+- but Kanato isn't done, he pulls away from Hibari (with surprising force) and even if Hibari leaps forward to yank on his wrist, he jerks out of reach and shuts himself inside the nearest place-- a closet.
+
+- Hibari whines, knocks. whines more, tries to open the handle. no reply comes. now he just feels upset; sad, and a little angry. and then the door gives way-- Kanato is not inside.
+
+  
+
+12. Kanato is spat out at bourgin and bourkes. the cabinet he stepped into? the vanishing cabinet.
+
+- holy shit. thinks kanato. fuck no. he hates this shop. but if he goes back in the cabinet, he has to face up to Hibari. and that? he doesn't want to deal with.
+
+- after freaking out a little, Hibari decides to follow him through the cabinet.
+
+- So the Vanishing Cabinet spat both of them out at Borgin and Burkes, but Hibari initially doesn’t notice Kanato, thinking he must have run off.
+
+- unbeknownst to hibari, kanato has something of a familiarity with knockturn alley. after all, his fathers a dark wizard. so while its dangerous for the fura heir to be running around on his own, he at least knows how to navigate it. hibari though? hes starting to worry sick, because its not as if he knows that.
+
+- the longer it goes on, the more shady stuff hibari sees, and the more anxious he gets. hes a gryffindor, hes not going to go back, and hes sure kanato can take care of himself, but what if he cant? he gets approached a few times by suspicious individuals. as a half-blood that's raised almost entirely like a muggle with a few exceptions, he's not at all familiar with this place.
+
+- as for kanato, hes not exactly disguised, and hes decently high profile. the heir to a wizard mafia, unguarded, parading about alone? to the more unsavoury individuals in knockturn.. hes basically a walking target.
+
+- kanato, for his part, is doing his best to stay collected. but knockturn alley is creepy as hell. underneath his poise, hes freaking out. he was just trying to lock hibari out. he didnt know that wardrobe was a fucking vanishing cabinet. that led to knockturn alley, no less. what. the. hell.
+
+- and now hes cornered, in some cramped stone space, by too many people to fire a spell at. how does he hold them off?
+
+- he doesnt. he tries to, he tries some sort of blow back spell, he does, but they all know he is and theyre all in it to get their paws on him and sell him for ransom. why does the magic world have infinitely less defining laws than the muggle realm? good grief. this is what hes thinking, as they start to grab at him, and he starts to panic.
+
+- meanwhile, hibari is lost in the maze, and freaking out.
+
+- in roughing kanato up a bit, they knock his glasses off his face and forget about them as they drag him off.
+
+glasses hibari will pick up shortly later.
+
+- he finds Kanato in a warehouse, surrounded by freaky men, bound with enchanted rope. he cant fight them directly, so he forms a plan to set fire to a bunch of wooden boxes by breaking a few lanterns, and then flashbang them to stun them further and get Kanato out of there.
+
+- but hibari cant get the countercurse for the magic ropes right, and after two tries and a lot of freaking out, he ends up just carrying kanato bridal style. which is embarrassing for kanato, but at least he can see forward. he directs hibari through knockturn alley back to diagon, hibari nimble enough to evade capture.
+
+  
+
+13. i think once hibari reaches safety, hed find a relatively secluded spot and dump kanato on the floor. furious.
+
+- because its fucking ridiculous and immature. and kanato scoffs and says he didnt know it was a fucking vanishing cabinet, what is he, omniscient? what he should know, snaps hibari, is that he couldve *died*.
+
+  
+
+> “I didn’t know it was a Vanishing Cabinet, alright? What do you think I am, omniscient? I just wanted to—”
+
+“To what? Lock me out?!” Hibari cut him off, his voice rising. He took a step closer, his frustration boiling over. “You could’ve died, Kanato! Do you get that? Died. And for what? To avoid me?”
+
+Kanato flinched at the sheer force of Hibari’s words, his usual composure fracturing for just a moment. His eyes darted away, his jaw tightening. “I wasn’t… I didn’t mean for it to happen,” he muttered, his voice quieter now.
+
+“Yeah, well, it did happen,” Hibari snapped, his hands gesturing wildly. “Do you know what it was like? Running around that hellhole, not knowing if you were hurt or—” He broke off, his voice catching. He took a deep breath, forcing himself to calm down, but his hands were still shaking. “You scared the hell out of me.”
+
+Kanato looked up at him then, something in Hibari’s voice cutting through his defensiveness. His expression softened slightly, though his words remained clipped. “I’m fine. We got out. You don’t have to freak out.”
+
+Hibari let out a bitter laugh, throwing his hands in the air. “Oh, great! Kanato’s fine, everyone! Guess that means I shouldn’t care, right? Because it’s not like you were almost kidnapped or anything!”
+
+“I didn’t ask you to follow me!” Kanato shot back, his voice sharp again.
+
+“Of course you didn’t,” Hibari said, stepping closer, his voice low and tense. “Because you never ask for anything. You just bottle it all up and deal with it alone. Like some kind of—of—martyr!”
+
+Kanato’s cheeks flushed, his head snapping up. “I don’t need your pity, Hibari.”
+
+“Good,” Hibari said, his eyes blazing. “Because this isn’t pity. This is me being pissed off that you don’t value your own life enough to be careful.”
+
+They stood there in the silence that followed, the tension hanging thick in the air. Kanato’s lips parted as if he wanted to argue, but no words came. He looked away, his shoulders stiff.
+
+“I—” Kanato started, but Hibari cut him off, his voice quieter now but no less firm.
+
+“Just… stop doing this,” Hibari said, his hands dropping to his sides. “Stop shutting me out, running off, pretending you’re fine when you’re not. I can’t—I can’t keep chasing you like this, Kanato.”
+
+Kanato stared at him, his expression unreadable. He opened his mouth to reply: 'I didn't ask you to,', but he's cut off:
+
+"Let's just get back to Hogwarts." Muttered Hibari.
+
+  
+
+- they dont have floo powder, or a flying car, or anything like that. so they sneak into platform 9 and 3 quarters to take the train to hogwarts. kanato follows hibari almost glum, and hibari doesnt elt him out of his sight, cross. he waits at the train just to verify that kanato gets on the damn thing, because godk nows where hell run off to next.
+
+- kanato slams the door to his compartment shut on him, hibari would probably pick it to get in. which is fair, hes had enough.
+
+- hibari doesnt sit well through the silence. he bounces his leg, folds and unfolds his arms, ends up folding them. scowls. and then he comes out with it. what on earth woudl compel someone to want to run off so badly that they end up at the black fucking market? and kanato doesnt want to entertain this conversation, so hibari goes on. nevermind i was breaking my ankles searching the castle high and low. i bribed someone to get into th eslytherin commons you know. 
+
+- the black lake. so fucking cold man. hogsmeade wasnt even interesting. hibari keeps going, venting all his furies. he went here, did that, checked there, couldnt find anything. he details every place he went to, and the more he talks the worse kanato feels. the room of requirement wouldnt let him in at all. hed thought kanato mightve gone home for the winter without saying anything, but not even seraph or akira had a clue. the more he talks, the more annoyed kanato gets: did it ever cross your mind that i didnt want to be found?
+
+- kanato inevitably stones him out and glares out the window, but hibari, who is a bit of a freak himself, says, dont even think about jumping out the fucking window. and kanato is, at first, stunned, because 'what kind of crazy person would jump out the window of a moving train?' and then hibari argues, just to be unreasonable
+
+-  kanato opens the window to taunt hibari, so hibari jumps him. and while theyre having something of a tousle on the floor, with kanato trying to wriggle out of hibaris grip, theyre snapping at each other-- kanato says that not everyone is a deluded gryffindor, and hibari snaps back by asking if all slytherins are fucking cowards. so the fight escalates until hibari cracks.
+
+  
+
+> “What the hell are you doing?” Hibari barked, his voice raised over the noise.
+
+“Proving a point,” Kanato replied coolly, his pale blue eyes narrowing.
+
+“Are you insane?” Hibari snapped, his body already moving forward.
+
+Kanato shrugged, his hands resting nonchalantly on the window frame. “Maybe. Isn’t that what you always think of me anyway?”
+
+That was it. Hibari lunged, grabbing Kanato by the front of his robes and yanking him away from the window with more force than he intended. They tumbled to the floor in a chaotic heap, Kanato hissing in irritation as Hibari pinned him down.
+
+“Let go of me!” Kanato snarled, struggling against Hibari’s grip.
+
+“Not until you stop being a complete idiot!” Hibari shot back, his hands fisted tightly in the fabric of Kanato’s robes.
+
+Kanato wriggled, trying to push Hibari off with his one free arm, but Hibari’s hold was unrelenting. “You’re the idiot! Tackling me like a lunatic—what the hell is wrong with you?”
+
+“What’s wrong with me?” Hibari’s voice rose, his frustration spilling over. “What the fuck is wrong with you? Opening a window on a moving train, taunting me like—like this is some kind of game?”
+
+Kanato glared up at him, his chest rising and falling quickly. “Not everyone’s a deluded Gryffindor who thinks they can fix everything with sheer force of will!”
+
+Hibari froze for a moment, his sharp eyes narrowing into a glare. “Oh, is that what you think?” he asked, his voice dangerously low. “That Gryffindors are deluded? That we’re just playing at being heroes?”
+
+Kanato scoffed, twisting his head to the side. “You’re always playing. Always charging in without thinking, always acting like you’re invincible.”
+
+“And what about you?” Hibari snapped, leaning closer. “Are all Slytherins fucking cowards, or is that just you?”
+
+Kanato’s breath hitched, and his eyes blazed with anger. “What did you just say?”
+
+“You heard me,” Hibari growled. “You’re a coward, Kanato. You run and hide and push people away, and for what? To protect your stupid pride?”
+
+The two of them grappled on the floor, the fight escalating as they pushed and pulled at each other, their words cutting deeper with every exchange.
+
+“I don’t owe anyone anything!” Kanato spat, shoving at Hibari’s shoulder.
+
+“That’s bullshit!” Hibari shouted back. “You don’t get to just disappear and leave people behind without a second thought!”
+
+“I didn’t ask you to come after me!” Kanato fired back, his voice cracking with frustration.
+
+“And I didn’t ask to care about you!” 
+
+  
+
+Hibari snapped, his words slicing through the air like a knife.
+
+The air between them was electric, charged with the weight of Hibari's words. Kanato lay frozen beneath him, his pale blue eyes wide with something between shock and pain.
+
+"I didn’t ask to care about you," Hibari repeated, quieter this time, his voice thick with frustration and emotion.
+
+Kanato’s expression shifted, the raw hurt flickering for only a moment before it was buried beneath a mask of icy neutrality. His lips pressed into a thin line, and he let out a bitter, humorless laugh.
+
+“Is that so?” he said, his tone cutting and cold, like a blade honed to perfection. His pale blue eyes narrowed, his disdain palpable. “Then maybe you should stop.”
+
+Hibari’s chest tightened. “Kanato, that’s not—”
+
+But before he could finish, Kanato moved with a speed and force that caught him off guard. With a surprising burst of strength, Kanato shoved Hibari off him, the momentum sending the Gryffindor sprawling onto the floor.
+
+For a moment, Hibari was stunned, blinking up at Kanato as he stood. The Slytherin’s face was a mask of cold indifference, but his hands trembled as he straightened his robes.
+
+“You’re insufferable,” Kanato said, his voice sharp and biting.
+
+“Kanato, wait—” Hibari scrambled to his feet, but Kanato was already storming out of the compartment, his steps quick and purposeful.
+
+The door slammed shut behind him, and Hibari lunged for it, his hand fumbling for the latch. But as he tried to pull it open, he heard the distinct sound of a locking spell snapping into place.
+
+“Kanato!” he shouted, banging on the door, but there was no response.
+
+Kanato didn’t look back. His heart pounded in his chest as he strode down the narrow corridor, his wand gripped tightly in his hand. Each door he passed received the same locking spell, the sharp flick of his wand punctuating his footsteps.
+
+The cold air from the still-open window in their compartment clung to him, but he ignored it, his mind a whirlwind of emotions he couldn’t sort through. Hurt, anger, embarrassment—it all swirled together, suffocating him.
+
+He reached the other end of the train, finding an empty compartment and locking the door behind him with a spell more intricate than the others. His hands trembled as he collapsed onto the bench, leaning forward and burying his face in his hands.
+
+Why did it sting so much? Hibari’s words had cut deeper than Kanato cared to admit. He wanted to believe that he didn’t care, that it didn’t matter, but the ache in his chest told him otherwise.
+
+Meanwhile, Hibari stood outside their compartment door, his fists clenched in frustration. He could hear the faint click of locks being cast farther down the corridor, each one driving home how far Kanato was trying to push him away.
+
+“Damn it, Kanato,” Hibari muttered under his breath, raking a hand through his hair.
+
+The cold wind still rushed in from the open window, and Hibari leaned against the door, exhaling sharply. He could chase Kanato, pick every lock, corner him again—but something told him it wouldn’t help. Not right now.
+
+So, for now, he stayed where he was, the sound of the train rumbling beneath him as he stared out at the endless snow-covered fields rushing past.
+
+  
+
+14. when they get back to hogwarts, they both get detention. it feels like a betrayal of hogwarts secrets to out the cabinet to the teachers, so they suck it up, not speaking to each other.
+
+- for kanato, he got what he wanted. distance. this way, he can keep his dark little legacy to himself, and the gossip will stop spreading and dragging hibari down with him.
+
+- for hibari, hes furious at kanato, but its giving way to something like desperation and upset. is it that bad for kanato to have one friend? maybe kanato doesnt know why friends are important?
+
+- do friends go to knockturn alley, feeling like theyre being eaten up inside when the chase in the room of hidden things turns into a rescue?? no, hibari realises. they dont. hes in love with fura kanato, and kanato hates his guts.
+
+- all of this is internalised as they sort books in the library, serving detention, and missing dinner.
+
+  
+
+> He thought about the way Kanato had shoved him off in the train compartment, the cold indifference in his voice when he’d said, Then maybe you should stop. Thought about the way Kanato had locked every door on his way to the other end of the train, as if physically shutting Hibari out of his life.
+
+And yet—Hibari couldn’t stop thinking about the way Kanato had looked in Knockturn Alley. Cornered, vulnerable, scared. How he’d clung to him as they fled. That wasn’t indifference. That wasn’t cold. That was—what was that? Trust? Fear?
+
+Desperation?
+
+Hibari’s fingers tightened around another book as he slammed it onto the cart, this time loud enough that Kanato flinched slightly.
+
+“Would you keep it down?” Kanato said, his tone sharp but quiet. “We’re already missing dinner. Do you want to make this worse?”
+
+“Oh, I’m sorry,” Hibari shot back, his voice dripping with sarcasm. “Am I disrupting your precious peace and quiet?”
+
+Kanato didn’t respond, his jaw tightening as he turned back to his stack of books.
+
+Hibari stared at him, his frustration giving way to something heavier. Something raw. He thought about what Kanato wanted—distance. That was clear. Kanato had gone to extraordinary lengths to push him away, even risking his own safety. But why?
+
+Hibari thought about the chase in the Room of Hidden Things. The thrill of it, the way his heart had raced. And then, the fear. The gut-wrenching, all-consuming fear when Kanato had vanished. When he’d realized where the cabinet led. When he’d found Kanato in that cramped stone corner, surrounded by people who wanted to hurt him.
+
+Hibari had been terrified. Not just for Kanato, but because of what it had meant. Friends didn’t do this. Friends didn’t put themselves through hell for each other like this. Friends didn’t feel like this.
+
+And that’s when it hit him.
+
+Hibari’s hands stilled on the next book, and he stared down at the faded title, not really seeing it. He was in love with Fura Kanato.
+
+And Fura Kanato hated his guts.
+
+  
+
+- after detention, kanato practically storms away, skipping dinner. by the time detention is out, hibaris anger has burnt out and left something like a gaping hole of *sad* and *empty*.
+
+- now that all the adrenaline has worn off, hes just tired. and upset. hes upset because kanato keeps walling him out, and no matter how hard he tries, he cant get through it. arent life threatening situations meant to bring people closer, not further apart? 
+
+- hes upset. because hes just figured out hes in love with kanato, but kanato is as good as lost.
+
+- as for kanato. he is in no mood for games. so he heads straight for the slytherin commons, changes  the password first and foremost, and goes inside.
+
+- he quells any immediate goading with instant threats, instantly reinstating himself as top dog for a reason.
+
+  
+
+interlude 3 ('Sorting Nostalgia')
+
+- when kanato came to hogwarts, he was hoping hed make some friends. but the sorting hat put him in slytherin,
+
+where hierarchy is about blood ties and strength and ambition and who is the most conniving.
+
+- 'the world still needs people like you, who do the dirty jobs because  someone must do them'. thats what the sorting hat had told him, before calling out *slytherin*.
+
+- kanato understands. even if he doesnt like it, someone has to do it, right? and dragging people down with you starts with gossip. people dont forget.
+
+- And then there was Watarai Hibari.
+
+- truthfully, kanato remembers hibari. they met when they were kids, but it was a fleeting thing. the sort thats easy to forget. kanato had forgotten what his one-digit-aged friend looked like too, until he saw him on the stool a number of kids after kanato. the hat hadnt even touched his head for more than a millisecond before it shouted gryffindor.
+
+- kanato remembered that kid. that kid gave him the taste of freedom. but in hogwarts, its different. its big and unruly but in truth, its very small and very crowded with voices. he lived listening to hibari from afar. watching. wondering, is that him? the boy from the best part of my childhood? it cant be. and then hibari approached him at potions and offered his hand and kanato knew it was.
+
+- and he cant. he really cant let that little ray of sunlight in his life go dim because he let it.
+
+- Kanato didn’t understand him. The Gryffindor seeker was everything he wasn’t—bright, open, unapologetically himself. He moved through the world with an ease that Kanato couldn’t fathom, his laugh loud, his smile easy. People gravitated toward him like moths to a flame, and Kanato… well, Kanato had been drawn in too, though he’d tried not to show it.
+
+- But Hibari wasn’t like the others. He didn’t just laugh and smile—he looked. He saw. And for some reason Kanato couldn’t quite figure out, he kept looking at him. It was dangerous. It was reckless. And Kanato hated how much he wanted it. Because if he doesn't stop... well.
+
+- he doesnt want hibari to be a victim.
+
+Sidenotes:
+
+- For Seraph, it was a toss-up between Gryff and Huffle. But the hat decided on Huffle, because more than being loyal and brave, Seraph needed a place to feel welcome and like he belonged.
+
+- For Akira, it was a huuuuuge hatstall between Ravenclaw and Slyth. But the hat decided on Ravenclaw, because in the end, Akira only resorts to conniving stuff when he has to.
+
+  
+  
+
+15. January. School is back in session.
+
+- this is ideal. kanato tells himself, walking past hibari in the corridor. this is ideal, says kanato, ignoring hibari in potions, even as hibari does everything wrong. this is ideal, kanato convinces himself, when hes punting hibari rather cruelly off the stage in defense against the dark arts. 
+
+- hibari thinks: I hate this.
+
+someone appraoches kanato. its hibaris alleged girlfriend-- one of the gryffindor chasers. shes asking about kanatos drills-- the ones he used to do with hibari, where hed fire off spells and hibari would dodge. she wants to try them too. who can she ask, is it a slytherin thing because its against the rules?
+
+- shes really .. airheaded. why does she need to ask kanato for permission? hes stumped, distractedly so. and he starts describing how, where and what spells to her so she can help coach her teammates.
+
+- hibari spots them. kanato, getting friendly with a gryffindor. it means hes up to talk, right? and he knows her, too, the gryffindor chaser! yippee, he can wheedle his way into a conversation. and he does-- at least, he tries. 
+
+- to kanato, it looks like hibari is trying to tell him to back off. after all, he believes this girl must be hibaris girlfriend, or at the very least, more than friends. he did choose her to take to the yule ball after all. it doesnt matter to kanato though. he doesnt want to talk to hibari anyway.
+
+hibari hates this with a passion. hes never seen kanato like this. not even at the start. hes always been more-- feisty isnt the word, but receptive, maybe? hes a cheerful guy, hibari knows, underneath all the stiffness that being a prefect requires.
+
+- hes a born leader, sure, but he can be as much of a goofball as hibari himself sometimes. and after the fight in the train, hibari hasnt had a shot at kanato. kanato just keeps shutting him out. over, and over. over and over and over. hibari hates it.
+
+- he confides in seraph and akira. seraph wonders if he should just give up. affronted, hibari.. doesnt entirely agree. b ut maybe seraph is right. akira says its the logical thing to do. but then hibari steams a bit, thinking. i dont want to, he says. and the others just sigh. typical gryffindor.
+
+  
+
+16. heres nothing you can do but wait, is what they leave him with. and it follows hibari everywhere. 
+
+- hes got this aching nag in his  chest because its more than just the fact he likes kanato very much, but isnt the way kanato acts proof hes miserable? hibari donest know why he thinks that, he just does. he thinks he knows kanato well enough by now.
+
+- but maybe seraph and akira are right-- waiting doesnt mean giving up. its like being an ambush predator. waiting for the moment to strike.
+
+- even if it takes days. so hibari endures it, the classes. the dining sessions. etc.
+
+- while hes waiting, watching to strike, hibari notices things about kanato he didnt before, from a distance.
+
+- like the letters he receives in the morning mail. ones in neat, normal envelopes, with kanatos family seal on the front. kanato reads them, and then scrunches them up and burns them every time, throwing the ashes over his shoulder.
+
+- his shoulder, hibari notices, in the hallways, he checks over very often, his gaze going places far away. sometimes he pauses and takes a stride around corners rather than turning one like a normal human.
+
+- the glasses, hibari has always known were fake. but sometimes kanato forgets to wear them, or maybe they break, and these are the rarest moments, but sometimes his right eye-- without the glasses. it seems milky, or hazy, or sometimes it flickers.
+
+- hibari begins to understand. llike always, kanato is hiding. but hes hiding from more than just hibari.
+
+- what does a seeker do when their golden snitch hides? hibari asks himself. he seeks, obviously. and now, hibari is hunting. not chasing, not yet.
+
+- but hes watching. observing. looking for what kanato is hiding from. looking for what kanato is hiding. he begins to think. kanato knew the way through knockturn alley. kanatos really good at defense against the dark arts. kanatos lenses are fake, and hes cautious of his own house mates. hibari thinks back to the joke kanato made about being a dark wizards son.
+
+- he asks seraph and akira. akira scoffs. you didnt know? he says. kanatos father is like, the wizard mafia.
+
+  
+
+> “Kanato’s father,” Akira began, his tone matter-of-fact, “is Fura Masamune. You know, the Fura Masamune. The wizard mafia. One of the most powerful dark wizards still walking free.”
+
+The words hit Hibari like a Bludger to the chest. He stared at Akira, waiting for him to laugh, to say it was a joke, but the Ravenclaw prefect’s expression didn’t waver.
+
+“He’s practically a legend in dark wizard circles,” Seraph added quietly. “The Ministry’s been trying to bring him down for years, but... Well, let’s just say he’s not someone you want to mess with.”
+
+Hibari leaned back in his chair, his heart pounding. The joke Kanato had made—it hadn’t been a joke at all.
+
+Akira studied Hibari’s reaction, tilting his head. “You’re not seriously surprised, are you? It’s written all over him. The way he acts, the way he moves. He’s been groomed for that world since birth. If you’ve been hanging around him this long and you didn’t notice, well…” He shrugged.
+
+“But Kanato’s not like that,” Hibari said, his voice firmer than he expected. “He’s not…” He struggled to find the right words.
+
+“Not his father?” Akira finished, raising an eyebrow.
+
+“Exactly,” Hibari muttered, his jaw tightening. “He’s not like that.”
+
+Seraph spoke then, his voice calm but pointed. “You’re right. Kanato’s not his father. But that doesn’t mean he’s not living with the weight of it. That’s the kind of thing that follows you no matter how far you run.”
+
+Hibari’s chest felt tight as the reality settled in. Kanato wasn’t just hiding from gossip, from Slytherins, or even from him. He was hiding from the shadow of his father, from a legacy he hadn’t chosen but couldn’t escape.
+
+  
+  
+
+- hibari begins to study-- to the surprise of his cohort. history, that is. recent history. the stuff in the restricted section about dark wizards and dark magic practioners and what, exactly, a wizard mafia is like.
+
+- hibari is a halfblood, sure, but hes a halfblood because *his* father didnt want to live as a wizard. how is hibari supposed to know wizardy history stuff?
+
+- the things he reads about-- assassinations, missing persons, the three illegal curses, organised crime in the wizarding world. it doesnt make much sense to him. but he does see it here.
+
+- the name of kanatos father, in a more recent work on the bottom shelf, unassuming, like some light novel in a bookstore. maybe it was taken off the history curriculum or something. but its here.
+
+- 'the dark wizards that cannot be tried: politics in the magical underworld.' at the top of the list, 'the untouchables'-- there he is, kanatos father.
+
+  
+  
+
+- a chance encounter in the halls leaves Hibari a chance to speak
+
+- now knowing kanatos lineage, kanato would probably remind him very coldly of what hibari himself said: i didnt ask to care about you.
+
+- in hindsight, hibari knows how bad that sounds. its not what he meant, it really isnt. but kanato isnt listening. as hibari fumbles, kanato says, quite chipper, 'its ideal that way, watarai. keep out of my business, and ill keep out of yours.' and off he goes, ocne again leaving hibari, frustrated, in the dust.
+
+- my grades are failing! he shouts as kanato walks off. im getting rusty on the pitch! kanato keeps walking. he desperately calls, kanato!
+
+- kanato glances at him. hes not wearing his glasses. his right eye is going funny again. does he know, hibari wonders. or is it something he doesnt feel?
+
+- 'you can handle it.' kanato tells him. 'manage without me. you did for five years up til now.'
+
+and off he goes..
+
+  
+
+> “My grades are failing!” Hibari shouted, the frustration tearing through his voice like a storm. It echoed off the stone walls, loud and desperate.
+
+Kanato didn’t stop.
+
+“I’m getting rusty on the pitch!” Hibari tried again, his voice cracking at the edges. “Do you know how that feels? To lose at something you’re good at?”
+
+Kanato kept walking, his footsteps steady and unhurried. Hibari clenched his fists, his heart pounding in his chest.
+
+“Kanato!” he yelled, his voice raw and urgent.
+
+This time, Kanato stopped. Slowly, he turned his head, glancing over his shoulder with a detached expression. Hibari’s stomach twisted when he noticed Kanato wasn’t wearing his glasses. His right eye—it was faintly cloudy, flickering with something unnatural. Did he know? Hibari wondered. Could Kanato feel it, or was this something he’d buried so deeply even he didn’t notice anymore?
+
+For a moment, Kanato just stared at him, his blue eyes cold and unreadable. Then, with an air of finality, he said, “You can handle it.”
+
+Hibari’s heart sank.
+
+“You’ve managed without me for five years up until now,” Kanato added, his tone so matter-of-fact it felt like a knife twisting in Hibari’s chest.
+
+And with that, Kanato turned away, walking off into the dim hallway. His figure grew smaller and smaller, swallowed by the flickering torchlight, until he disappeared altogether.
+
+Hibari stood there, his fists trembling at his sides. He couldn’t bring himself to move, his legs locked in place as if the weight of Kanato’s words had rooted him to the floor.
+
+“You’re wrong,” he muttered under his breath, his voice barely audible over the pounding of his heart. “You’re so wrong.”
+
+  
+
+17. he doesnt sleep well. the next day, hibari gets hit in the face with a bludger bat by the Gryffindor kid who secretly hates/envies him, umm... shirogane. totally an accident, right? but it breaks his nose.
+
+- nothing magic cant fix, but hes sent to the emdical wing anyways for a check up. where he sees kanato, who hadnt been in class that day, talking to professor sukoya kana. something about vision and depth perception.
+
+- kanato is wearing glasses again, but this time they have lenses. kanato catches his eye. but there must be something about his conversation that he doesnt want acknowledged, bc unlike all the other times with a carefully neutral facade, kanato tenses, and looks away.
+
+- "its best if someone stays with you for the rest of the day," the professor is saying.. "its too dangerous if you cant see out of one eye."
+
+- Seraph and akira had told hibari to wait for his chance. nows his chance.
+
+olden snitch in his sights, hibari is thinking gleefully-- except thats quickly shut off when kanato takes a wrong step and, to narrowly evade a wall he didnt realise was so close, nearly slips off one of the platforms in the moving staircase section of the castle.
+
+- He really can’t see, Hibari realized, the thought settling in his chest like a stone.
+
+- kanato doesnt acknowledge him, but he looks flustered. hibari doesnt mind that. its a good look on him, he thinks to himself.
+
+- theres a smudge on kanatos glasses-- something he notices while staring a bit too much (he should probably stop that). he mentions it, and kanato takes them off to try and fix it, and Hibari realises that his right eye is just.. blank and dull. blue dimmed to a lightless sort of dead-fish purple. "Kanato... what happened?"
+
+- as if hed forgotten what it looks like without his glasses, he shoves them back on, and pointedly ignores hibari. hibari knows now though ,that its probably pretty serious.
+
+  
+
+18.
+
+- it doesnt go away. professor sukoya asks hibari to escort kanato too, the next day. accompany him to all his classes, since half of them are the same ones anyway. which means hibari will be playing in slytherin territory for a little while, while he helps kanato out. why not ask a house mate, hibari asks the professor. she seems a bit off about her answer. its fine, hibari guesses anyway. kanato isnt exactly friendly with anyone.
+
+- so he does. he plays good boy, helping his golden snitch with everything he needs, and pretending that hes not, because if he was, the slytherins would suddenly get worse than they are about a gryffindor hanging around in their midst. all the gossip that seemed to die earlier kicks straight back up, and kanato looks a bit like he wants to kill hismelf, or kill hibari, but mostly kill himself. its heartbreaking, really. but hibari doesnt say anything. he doesnt want to make it worse.
+
+- the gryffindors arent happy either, as hibari finds out in defense against the dark arts. he sits on the sidelines, because kanato sits on the sidelines, because kanato cant see. the gryffindors arent happy, and theyre getting at the slytherins for it, and thes lytherins are getting right back, and things are getting pretty out of hand. its obvious nobody knows why hibari is tagging along with kanato today, except for kanato, and the teachers, and hibari. so itsn ot like he can explain why. he doesnt want to anyway, its obviously a secret. but soon, the gryffindors and slytherins turn on him and kanato-- the gryffindors demanding answers from their quidditch captain, and jabbing at kanato for stealing him or tricking him or what have you-- and the slytherins jeering at hibari because hes a gryffindor halfblood, and then getting at kanato for leaning on him because he has nobody else.
+
+- the professor had stepped out for a moment to answer an urgent thing about a werewolf, and kanato isnt defending himself. so hibari has to. fine, he says. if you want to pick a fight, we do it proper. one on one. anyone who wants to duel me, lets do it now.
+
+- its the duelling hes done with kanato, hes sure. and he knows dodging is non traditional on the runway, but he doesnt care. his reflexes are faster than most and his flexibility unmatched. and hes got all those duels with kanato under his belt-- he even gets off a nonverbal spell or two. hes taken down three in a row-- two slytherins and a gryffindor, when people start jeering again. stop playing white knight! and hes just a filthy snake, captain! and what is this, a girls comic? and hibari has had enough.
+
+- at once, his demeanor drops short. hes gone beyond the point of loud anger. now hes just very cold. hes disappointed in them. are they grade schoolers? arent they honorable? the gryffindors, he says, are meant to be honorable and pious. and the slytherins he says, dont they have pride in their lineage? and yet theyre both here making cheap shots at a kid who rarely ever defends himself because their heads are too up their own asses. its not about defending anyones honor. its about being honorable.
+
+- they shut up. but they dont seem pleased.
+
+- when they leave, kanato is furious with him. sptting that cold venom like he always does. im not your damsel, watarai. youre not my hero.  blah blah blah. hibari doesnt care. hes annoyed at his house and at kanatos house because theyre dimwitted sacks of rotten eggs. and why does it feel his speech made things worse? because it did make things worse, kanato hisses at him. youre not meant to draw attention to us.
+
+  
+
+> “I’m not your damsel, Watarai,” Kanato snapped, his voice sharp and cutting. “You’re not my hero. I don’t need you to fight my battles.”
+
+Hibari stopped, his steps halting as the venom in Kanato’s words sank in. “Seriously?” he said, his voice rising slightly. “I just took down three people because they wouldn’t stop hounding you. And you’re mad at me?”
+
+Kanato whirled around, his glasses catching the dim light as he glared at Hibari. “Yes, I’m mad at you! You’re making things worse!”
+
+Hibari threw his hands up in exasperation. “Worse? How could it get worse? Both houses were about ready to start throwing punches at each other. At least I shut them up.”
+
+Kanato’s glare hardened. “You don’t get it. You’re not meant to draw attention to us.”
+
+“To us?” Hibari shot back, his eyes narrowing. “Or to you?”
+
+  
+
+- kanato pauses. hibari asks him about his eye. what. happened. it takes Hibari pressing him harder to crack him.
+
+- kanato says its f rom overuse. hibari says, for what? like, seeing? 
+
+- No, idiot. kanato snaps. its magic, obviously.
+
+- kanato looks like he wants to curl up and die. or maybe its not like that at all. maybe hes actually waiting for someone to hit him for being found out, or, maybe hes waiting for hibari to start mocking him or something. or maybe hes waiting to get his throat slit now that his secrets out. but that doesnt make sense, because why would he be afraid of unveiling something so mundane?
+
+- so what? hibari says. is that really it?
+
+- kanato seems.. out of sorts, after that. you dont get it. he mutters, small. 
+
+- hibari stops, and he thinks. and his EQ is quite good, really, so he just needs a while to put the pieces together.. and then he softly says, is that what you hate about yourself?
+
+- Kanato doesn't answer.
+
+- he follows kanato, because kanato still cant see. where do you want to go, he asks. kanato says nowhere in particular. so hibari steers him toward the room of requirement.
+
+- he thinks about it. overuse of magic. it makes sense, its the things hed read about back home in fantasies. but why would kanato overuse his magic anyway? put the pieces together, hibari thinks to himself. think think think. knockturn alley. the fura mafia. something happened, hibari decides, as they pass through the rooms doors.
+
+- kanato sits down on the couch and doesnt protest when hibari takes his glasses for him. hes too tired. something happened, it was bad.
+
+- who hurt you? hibari asks.
+
+- kanato says it doesnt matter anymore-- besides, nobody hurt him. he hurt them. 
+
+- he takes a pause after this, but hibari isnt really phased. just sad. The words hung in the air, heavy and sharp. Hibari blinked, caught off guard. “What for?” he asked, his voice steady despite the knot forming in his stomach.
+
+- they were from knockturn alley that night, kanato tells him, resigned. they werent here for me. they were here for you, to get at me.
+
+- cue soft moment of realisation (why didn't you tell me? vs it wasn't your problem. youre better off not knowing.) that melts into soft moment of support
+
+- then, how long does it take for you to recover? hibari asks him.
+
+- kanato says its never been this bad before, so he doesnt know. hibaris heart squeezes. he was really just dealing with it like it was normal. he asks for an estimation. kanato says a week, maybe.
+
+- okay. says hibari. im with you. ill be your guide dog. kanato laughs at that. you are a bit like a dog, arent you hibari says youre not supposed to agree! 
+
+  
+
+19. verything always seems easier in the room of the requirement.  but out in the school? man, the voices are loud. and the gossip spreads fast.
+
+> Between classes, a group of Slytherins cornered Kanato near the dungeons, their sneers sharp as knives. “What’s it like having a Gryffindor lapdog, Fura? Bet your old man’s thrilled about that.”
+
+Kanato didn’t even flinch. “If you’re done embarrassing yourselves, I’d like to get to class,” he said coldly, brushing past them with a poise that Hibari couldn’t help but admire.
+
+But Hibari wasn’t Kanato. By lunch, he’d had enough.
+
+“You’re all so loud,” Hibari said, standing abruptly in the middle of the Great Hall, his voice cutting through the din like a whip. Every head turned toward him, eyes wide with shock. “Do you really have nothing better to talk about?”
+
+The hall fell into an uneasy silence, save for a few awkward coughs. Kanato froze mid-bite, his eyes narrowing at Hibari.
+
+“Leave him alone,” Hibari continued, his gaze sweeping the room. “You think it’s fun to gossip about someone? To spread lies? It’s pathetic.”
+
+Kanato’s jaw tightened, his hand gripping his fork like a lifeline. He stared at his plate, his face carefully blank, but Hibari could tell he was fuming.
+
+When the silence stretched on uncomfortably, Hibari finally sat down, his face burning. He hadn’t meant to make a scene, but the words had just tumbled out. Kanato didn’t look at him for the rest of the meal.
+
+Later, as they walked to their next class, Kanato finally broke the silence. “You shouldn’t have done that.”
+
+“What, stand up for you?” Hibari asked, his tone sharper than he intended.
+
+“Yes.” Kanato’s voice was cold, his gaze fixed ahead. “Now they’ll just come after you too.”
+
+“Let them try,” Hibari said stubbornly. “I don’t care.”
+
+Kanato stopped in his tracks, finally turning to face him. “You should care. You don’t know how far people are willing to go when they think they have something to prove.”
+
+There was something dark in his tone, something that made Hibari’s chest tighten. He wanted to argue, to say that he could handle it, that it didn’t matter. But Kanato’s eyes, hard and tired, stopped him.
+
+  
+
+20. when hibari goes back to the commons that night, something nast yhas happened. one of the gryffindors has been hexed, and the culprit is definitely slytherin!
+
+> “What’s going on?” Hibari asked, stepping closer.
+
+Lauren turned toward him, his usual easy-going expression replaced with something grim. “It’s Yotsuha,” he said, motioning toward the couch. “She’s been hexed.”
+
+Hibari’s eyes darted to the figure slumped on the couch. Yotsuha Umise, one of the younger Gryffindors and a promising Quidditch player, looked pale and shaky. Her hands trembled as she clutched a steaming mug of something one of the older students must have brewed for her. Angry red welts ran up her arms, and her breathing came in shallow, uneven gasps.
+
+“She’s okay,” Lauren added quickly, seeing the alarm flash across Hibari’s face. “But whatever spell hit her… it wasn’t a simple jinx.”
+
+“She said it came out of nowhere,” another Gryffindor chimed in, their voice shaking. “Someone got her on the way back from the library.”
+
+“And you’re sure it was a Slytherin?” Hibari asked, his voice sharp.
+
+“Who else could it be?” snapped the Chaser, the one Hibari had taken to the Yule Ball. “They’ve been looking for any excuse to retaliate since the dueling fiasco. You’re practically living proof, Hibari.”
+
+The accusation hit him like a punch. He clenched his fists, his jaw tightening as he scanned the room. The tension was palpable, anger simmering just below the surface.
+
+- comene xt morning, some more news has broken out-- a twin set of slytherins had been hexed in retaliation. no doubt gryffindor, they say, the gryffindors snap back, how do you know?
+
+- and it goes on like this, because the slytherins cant cite their own attack on gryffindor as proof.
+
+- hibari, still being kanatos eyes, has a bit of a war on his hands. and the teachers dont know hwo to contain it, either, since they really dont know who the culprits are.
+
+- the hex wars persist over the day. slytherins and gryffindors being pulled up both, points docked, and detentions issued. when theyre caught at least. its not  that the medical wing is overrun-- a v ast amount of hexes are unpleasant at best, but  there are cases like yotsuhas on both sides.
+
+- as the day goes on, the gossip starts to become targeted. and the person theyre blaming for this mess ? kanato of course. at least this time, the slytherins want t o take it out on the gryffindors. silver lining is that for once hes not getting it from both sides.
+
+- the next day, the hex wars are getting much sneakier. the blatant offenders removed from the game, those fillign their places a bit more conniving, less likely to be caught.
+
+- some of them bring in prank items, the nasty kind, from the weasley shop in diagon alley, sent to them via mail. and its hard to tell if its collateral or intentional when hibari gets a hex of his own.
+
+  
+
+One moment, Hibari was guiding Kanato through the bustling crowd. The next, a faint whistle cut through the air, and a streak of light shot past his shoulder. Hibari barely had time to register what was happening before the spell struck him square in the back.
+
+It felt like a cold wave washing over him, seeping into his skin and spreading through his body. His legs buckled, and he staggered, catching himself on the wall. A sickly green sheen glimmered on his robes before fading.
+
+“Hibari!” Kanato’s voice cut through the haze, sharp with alarm. He turned, his usually guarded expression breaking into something raw and concerned. “What happened?”
+
+“I…” Hibari’s voice was shaky, his knees weak. “I don’t know.”
+
+Kanato grabbed his arm, steadying him. His grip was firmer than Hibari expected, a silent reassurance in the chaos. Around them, the hallway erupted into whispers and laughter, the crowd dispersing quickly as if to avoid being caught in the aftermath.
+
+“Let me see,” Kanato said, his tone clipped as he inspected Hibari’s back. His sharp eyes narrowed. “There’s residue. It was a hex.”
+
+“Collateral?” Hibari asked, though he doubted it.
+
+“Unlikely.” Kanato’s lips pressed into a thin line. “It was aimed too well.”
+
+Hibari groaned, pushing off the wall. His legs felt like jelly, but he forced himself to stand. “Great. Just what we need.”
+
+“You’re going to the medical wing,” Kanato said, his voice brooking no argument. He started steering Hibari down the hall, his movements uncharacteristically forceful.
+
+“I’m fine,” Hibari protested weakly, though he didn’t resist. His head was spinning, and the cold sensation lingered uncomfortably in his chest.
+
+“You’re not fine,” Kanato snapped. “And if you collapse in the middle of the hallway, it’s just going to make things worse.”
+
+Hibari fell silent, his frustration bubbling beneath the surface. He didn’t want to give whoever hexed him the satisfaction of knowing they’d succeeded. But as the cold seeped deeper into his bones, he knew Kanato was right.
+
+When they reached the medical wing, Professor Sukoya Kana took one look at Hibari and immediately ushered him onto a cot. She cast a diagnostic spell, her expression tightening as the results shimmered in the air.
+
+“A modified freezing hex,” she muttered. “Not deadly, but unpleasant. We’ll need to warm your core temperature gradually.”
+
+Hibari shot Kanato a look that was half-apology, half-defiance. “See? Not deadly.”
+
+Kanato didn’t reply. His gaze was fixed on the faint shimmer of residue still clinging to Hibari’s robes, his jaw tight. For once, his usual mask of indifference had cracked, revealing a flicker of something deeper.
+
+Hibari didn’t know if it was anger, guilt, or something else entirely. But for a brief moment, he saw past the walls Kanato always kept so carefully in place
+
+And then, just as quickly, the mask returned
+
+“Rest,” Kanato said curtly. “I’ll be back later.”
+
+Hibari watched him go, his heart sinking. He wanted to call after him, to say something—anything—that might bridge the widening gap between them. But the words caught in his throat
+
+  
+
+- he watches kanato go, but kanato crashes into a wall. hes still not healed then, his eye. is he going to be okay? he manages fine in the classes slytherins dont share with gryffindors, but hibari is always there to help him navigate between classes. turns out, he is not fine.
+
+- he comes back about an hour later, dragged in by not the slytherins, but seraph and akira, with a much nastier hex of his own.
+
+  
+
+“I was handling it,” Kanato muttered weakly, though his slurred words and uneven gait told a very different story.
+
+“Sure you were,” Seraph said dryly, his expression stoic as ever, but Hibari caught the faintest flicker of concern in his eyes. “If by ‘handling it,’ you mean collapsing in the middle of the hall.”
+
+Professor Sukoya Kana appeared instantly, her wand at the ready as she assessed Kanato. Her expression darkened as she cast a series of diagnostic spells, the light from her wand reflecting in her narrowed eyes.
+
+“A backlash hex,” she muttered. “Poorly cast but still potent. It’s scrambled his equilibrium and drained his magic reserves. He shouldn’t even be standing.”
+
+“Yeah, well,” Hibari said, his tone sharper than he intended. He pushed himself off the cot and stood, his legs steady despite the lingering effects of his own hex. “Because I’m not letting you out of my sight again.”
+
+Kanato’s head snapped up, his eyes narrowing. “I don’t need your pity, Watarai.”
+
+“It’s not pity,” Hibari shot back, his voice steady despite the storm brewing in his chest. “It’s common sense. You’re not fine, Kanato. You keep pretending you can handle everything on your own, and look where it’s gotten you.”
+
+The room fell silent, the tension thick enough to cut with a knife. Kanato looked away, his jaw clenched as if he were fighting the urge to argue. Seraph and Akira exchanged a glance, neither of them saying a word.
+
+Finally, Kanato let out a heavy sigh, his shoulders slumping. “Fine. Do whatever you want.”
+
+Hibari didn’t take the victory as a triumph. It wasn’t about winning. It was about making sure Kanato was okay.
+
+He turned to the professor, his voice firm. “I’ll make sure he doesn’t get into any more trouble.”
+
+  
+  
+
+kanato, still weak, lets the silence drag out. from what seraph and akira say, it seems like the teachers are doing their best to contain the hex wars, but its not going very well.
+
+- kids outwit adults when it comes to pranks and sneakiness, huh? akira notices kanatos eye-- his glasses are still askew-- and asks about it.
+
+- kanato fumbles to right them, but hes still weak, so hibari fixes them first. must be the hex, kanato mutters. hum. (Hibari knows the truth-- but if Kanato doesn't want to speak up, neither does he.)
+
+  
+
+INTERLUDE 4(?)
+
+not long later, its lauren who joins them in the medical wing. he got hexed too, by some sneaky roughcoat slytherin called axia. which is a shame, he says, he likes axia. hes good at quidditch. weirdly enough, lauren doesnt seem the least bit bothered-- and the hex is.. marginally nicer than any of the others in the medical wing. a stinging nettle hex, and not even a bad one. like pulling pigtails.
+
+next to turn up is kanae and kuzuha, two last year slytherins on the verge of an early graduation. they hexed each other, apparently, because they wanted to try it.
+
+  
+
+21. kanae and kuzuha get their hexes sorted immediately. laurens is soothed equally as fast. but the next guy? not so lucky. the hex wars are endless. and when hibari and kanato are unleashed back into the halls, they really are in full swing.
+
+he teachers are doing their damn best to reign everything in. shouting and whatnot. sometimes , it seems to work. the corridors cool and the classes are completed, and then as soon as a teacher so much as looks away, its off to the races. but as soon as it comes time for the quidditch match-- gryffindor vs ravenclaw, its like everyone drops their mitts. quidditch is, after all, the best sport, says hibari. kanato mutters something about baseball. hibari likes that too, he just didnt know purebloods knew about it.
+
+  
+
+“See?” Hibari said with a grin as they made their way to the pitch. “Quidditch solves everything. It’s the best sport.”
+
+Kanato trailed behind him, looking distinctly unimpressed. “Baseball’s better.”
+
+Hibari stopped mid-step, spinning around to look at him. “Baseball? How do you even know about that?”
+
+Kanato shrugged, adjusting his glasses. “My cousin’s obsessed with it. Keeps a whole collection of Muggle memorabilia.”
+
+Hibari blinked, caught off guard. “Huh. Didn’t think you’d know about Muggle sports.”
+
+“I’m full of surprises,” Kanato said dryly, brushing past him to take a seat in the stands.
+
+Hibari followed, still mulling over the revelation. For all Kanato’s pureblood upbringing and sharp edges, there were moments—little cracks in the facade—that hinted at something more. Something softer. It was… interesting.
+
+The stands were already packed when they arrived. The Gryffindor and Ravenclaw teams were huddled on opposite sides of the field, the players adjusting their gear and discussing strategies. The chatter of the crowd was electric, a mix of friendly banter and competitive jabs.
+
+“Alright,” Hibari said, settling into his seat beside Kanato. “Who’re you betting on?”
+
+Kanato gave him a flat look. “Gryffindor’s captain is sitting here next to me.”
+
+“So… Ravenclaw, then?” Hibari teased.
+
+Kanato sighed, pinching the bridge of his nose. “I’m not betting.”
+
+“Boring,” Hibari said with a grin, nudging him playfully (FLIRTING!!). “Alright, fine. Just sit there and look pretty.”
+
+Kanato muttered something under his breath that sounded suspiciously like, “I always do.” (OBLIVIOUS!!)
+
+Before Hibari could respond, the sound of Madam Hooch’s whistle cut through the air, signaling prep time.
+
+- Hibari gets onto the field with his dingy broom from his parents' storeroom.
+
+- The crowd erupted into cheers as the players took to the skies, the Gryffindor and Ravenclaw banners waving wildly in the wind.
+
+  
+
+- oh boy-- and play hibari does. hes good. kanato watches from the stands fifty feet in the air, with akira and seraph, naturally.  there isnt much for him to do at first, but as soon as the snitch comes out, hes on it like a cat on a laser dot. the ravenclaw seeker sees it a bit after he does, or maybe theyre tracking hibari rather than the snitch. which is fair.
+
+- hibaris an excellent seeker. best in the school in decades, probably. where will he go, kanato finds himself thinking, when they graduate?
+
+- a lot of rapt (and maybe somewhat spicy) detail about kanatos fixation on hibari as he flies. akira and seraph notice this of course, but say nothing.
+
+-  introduce into the current passive character of kanato, that insatiable drive that put him in slytherin. in this case.. manifesting in something of a somewhat warm interest in hibaris body.
+
+- suddenly, hibaris flight starts acting up. he struggles to wrangle it, slips, and nearly falls, precarious.
+
+- kanato *freaks* out. he is GOING TO FALL.  you know kanato is half blind. so lets see him bolt from the stands aand stumble down the steps, which there are a lot of , because the stands are 50 ft in the air. he might even fall at one point and tumble, but up he gets because by god hed better get there quick
+
+- while kanato is running, akira is fumbling with his wand, trying to unhex the broom. no luck. noluck! nolucknolucknoluck (PANIC). kanato hits the pitch and is still running. seraph realises and hastily tells akira its not the broom-- its his robes!
+
+- just in time, akira changes gears to target hibaris robes and slows his descent. meanwhile, kanato overshoots thanks to his currently shoddy and hibaris body hits him in the upper rather than the midsection bc his depth perception is bad right now
+
+- thanks to akiras countercurse on the robes, which seraph pointed out, little damage is sustained. things look fine. and then, crack- here comes the bludger.
+
+- f a bludger breaks that many ribs, i think itd knock him out.. full force, to the side? ow. if his ribs pierce his lungs, its really bad. thats how bad it is. like. obviously, hes okay, but it could get worse if hibari moves him wrong. the professor reffing comes onto the pitch, professor hayase sou, who blows the bludger dead with her wand. people are freaking out from the stands. kanato croaks at hibari to contineu the game. youd better win, he says, or ill never forgive you, and then his consciousness is sliping a little. akira and seraph join them, and they say the same thing, going with kanato.
+
+- gryff morale is down on the pitch. but hibari has a lot of emotions. terror, a huge swell of affection, more terror, anger. those bludgers werent normal. and it shows-- his fury catches him the snitch. someone hexed his robes too, and someone hexed the bludger that broke a bunch fo kanatos ribs. hibari is understandably angry. he closes out the game with rabid precision, driving the ravenclaw seeker into the support beams of the stadium. the snitch veers toward the ground, and by now he knows a thing or two about how it flies, and cuts it off and jumps, catching it in his hands and landing with anticlimactic precision.
+
+- the announcer says gryffindor takes the game, hes got the snitch, but hibari is busy now, heading for the medical clinic, still holding the snitch in hs hands-- he forgot about it.
+
+  
+
+22. the teachers round up the students in the great hall. makes sense. someone almost died today, and they all know its because of the hex wars. theyre asked to turn in their wands, and the whole day is spent checking them-- until one pings. kanatos.
+
+- i dont expect the medical wing people to be there. his wand would just be there because they wouldve picked it up from the common room after the sweep.
+
+- Kanato would also not be there, even though his wand is.
+
+- of course they argue for kanatos innocence. but now, even lauren is wondering. he liked kanato well enough, sure, but this is kind of suspicious, isnt it? hibari agrees, on a logical level-- except he doesnt, really. he knows it wasnt kanato. thats bullshit, he says, kanato has five broken ribs and had to get his lung fixed. why would he do something this crazy?
+
+for glory? a gryffindor poses. hibari glares at them.
+
+  
+
+INTERLUDE 5 (?) 
+
+lauren wants to be a magical enforcer when he grows up. maybe even make it into thrones with his buddy axia, the special unit. and right here in front of him is, what his friend hibari believes, a typical case of framing.
+
+now is wannabe cop lauren iroas going to sit still? no, lauren thinks. i dont think so.
+
+axia krone is innocent, of course. he happily hands lauren his wand and says go for it. axia is a bit of an airhead. he cant even read properly. he reminds lauren of hibari in that sense. except axia is a lot dumber, if not a bit stronger. but anyway, the wand turns up nothing. so lauren asks what axia knows about kanatos wand. axia says something about it being left in the medical wing, he saw it because he got hexed something nasty. but he doesnt know after that. 
+
+its a good enough lead.
+
+he asks akira and seraph. they tell him the wand had been missing-- so it cant have been around kanatos bludger incident. which meant it was the eye thing, the thing hibari was tailing him for five days straight for. was kanato going in for routine checks to the medical wing for his shady eye? well, if he has, he can ask the prfoesor in charge of the place. she gives him the logs. and sure enough, hes able to noarrow it down to the evening before the quidditch match. a few gryffindors and acouple slytherins all in for hexes.
+
+he corners them one by one. yotsuha has always been on good terms with kanato, in a rivalry sort of way. well, as good as it gets between gryffindor and slytherin. its not her. this dorian guy? lauren doesnt know a thing about, be he burned both his hands on a cauldron two weeks ago, and they havent healed yet. so its not him. in other words, lauren doesnt even have to think about it. he goes right to hibari and says, 
+
+its definitely shirogane.
+
+laurens pretty popular in the gryffindor circle. hes vice captain of the quidditch team after all, so its not like cornering shirogane is hard at all. hes not unkind at first, trying to poke or prod. maybe see if he squeezes out an alibi without bieng prompted. there isnt one of course. slide in something about thehe x wars, and shirogane coughs right up. it matches with the logs, yeah. now its time to put in the squeeze.
+
+auren runs straight to the gryffindor supervisor o tell him what hes found out. yumeoi comments hed make a good law enforcer one day. lauren thinks its very flattering.
+
+  
+
+23. shift perspectives back to our main duo. hibari, who is still really fucking ice cold mad, because the bludgers nearly fucked up kanatos lung when they collided with his ribs. and its shiroganes fault, if lauren was right, that is.
+
+  
+
+It was such a stupid name to be this angry over. A hex war was bad enough, but the idea that someone in his own house had done this—gone so far as to frame Kanato, of all people—was too much. The image of Kanato stumbling, clutching his ribs, flashed in Hibari’s mind, and his fists clenched tighter.
+
+He heard the sound of footsteps approaching and turned to see Kanato, still pale, shuffling down the corridor. His movements were slow, deliberate, his shoulders stiff. Hibari pushed off the wall and stalked toward him.
+
+“Should you even be walking around?” Hibari asked, his tone sharp, though it was laced with concern.
+
+Kanato adjusted his glasses with a measured hand. “I can’t stay in bed forever.”
+
+“You have broken ribs, Kanato. Your lung was punctured.” Hibari’s voice was rising, his frustration boiling over. “You shouldn’t even be out here, let alone walking like everything’s fine!”
+
+Kanato stopped, his expression neutral but his eyes flashing with something unreadable. “What do you want, Watarai? To carry me everywhere? Tie me down in bed? I’m fine.”
+
+“You’re not fine!” Hibari snapped, taking a step closer. “You’re not fine, and you know it. Don’t act like this is normal, like this isn’t—”
+
+“Is that all you came here to say?” Kanato interrupted, his voice icy and cutting.
+
+Hibari froze, his chest heaving with barely restrained anger. “No,” he said after a moment, his voice lowering but no less intense. “I came to tell you that Lauren figured it out.”
+
+Kanato’s expression didn’t change, but Hibari noticed the way his fingers tightened around the strap of his sling. “Figured what out?”
+
+“Who did it. Who hexed your robes. Who hexed the bludger,” Hibari said, stepping even closer. “It was Shirogane.”
+
+Kanato blinked, and for a moment, his stoic mask cracked. “Shirogane,” he repeated, his voice almost too soft to hear.
+
+“Yeah,” Hibari spat. “Your name’s been dragged through the mud, you’ve been put through hell, and it’s all because of some petty grudge from a halfwit.”
+
+Kanato looked away, his gaze fixed on some point in the distance. “I see,” he said quietly.
+
+“That’s it? I see?” Hibari demanded, his anger surging again. “That’s all you have to say?”
+
+“What do you want me to say?” Kanato snapped, finally looking at him. There was anger in his voice now, but it was colder, sharper than Hibari’s. “Do you want me to thank you for playing detective? To march down there and confront him myself? It’s done. It doesn’t matter.”
+
+“Of course it matters!” Hibari shouted. “You almost died, Kanato! How can you just brush it off like this?”
+
+“Because that’s what you do when you’re me,” Kanato said, his voice cutting through the air like a blade. “You brush it off. You move on. You don’t let it get to you, because if you do, they win.”
+
+Hibari stared at him, his fists clenched at his sides. For a moment, the only sound was their breathing, echoing softly in the empty corridor.
+
+“That’s a load of crap,” Hibari said finally, his voice low but steady.
+
+Kanato raised an eyebrow, his expression cold. “Excuse me?”
+
+“You heard me,” Hibari said, stepping closer. “You can lie to yourself all you want, but don’t try to sell me that bullshit. You’re not okay. You’re not fine. And you’re not going to just brush this off like it’s nothing.”
+
+Kanato stared at him, his jaw tightening. For a moment, it looked like he might say something, but then he turned on his heel and started walking away.
+
+“Don’t you dare walk away from me!” Hibari shouted, his voice echoing down the corridor.
+
+Kanato paused, his back still to Hibari. “Let it go, Watarai,” he said, his voice quiet but firm.
+
+Hibari took a step forward, his anger boiling over. “I won’t let it go! Not when you’re like this!”
+
+Kanato turned, his eyes flashing. “Why do you even care?” he demanded, his voice rising for the first time. “Why do you care so much, Hibari?”
+
+“Because you’re mine!” Hibari shouted, the words echoing through the corridor before he could stop them.
+
+Kanato froze, his usually sharp demeanor cracking for just a moment. His lips parted slightly, as if to respond, but no words came. Hibari, though, was just getting started.
+
+"You’re mine," Hibari repeated, softer this time, but no less intense. His fists trembled at his sides as the dam holding back all his thoughts began to break. "You’re my friend," (kanato thinks, ah yes of course, his friend, thats all (not sarcastic)-- and is quite careful about not getting any ideas.) "my golden snitch, my—goddamn idiot!" (?? kanato being confused but not voicing it) "Do you have any idea what you put me through?"
+
+Kanato didn’t answer, and Hibari didn’t wait for him to. The words were spilling out now, an unstoppable torrent. His voice shook, but his body was eerily still, his movements restrained, as if all the energy was being channeled into his words.
+
+"And then that quidditch match," Hibari went on, his voice rising again. "You couldn’t even see, and you still ran onto the field. You took a goddamn bludger to the ribs, Kanato! Five of them broken! Your lung, for Merlin’s sake! And all because some fucked-up idiot thought risking murder was worth it over a stupid, petty grudge."
+
+Hibari’s hands trembled as he reached into his pocket, pulling out the golden snitch he’d caught during the game. He stared at it for a moment, his grip tightening as the memories of the match flooded his mind. The panic, the fury, the sickening crunch of impact—he could still hear it, still feel it.
+
+"I can’t—I can’t keep doing this," he said, his voice softer now but no less pained. "You act like you’re fine, like nothing can touch you, but you’re not fine, Kanato. You’re not."
+
+He threw the snitch at the floor with a sudden burst of motion, the sharp contrast to his earlier stillness making Kanato flinch again. The tiny golden orb hit the ground with a metallic clink before springing to life, its delicate wings fluttering as it zipped into the air. It hovered uncertainly for a moment, as if sensing the tension, before darting in erratic circles.
+
+The snitch’s movement caught Hibari’s eye, and he paused mid-tirade, his gaze following its unpredictable path. His breathing was heavy, his chest rising and falling as he tried to collect himself. For a moment, the room was silent save for the faint hum of the snitch’s wings.
+
+Kanato finally turned fully toward him, his expression as neutral as he could make it, though his eyes betrayed a mix of emotions—surprise, guilt, something deeper that he couldn’t quite mask. He reached up, adjusting his glasses, though it was more of a nervous tick than anything else.
+
+"You’re..." Kanato started, his voice quieter than usual. "You’re insane, you know that?"
+
+Hibari snorted, a weak laugh escaping him despite the turmoil still roiling inside. "Yeah," he said, his voice rough. "But I’m your insane. Just like you’re my golden snitch." (kanato doesnt know what it means, but he wont voice that.)
+
+  
+
+- that doesnt make any sense. kanato says, like hes offended. im not a snitch. and youre the one who said you didnt want to care about me. and as soon as kanato says that, its like his walls go back up. like hes reminded himself of, oh yeah, this is why id distanced myself in the first place. 
+
+- hibari listens to him talk, silently, like a kid being scolded. the snitch continues to zip around, confused. and then hibari starts to cry. the silent sort. hes not a loud crier. and hes mumbling about mistakes and how he hates kanato so much but not really and kanato is growing increasingly distressed because um, is he crying.
+
+- hibari, still crying, mutters unintelligibly about snitches and being a seeker, and maybe quidditch actually sucks. kanato still doesnt know what hes talking about, he repeats, im not a snitch. hibari laughs and calls him stupid. are you dumb? he says. youre blonde, and im a seeker. so youre my snitch. kanato doesnt really know how to respond to that. but hibari is still crying, so its not as if he can really walk off.
+
+  
+
+24. hibari said all of that, and the next day, kanato still didnt really understand the weight of it.
+
+- the hex wars ended after shirogane got expelled for framing kanato and targeting hibari, so things are alright. the gossip has cooled, because the gryffindors understand kanato did really protect hibari. the slytherins? not so much.
+
+kanato is starting to get his vision back, and hes not rebuking or running or hiding from hibari anymore-- but he still doesnt seem to understand how deep hibaris feelings actually run. he knows hes important now, but not to *that* point.
+
+and hibari hasnt clued in to kanatos lack of a clue. hes saying more flirtatious things now-- not by much. hes a bit chaste. but theyre there, and kanato has to wonder, what kind of dam broke???
+
+kanato doesnt care about quidditch, but he goes to the match and he sits on the gryffindor side of the stands for hibaris sake. hibari wins of course. then kanato chews him out about his grades, and hibari droops like a scolded dog. but hes still saying things, those little things that make kanato do a double take. kanato would be lying if he said he didnt have a libido thats probably more vocal than others underneath the surface, so its not as if they really get to him or anything. but really, it makes him wonder.. does hibari realise?? what he sounds like?? and doesnt he have a girlfriend or something?>? these are the sorts of things kanato thinks about
+
+meanwhile, hibari is perfectly content. he doesnt even realise. he thinks his feelings have gotten across just fine. which they havent. so he keeps saying things just to see what happens, but they sort of glance off kanato like water. what should he do? turn up the heat? maybe he should just kiss kanato and see what happens?? or wouldnt it be better if kanato kissed him first? these are the sort of much more dense things hibari thinks about..
+
+thing is, hibari isnt even aware that kanato isnt aware hibaris feelings are romantic. after the conversation in the corridor after ellito was expelled, when hibaris emotions boiled over? hibari thinks that waas basically as clear as day. and his belief is supplemented by the fact kanato is treating him like a close friend again.
+
+- hibari says subtly flirtatious things, which kanato only reacts to in his head, because if he reacted outwardly, hed probably blow up.
+
+everyone can see it now. hibari, gryffindors quidditch seeker and captain, is.. flirting, they THINK, with the slytherin prefect. they think, anyway. hes so friendly and touchy all the time, its a little hard to tell the difference, but they suspect.. its the best they can do. meanwhile the slytherins are the only one unhappy about this. nobody else cares, and gryffindor may even be defensive of it, because kanato protected their captain twice, after all. 
+
+and while kanato *seems* to brush off the things hibari says-- the things he says with such nonchalance, like hes not even filtering himself anymore-- nobody really knows what to make of it. except for akira. to seraph, akira says, 'kanato hasnt got a clue.'
+
+ the perspective from some of the gryffindors too. their captain is flirting with the slytherin prefect, so they think anyway. with hibari, its hard to tell, but lauren seems pretty sure the level of filterlessness and touchiness exceeds hibaris average.
+
+while everyone seems fine with it, the slytherins arent happy. *aside* from the fact that the slytherins and gryffindors dont mix, they dont like kanato, but they like hibari even less. hes a half-blood too-- a mix blood.
+
+meanwhile, hibari is perfectly happy with the pace things are going at. he wonders if he should kiss kanato, or when kanato might kiss him, but they havent even held hands yet, but it doesnt really matter because kanato doesnt run away from him anymore, or anything like that, and when theyre alone, he gets to see this bubbly cheerful leader-like side that nobody else seems to know about except maybe seraph and akira. oh, the satisfaction he gets from knowing that.
+
+meanwhile, kanatos distress increases. is hibari a twotimer?? what about his girlfriend? or she was at least the date he took to the yule ball! thats significant, isnt it?? kanato thinks about it. popular guy. he wouldnt twotime his girlfriend.. then is this just how he is?? now that theyre closer????? then why is it only kanato?? doesnt he have a girlfriend ?  ? this is what kanato thinks about the more hibari says things carelessly.
+
+it gets pretty unbearable. sometimes, kanato just wants to wipe thatl ook off hibaris face. the one thats all goofy and smug. sometimes, he wants to do things that any good teacher would give him detention for six times over if they knew he was thinking it. so kanato runs to akira. and akira tells it to him straight. or gay, as it were. kanato doesnt take it all that well, akiras probably wrong. seraph is getting tired of this, so is akira. so akira goes to hibari and says, 'i know its not intentional, hibari, but dont play with your food.'
+
+umm okay. thinks hibari. so kanato needs a reminder? maybe kanato really didnt get the golden snitch analogy at all, huh. which is weird, because if hibari can understand it, then it should be really easy. but when he goes to kanato and tries to talk about it with his usual lack of a filter, kanato explodes at him. not in an angry or unhinged way. the kind of 'i want to eat you because you wont stop acting the way you are' way. and its kinda hot, actually, but now kanato is muttering about twotiming again, and hibari already *told* him hes not dating the chaser girl, what is he going on about? he vagues out for a bit. when he tunes back in, kanato is muttering about dirty things hibari has only heard about from the other dorm guys' magazines. for once, he is stunned silent
+
+  
+
+Hibari was stunned silent, his usual easy confidence nowhere to be found. Kanato, clearly still on a roll, muttered under his breath, and Hibari only caught bits and pieces.
+
+  
+
+“—two-timing Gryffindor chaser—”
+
+“What?” Hibari cut in, finding his voice again. “I told you, I’m not dating her. I took her to the Yule Ball because she’s nice, that’s it.”
+
+Kanato didn’t seem to hear him. He was still muttering, his words becoming less coherent and significantly more inappropriate.
+
+“—acting like that, making those noises—”
+
+“What noises?” Hibari asked, his voice higher than usual.
+
+“—legs in those stupid Quidditch robes—”
+
+Hibari’s brain stalled. “Wait, what?”
+
+Kanato finally stopped, realizing what he’d just said. His face turned crimson, and he looked away, suddenly finding the wall incredibly interesting. “Nothing. Forget it.”
+
+But Hibari couldn’t forget it. The words were already burned into his brain. Kanato—perfect, composed, untouchable Kanato—had just admitted to thinking… those things. About him.
+
+He was stunned silent for a long moment, his face flushing in a way that was entirely unfamiliar.
+
+  
+
+theyre not on the same page, hibari knows now. because otherwise, kanato would have probably kissed him by now, if he was going as far as to think of hibaris legs as a canvas for hickeys, if what hibari just heard from his mumbling was *correct*. which.. is startling, because hibari thought they were, and yet kanato is proving they are not. how does he fix this? well hes got to make his feelings clear. hibari says it in a way that makes sense.
+
+  
+
+the way that hibari says it though, does not make sense to anyone but hibari. its just more of his flirtations, this time, a lot less subtle. kanato is going to kill him, seriously.
+
+  
+
+But Hibari wasn’t stopping. He leaned back in his chair, crossing his arms and smirking like he’d just won the Quidditch World Cup. “I’m just saying,” he said, his tone light and teasing, “if you want me to be your canvas, you could at least ask.”
+
+Kanato’s hands flew up to cover his face, his groan muffled by his palms. “You’re insane.”
+
+“And you’re avoiding the point,” Hibari shot back. “Kanato, do you seriously not get it?”
+
+Kanato peeked through his fingers, glaring at him. “Get what?”
+
+Hibari leaned forward again, resting his chin on his hand. “I like you.”
+
+The words hung in the air, simple and straightforward, yet completely at odds with the chaos in Kanato’s mind. He froze, his brain short-circuiting as he replayed the statement over and over.
+
+“You… what?” he finally managed, his voice weak.
+
+“I like you,” Hibari repeated, slower this time, as if Kanato were particularly dense. “You know, like, like-like. I’ve been flirting with you for weeks, you idiot.”
+
+Kanato’s mouth opened and closed a few times, no sound coming out. His brain was a cacophony of thoughts, each louder than the last. Flirting? Weeks? Like-like?
+
+“I thought you were dating the Gryffindor chaser!” Kanato finally blurted, his voice cracking slightly.
+
+Hibari blinked, then burst out laughing. “Are you serious? I’ve told you at least three times that I’m not.”
+
+“Well, how was I supposed to know?” Kanato snapped, his embarrassment fueling his frustration. “You’re always so… so…”
+
+“So what?” Hibari challenged, grinning.
+
+“So you!” Kanato huffed, his face red as he gestured vaguely in Hibari’s direction. “You’re touchy and loud and you act like everyone’s your best friend. How was I supposed to know this was any different?”
+
+Hibari tilted his head, his grin softening. “Because it is,” he said simply. “Because I don’t look at anyone else the way I look at you.”
+
+Kanato’s heart stuttered in his chest, the sincerity in Hibari’s voice cutting through his flustered defenses like a hot knife through butter. He stared at Hibari, his mind racing, his mouth dry.
+
+“I’m going to kill you,” Kanato muttered weakly, his hands falling to the table. “You’re going to be the death of me.”
+
+“Not before you kiss me, I hope,” Hibari quipped, his grin back in full force.
+
+  
+
+i hate you, kanato thinks, i hate you i hate you i hate you. he really wants to wipe that look off hibaris face. the smug one. the one that looks like a grin but is actually.. well, its just a grin, really, but hes got a snaggletooth that makes it look as smug as it does cute. its not fair. he doesnt even know how badly kanato wants to wreck him. and hes sitting there, thinking for all the world, hes the one whos going to take the lead, plotting something. he doesnt understand. kanato is going to destroy him. he really is.
+
+and then hibari reaches for his collar, to kiss him presumably, but kanato is a *lot* hungrier.
+
+  
+  
+
+Kanato’s hands fisted into Hibari’s shirt, pulling him up and into him as he pressed their mouths together with almost bruising force. It was messy, raw, and a little uncoordinated, but Kanato didn’t care. He wanted to wipe that smug grin off Hibari’s face, wanted to replace it with something else entirely—something desperate, something unguarded, something real.
+
+Hibari made a sound in the back of his throat, somewhere between a gasp and a groan, as his hands flew up to grip Kanato’s shoulders. For a moment, he seemed stunned, caught off guard by the sheer intensity of it. But then, just as quickly, he melted into it, his fingers curling into Kanato’s robes as he kissed back just as fiercely.
+
+Kanato hated how good it felt. Hated how perfectly Hibari fit against him, how easily they moved together despite the chaos of it all. Hated how much he didn’t want to stop.
+
+When they finally broke apart, both of them were breathing heavily, their faces flushed, their eyes locked in an electric stare. Hibari’s lips were swollen, his grin completely gone, replaced by something softer, more vulnerable.
+
+“Well,” Hibari said, his voice low and a little breathless, “that’s one way to get my attention.”
+
+Kanato glared at him, but his heart wasn’t in it. He still had a fistful of Hibari’s shirt, his knuckles brushing against the warm skin of his collarbone. He couldn’t seem to let go.
+
+“You’re insufferable,” Kanato muttered, his voice hoarse. “Do you know that?”
+
+“And yet, here we are,” Hibari replied, the edges of a new grin starting to form. It wasn’t smug this time—it was teasing, playful, almost fond. “You really are something, Fura Kanato.”
+
+Kanato didn’t know whether to punch him or kiss him again. So instead, he settled for yanking Hibari closer, his forehead resting against Hibari’s as he tried to catch his breath.
+
+“This doesn’t mean you’ve won,” Kanato murmured, his voice laced with warning.
+
+Hibari chuckled, low and warm, his fingers tightening against Kanato’s shoulders. “Oh, Kanato,” he said softly, “I think we both know I already have.”
+
+Hibari is not going to walk away from this unscathed.
+
+Kanato doesn’t even give Hibari time to let that grin fully settle before he’s on him again. This time, it’s deliberate, controlled—but no less hungry. He grabs Hibari by the waist and pulls him in, their lips meeting in a kiss that’s slower but just as fiery. It’s a kiss that says, You think you’ve won? I’m going to show you what losing feels like.
+
+Hibari gasps softly, his hands flying up to grip Kanato’s robes, as if to ground himself. The smugness melts away, replaced by something wide-eyed and stunned, but there’s no time to process it. Kanato doesn’t let up, his teeth grazing Hibari’s lower lip, a hand sliding up his side to hold him steady.
+
+When they finally break apart again, Kanato’s voice is low, a little ragged, but full of heat as he leans in, his lips brushing against Hibari’s ear.
+
+“You don’t get to say things like that and expect to walk away,” Kanato murmurs, his tone both a warning and a promise. “I told you—you haven’t won anything yet.”
+
+Hibari is breathless, his golden eyes wide, his voice shaking slightly as he manages to say, “Kanato—”
+
+Kanato doesn’t give him a chance to finish. He presses him back into the chair, his grip firm but not rough, and captures his mouth again, this time with a kiss so searing it leaves no room for doubt.
+
+  
+  
+
+INTERLUDE 6 (?)
+
+hibari turns up at dinner later than kanato, dishevelled. ruined. askew. and looking quite shaken. kanato is fine at his table, but when hibari joins lauren at the gryffindor table, its nearly too obvious. lauren asks him, 'what, did you piss him off? or did he just bully you for fun?'
+
+and hibaris face steadily turns red, next to ears, and all he can muster is something like a strangled squeak. laurens food drops from his fork. he has never seen hibari like this before. 'holy shit'. he says
+
+lauren wants to hear the details. hibari doesnt. but the more lauren presses, the more hibari seems to shrivel up. a gryffindor, brought this low by embarrassment? what did kanato say to him? what did kanato *do*? it becomes worrying, for a moment, lauren worries, and seriously asks if kanato did anything hibari didnt want him to do. which causes hibari to tell him to please shut up, its not like that, which to lauren, is basically admitting kanato *destroyed* him in all kinds of ways, and hibari is the bottom. oh my god. he laughs. youre the bottom. hibari wants tok ill him, he really does
+
+akira and seraph catch hibari as dinner ends, with lauren of course. they ask what happened because hibari does look terrible. lauren says with glee, hes the bottom, before hibari hits him in the shoulder. lauren still leaves cackling. seraph is mildly surprised, and akira is..
+
+poorly disguising how excited he is about the development. hibari didnt know he was into bl..
+
+he gets back to the commons, draws the curtain immediately, bc god knows hibari needs his privacy right now. and he lays back, and he thinks, and tries very hard not to squeal because-- thats what kanato is like when he- when he *reciprocates??*
+
+oming back to the present, hibari cant believe all it took to close t he gap was . just. be clearer about his feelings. did kanato really think he had a girlfriend, even though hibari told him three times he didnt??? wow.. and then he.. and then kanato............................................................................................................
+
+hibari wont lose though. hes not sure what hes looking for (more heat? how far he can push kanato before they both go under?) but hes going to up his game. he was saying it thoughtlessly before, but now, hes going to flirt. like properly flirt. like how they do it in books. he doesnt want to lose. hes a gryffindor, after all. hes no sheep!
+
+the day is hard for kanato. who barely held himself back last time. being so closed off, kanato is very, very pent up. what is hibari playing at with that stupid smug innocent face of his?
+
+hes laughing now. kanato thinks. hes laughing now. but he swears to god as soon as he catches hibari out somewhere private, hes going to do a lot worse than make him beg. if hibari wants to make him go that far on school grounds, he *will*. yet hibari keeps prodding-- or he does, until he senses the change from dark intent to much darker intent. uh oh, did he push too far? suddenly, he feels like hes in danger. he becomes skittish, still smiling, but starting to realise how pent up kanato actually might be. hes so screwed.
+
+the weekend comes. in other words, they can go to hogsmeade. totally forgetting about kanatos warning, he invites kanato join him and seraph and akira in 'blowing off the day'-- totally ignorant of his word choice. to his fortune, kanato agrees, and then hibari suddenly remembers what kanato said to him the day before, and changes his mind, except its too late now, and hes really really screwed because there are plenty of places in hogsmeade that dont involve other people.
+
+distraction, hibari thinks, he needs a distraction. um, he says, the shrieking shack, we should go there. thats a distraction, right? kanato is scared of horror. maybe if he gets spooked out of his skin, hell forget hibari has been playing chicken with a train at full speed (this is a metaphor). its a bit far, but its worth it, right? hibari doesnt want to go to class the next day with a sore ass. oh, fuck, he didnt really think that, did he? kanato wouldnt go that far, would he?
+
+  
+
+they do go  to the shrieking shack. its empty, actually. abandoned, even. oh, hibari thinks, a little disappointed, because he was kind of hoping thered be something cool at least. not much time to dwell on it though, because kanato is on him like never before
+
+that 'he was in so much trouble' sits with him through dinner. and if he goes to the room of requirement after quidditch practice, he knows exactly whats going to happen . 
+
+but part of him wants to know. wants to see how far kanato will take him, what hell do, how hell do it, where hell touch. so hibari does go to the room of requirement, which seraph and akira havent come to today-- maybe theyre smart, or maybe hibari is just lucky-- under the guise of *apologising* for maybe flirting too much-- but its much too late. hes been playing chicken with a freight train and now hes stuck on the tracks, right in the path of a very very very thirsty fura kanato.
+
+  
+
+this is hecked up, hibari thinks, or he tries to anyway. its getting really hard to think. 
+
+—
+
+  
+
+lauren laughs at him again, tears in his eyes. hibari wants to sink into a hole and die. hibari is the bottom, unfortunately, and he thinks he kinda likes it that way. kanatos hot, actually. hibari had thought *cute* at first, but now he gets it. kanato is like, super hot, actually, and shit, maybe he is the bottom. one of the other gryffindors says its always the sly one who comes out on top, and hibari thinks shes right. he doesnt have a sly bone in his body, and sly is literally *in* the slytherin title.
+
+  
+
+25. the other slytherins, however? not so accommodating. it doesnt take a genius to recognise what kanato and hibari have giong on under the hood. and theyre not happy.
+
+kanato spends the next week stomping out slytherin hex attempts against hibari, which kind of pulls him away from hibari as a whole.
+
+as for hibari? hes feeling blueballed.
+
+its not that kanato keeps his distance, per se. hes not closed off anymore. hes just.. busy stomping out all these fires, and he doesnt tell hibari about it because going all white knight again would make things worse. and hibari is feeling, pretty miraculously blueballed. how does anyone even.. do that sort of stuff in hogwarts anyways? have-- have.. do that, he means. theres no privacy. the dorms are shared for petes sake.. wheres he meant to find any info on bottoming or whatever lauren keeps saying? how does lauren even knwo this junk?
+
+as for kanato, though? hes been so busy keeping hibari out of slytherin firing range that he forgot about himself. 
+
+  
+
+Kanato is pushed down the stairs. the moving staircase. that. seems bottomless, from the floor hes on.
+
+  
+
+Hibari had been heading to the library when he saw it. A figure—familiar, golden-haired—falling from the stairs above, the gap between the platforms yawning like a monstrous chasm. His heart seized in his chest as he watched Kanato plummet.
+
+“Kanato!” he bellowed, his legs already moving before he could think.
+
+There was no time to panic. No time to think about the fact that there was nothing below Kanato but open air and the hard stone floors of the castle far below. Hibari darted toward the nearest staircase, calculating the angle of Kanato’s fall.
+
+The staircase was shifting—of course, always at the worst time—but Hibari adjusted, leaping onto it as it swung closer. He raced down the steps, the wind whipping past his face, his eyes fixed on Kanato’s falling form.
+
+  
+
+Kanato twisted midair, his instincts kicking in. His wand. He fumbled for it, his hands clumsy with panic. A levitation spell—anything—but before he could cast, a sharp pain lanced through his side as he collided with one of the castle’s decorative stone arches. The impact jarred him, knocking the wand from his hand. He spun wildly, his vision blurring as the world turned upside down.
+
+This is it, he thought bitterly. He shut his eyes, bracing for the end.
+
+But it didn’t come.
+
+Instead, something slammed into him—a force that sent them both careening sideways. Strong arms wrapped around his torso, and suddenly, he wasn’t falling anymore.
+
+  
+
+kanato is really tired of having his ribs broken. and whichever slytherin that did it? their family is so fucked. you dont disrupt the blood tie hierarchy and get away scot-free. if kanato had died, the culprit was sure to follow. so in some sense, its a mercy. but for once, hibari really needs to stay out of his business. things could get nasty in ways that are beyond him.
+
+  
+
+in the end, its akira who approaches him, glum. he waits until everyone is gone from the medical wing, or asleep, to tell kanato and hibari that it wasnt a slytherin at all. it was a hufflepuff. it was seraph.
+
+as soon as he says this, he jumps to seraphs defense. its his family, theyre assassins, hes an assassin, and if he doesnt follow his orders, he gets assassinated. akira has been trying to peel him free for years but--
+
+seraph doesnt really want to kill kanato. but after shirogane got expelled, word got out that the fura heir was at hogwarts. and if word gets out that seraph has been notified to assassinate him and hasnt even tried, hes done for. and in a situation like this, he wouldnt mind just jumping off the astronomy tower and ending it all, but. akira would hate him if he did that. akira would hate himself if he did that.
+
+so he waited until hibaris class schedule matched up right, hed go up the stairs to meet kanato so they could go to potions together-- and then hed pushed kanato off the staircase when nobody else was in sight. hoping, praying, that hibari would catch him, and it would be enough. its not. eyes and ears everywhere. seraph gets a letter in the morning mail: try again.
+
+  
+
+kanato demands the name of akiras organisation after hearing the story. then he demands hibari to take him to the vanishing cabinet. he needs to make a house call. flustered and confused, akira follows them, and far behind, seraph does too. somethings afoot, and he cant let things get out of hand.
+
+ i think akira woudl follow them pretty loudly, but seraph would do so from at a distance. hibari is the only one that knows kanato is the heir to a mafia family, outside of the slytherin circle (where a lot of the slytherins are children of kanatos fathers men). consider, he demands akiras organisation name, and then demands hibari take him to the cabinet. now kanato knows where it is, and hibari does too, so its more or less a matter of actually getting there, which kanato cant exactly do when hes broken his arm and also his ribs, again. so hibari carries him, believing in kanatos plan. akira follows, flustered. but kanato refuses to explain, even as he and hibari step into the vanishing cabinet and disappear.
+
+  
+
+akira follows, hesitant. and when hes gone, seraph too.
+
+akira freaks out when he reaches borgin and burkes, hibari and kanato already gone. and he freaks out even more when seraph spooks him when the cabinet spits him out.
+
+still toting kanato around, hibari asks what kanatos plan is as kanato guides them further into knockturn alley,w and out. kanato says not to worry, that he just has to stand there and put on his scary face. no. smiling. 
+
+  
+
+meanwhile, akira and seraph scramble to catch up, both just as familiar with knockturn alley as kanato is. so. kanato goes to the place in question, and threatens them rather sweetly. hard cut away to akira and seraph pov but by they time they get there, kanato is already leaving the building, and he hands them their severance contracts that he acquired from the company in question.
+
+  
+  
+
+INTERLUDE 7 
+
+theyll be moving on to seventh year soon, and the time comes when theyre sent home for the year. next year will be their last-- but more importantly, theyre being separated. hibari especially, is not ecstatic about it. kanato, even less so. in fact, kanato seems fucking miserable. more miserable than hibari. with classes out, the students have a few days to get themselves sorted before going home-- days hibari is going to cherish. but he is stricken when kanato forbids him from finding him over the break. he wont even share his address.
+
+  
+
+On the last night before departure, Hibari cornered Kanato in the Gryffindor Quidditch stands—one of the few places they could steal a moment of privacy. The golden light of the setting sun bathed Kanato’s pale features, making him look even more pensive.
+
+“So,” Hibari began, trying to keep his tone light, “what are your plans for the summer?”
+
+Kanato didn’t look at him. His gaze was fixed on the horizon, his hands gripping the edge of the bench so tightly his knuckles were white.
+
+“I don’t know,” he said flatly.
+
+Hibari frowned. “What do you mean you don’t know? Surely you’ve got some grand Fura Mafia heir plans or something.”
+
+“Don’t be stupid.” Kanato’s voice was clipped, but there was no real bite to it.
+
+Hibari, sensing the walls going up, pushed further. “Okay, then let’s make a deal. You write to me, and—”
+
+“No.”
+
+Hibari blinked. “What?”
+
+Kanato finally turned to face him, his expression hard, almost cold. “No. You’re not writing to me. And don’t bother trying to find me. I won’t respond.”
+
+The words hit Hibari like a Bludger to the gut. “Why not?” he demanded, his voice rising. “What’s the big deal? I thought we were—”
+
+“Exactly,” Kanato interrupted, his tone sharp as a blade. “I thought we were clear. You don’t get involved with my business. My business Not yours.”
+
+“That’s bullshit, and you know it.” Hibari’s frustration boiled over. “Why are you pushing me away now?”
+
+Kanato stood abruptly, his shadow stretching long across the empty stands. “I’m protecting you.”
+
+“Protecting me?” Hibari echoed, disbelief lacing his words. “Protecting me from what, Kanato? Your family? Your world? I don’t care about that! I care about—”
+
+“Stop.” Kanato’s voice cracked, just barely, but it was enough to make Hibari falter. “Just stop. You don’t understand. I’m serious,” Kanato said, his voice steady again. “Stay out of my life this summer. Don’t come looking for me. Don’t write. Nothing.”
+
+The finality of the words settled like a stone in Hibari’s stomach. 
+
+Kanato didn’t make it far before Hibari was storming after him, his voice carrying loud and clear over the empty grounds.
+
+“What the hell, Kanato? Are you breaking up with me or something? Is that it?”
+
+Kanato stopped in his tracks, letting out a long, tired sigh before slowly turning around. He crossed his arms over his chest and gave Hibari a flat look.
+
+Hibari threw his hands up, frustration written all over his face. “I don’t know! You’re the one cutting me off! This is what it feels like to get dumped, isn’t it?”
+
+Kanato rolled his eyes. “You’ve really been dumped before?”
+
+“Of course, I have,” Hibari snapped, looking downright affronted. “Well, no. But that’s not the point! You’re making it sound like I’m never going to see you again, and it’s killing me!”
+
+Kanato studied him for a moment, his sharp gaze softening slightly. “Hibari, you’re being dramatic.”
+
+“Am I?” Hibari shot back, gesturing wildly. “You won’t let me write to you, won’t let me visit, won’t even tell me where you’re going. How is that not a breakup?”
+
+Kanato sighed again, pinching the bridge of his nose. “You really don’t know how to take no for an answer, do you?”
+
+“Nope,” Hibari said, crossing his arms and planting himself firmly in Kanato’s path. “So either tell me why, or I’m following you home and camping outside your house.”
+
+Kanato blinked, momentarily stunned. “You wouldn’t.”
+
+“Try me.”
+
+For a moment, Kanato didn’t respond, his expression unreadable. Then, finally, he let out a resigned breath, his arms dropping to his sides. “It doesn’t mean it’s over,” he said quietly, his voice losing its usual sharpness.
+
+Hibari’s indignant stance faltered. “What?”
+
+Kanato looked away, his hands curling into fists at his sides. “It’s not over, okay? I’m not ending anything. But this summer… you can’t write to me. Or visit. Or anything. I need space.”
+
+“Space from what?” Hibari pressed, his tone softer now. “From me?”
+
+Kanato hesitated, then shook his head. “Not from you. I can’t explain it because that’s a risk. I just need you to trust me.”
+
+Hibari stared at him, his heart pounding. “You’re asking me to do nothing for months, Kanato. You’re asking me to sit and wait without any answers.”
+
+“Would you?” Kanato asked softly, his voice barely audible. “Would you wait for me?”
+
+For a moment, he couldn’t breathe. Then, slowly, he nodded, his expression resolute. “Yeah,” he said firmly. “I’ll wait.”
+
+Kanato looked away again, but not before Hibari caught the faintest flicker of relief in his eyes. “Good. Then that’s settled.”
+
+Hibari watched as Kanato turned and began walking away again, his steps a little slower this time. He didn’t follow, but he called after him, his voice laced with determination.
+
+“You’d better come back, Fura. Or I’m dragging you back myself.”
+
+Kanato didn’t turn around, but Hibari could’ve sworn he saw his shoulders shake with silent laughter.
+
+they ride the train together with seraph and akira, whoa re equally confused about where theyre going to go over the summer break. somewhere, akira says he will figure it out. that he has already,a ctually, because he had a backup plan, and seraph is welcome to join him-- he was included in that plan after all. kanato though, is cagey. its just too dangerous for anyone to come seeking him. and even if hibari promised to wait, it doesnt look like hes going to. it really doesnt. as for hibari? he seems unusually dull. he wont say it out loud, but back where he lives.. its like hes invisible to his family. hell get a job and work or something, to keep his mind off it.
+
+  
+
+they separate at the station. akira and seraph worried about hibari and kanato, but off they go. theyll write, they say, to hibari at least. when theyre gone, its hibari and kanato. hibari has to take a bus and hit diagon alley, get some floo powder and poof to the other side of the country. and kanato looks like hes going to say something, a lot of somethings, but then his driver comes to get him from the station stairs and hustles him away. hibari didnt even get to give him a hug.
+
+  
+
+26. hibari comes home. nobody greets him. he just hoists his stuff and his owl up to his room, filled with music equipment and other stolen whatnots, and thats his life. just. nothing. just whats in his room and in the neighborhood of his lame country town. he works at the ramen shop for a little. ramens tasty, and he gets it for free if he works there, and his parents dont feed him, so it works. radio silence from kanato, but akira and seraph send letters. they got a place in the city, but the tenancy is shaky because seraph forged a bunch of documents to secure it. yikes. better not visit them then. about three weeks into summer he overhears the news from his parents having a hushed conversation. a manor somewhere burned down. hibari doesnt know why it matters, until he hears the whispered name-- 'fura'.
+
+  
+
+It was during dinner one night—if you could call the lonely sound of his parents clinking cutlery dinner—that Hibari overheard the conversation. He was passing by the kitchen, an apple in hand, when their hushed voices reached his ears.
+
+“…a fire,” his father murmured, his tone grave. “Completely destroyed.”
+
+“A tragedy,” his mother whispered back. “The Fura manor… gone.”
+
+Hibari froze in the doorway, the apple slipping from his fingers and rolling across the floor.
+
+“Kanato,” he breathed, a cold weight settling in his chest.
+
+He stepped into the kitchen, his voice louder than intended. “What happened? What are you talking about?”
+
+His parents startled, glancing at each other before his mother frowned. “It’s none of your concern, Hibari.”
+
+“Like hell it isn’t,” he snapped, his heart pounding. “What happened to the Fura family?”
+
+“They didn’t say,” his father muttered, avoiding Hibari’s gaze. “Just that the manor burned down. It’s in the papers.”
+
+Hibari didn’t wait to hear more. He bolted upstairs, his heart racing, and grabbed a quill and parchment. His hands trembled as he scribbled out a letter to Akira, asking if he’d heard anything, if he knew what had happened.
+
+After a moment of hesitation, he started a second letter—to Kanato. But the words wouldn’t come. He stared at the blank parchment, his mind spinning with every horrible possibility.
+
+“Are you okay?” he whispered to the empty room, the unanswered question hanging in the air.
+
+  
+
+his parents are on him like bats after that. do you know the fura family? how do you know them ? etc etc. its suspicious. why do they care so much? hes sure this is the most theyve talked to him in his entire teenage life all up. whatever it is, he doesnt trust them enough, not with kanato. hes not going to say. but their sudden obsession is freaky, and too different from their usual indifference. its suffocating.
+
+  
+
+“You’re hiding something,” his father pressed, taking a step closer. “Do you know them? Have you been… involved with them?”
+
+Hibari blinked, taken aback. “Involved? What the hell are you even talking about?”
+
+“You’re always so secretive,” his mother added, her voice growing sharper. “Who are you writing letters to? Are they connected to the Fura family?”
+
+Hibari’s chest tightened. This was the most his parents had spoken to him in years, and it was suffocating. Their usual indifference had been replaced by something cold and probing, something he couldn’t understand.
+
+“It’s none of your business,” he snapped, shoving the parchment into his drawer and slamming it shut. “Since when have you ever cared about what I do?”
+
+“We care when it involves them,” his father shot back, his tone heavy with warning. “The Furas are dangerous. If you’re mixed up with them, you’ll bring nothing but trouble to this house.”
+
+Hibari’s fists clenched at his sides. “Maybe you should care about me for me, not because you’re scared of some stupid wizard family.”
+
+“That ‘stupid wizard family’ is notorious,” his mother said, her voice dropping to a hiss. “And if you’ve tangled yourself up with them, you’ll drag us down with you.”
+
+It clicked then. Their concern wasn’t about him at all. It was fear—fear of their own image, of what being associated with someone like Kanato might mean for them. Hibari’s jaw tightened.
+
+“I’m not saying anything,” he said, his voice flat. “Not to you. So get out of my room.”
+
+His father looked like he might argue, but his mother grabbed his arm, dragging him back toward the door. “This isn’t over,” she warned, her gaze cold.
+
+When the door slammed shut behind them, Hibari sank onto his bed, his head in his hands. Their sudden obsession was suffocating, and he couldn’t shake the feeling that something bigger was at play.
+
+But whatever it was, he wasn’t going to let them drag Kanato into it. Not now. Not ever.
+
+  
+
+he gets a reply from seraph and akira. they dont konw anything of course, but they give hibari the address of the burned down mansion. with his parents hovering over him like hawks waiting to strike, hibari cant think of a better plan. he lets his owl out of the cage and takes his bird whistle and his stuff and he *leaves*. its not like anyone is going to miss him.
+
+  
+
+27. hibari lives across the country. and he doesnt know any wizard families. curse his wizard father for choosing to live the muggle life. at any rate, he has to find some sort of wizard outlet. shit man. he doesnt know any. are there diagon alleys in other places? wizard societies? he doesnt have a map. shit man. after poking around a bit, asking the right people by sneaking in a telling word or two, he makes it to godrics hollow-- which is as good a place as any.
+
+  
+
+It had started in the nearby muggle town when he’d asked a passing stranger, “Know any weird stories about this area?”
+
+They’d given him a long, uncomfortable look. “Weird like how?”
+
+Hibari shrugged, playing it cool. “Like…spooky? Ghosts, maybe?”
+
+“Ghosts?” they said, squinting at him. “You mean, like, Godric’s Hollow? Lots of weird tales there.”
+
+Bingo. Hibari’s heart gave a leap of triumph. “Godric’s Hollow?” he said, feigning curiosity. “Where’s that?”
+
+“Out west, past Ottery St. Catchpole. A long way from here. You’ll need a train or a bus.”
+
+“Got it,” he said with a grin that probably looked way too eager. “Thanks.”
+
+---
+
+That conversation had brought him here, trudging down a quiet country lane leading to Godric’s Hollow. The place was famous in wizarding history, something he vaguely remembered from Hogwarts lessons. Not that he’d paid attention at the time.
+
+“I’m here now,” Hibari muttered, stopping to take in the view of the quaint little village tucked between rolling hills. The town had a sleepy charm, with stone cottages and narrow streets that seemed frozen in time.
+
+The problem? He had no idea where to start.
+
+Godric’s Hollow had a rich wizarding history, but the magical side of the village wasn’t exactly plastered on billboards. Hibari needed to find an entry point—some sort of wizarding outlet—but where? Was there even a Diagon Alley equivalent here?
+
+He groaned, running a hand through his hair. This was a mess. He should’ve planned better, but planning wasn’t exactly his strong suit.
+
+---
+
+After wandering for what felt like hours, Hibari’s sharp eyes caught a subtle detail: a wooden sign carved with strange symbols hanging outside an otherwise ordinary pub. The letters rearranged themselves when he blinked, spelling out The Witch’s Cauldron.
+
+“Finally,” he muttered, pushing open the creaky door.
+
+The pub was dimly lit, the air heavy with the scent of aged wood and something herbal. A few cloaked figures sat in corners, and a bartender polished glasses behind the counter. Hibari approached, leaning casually on the bar.
+
+“Hey,” he said, keeping his voice low. “Know where I can find…something unusual? Wizard kind of unusual?”
+
+The bartender raised an eyebrow, but after a moment of studying him, they nodded toward the back door. “Try the market square.”
+
+Hibari didn’t wait to be told twice. He thanked them and slipped out the door, his pulse quickening. If Godric’s Hollow had a hidden wizarding community, he was one step closer to figuring out what had happened to Kanato. He just had to find the right threads to pull.
+
+he needs to get to the address seraph and akira sent him, so once hes got his foot in the door, hes as good as gold. after all--- hes a thief, from a family of phantom thieves. thats a secret nobody knwos about. lifting a bag of floo powder or two? basically a joke.
+
+  
+
+It wasn’t long before Hibari’s keen eyes caught the distinct green jars labeled Floo Powder displayed at one of the stalls. His heart gave a little leap. Perfect. Now he just needed a distraction.
+
+The vendor was chatting with an elderly wizard over the counter, deep in conversation about the relative merits of different brands of powdered dragon scales. Hibari sidled up casually, pretending to examine a rack of enchanted hairbrushes.
+
+“Never used the Sparkline brand myself,” the vendor was saying, waving a hand dismissively. “Bit overpriced if you ask me.”
+
+The elderly wizard nodded in agreement. “Aye, but the Lumiscale Blend—now there’s a classic—”
+
+Hibari acted fast. With practiced precision, his fingers slipped into the edge of the stall, retrieving one of the green jars and tucking it into his bag. Quick, smooth, invisible.
+
+It was in his blood, after all. Phantom thievery ran through his veins, a secret even his closest friends didn’t know. Stealing floo powder was child’s play compared to some of the heists he’d pulled back home.
+
+Still, the adrenaline surged through him as he walked away, his pace steady but purposeful. He didn’t dare look back until he was sure he was out of sight.
+
+---
+
+Finding a suitable fireplace to use wasn’t hard in a place like this. Magical establishments almost always had floo-enabled hearths. Hibari ducked into a quieter side street, spotting a cozy-looking inn with a welcoming front door. He slipped inside, navigating to the common room where the fireplace roared gently.
+
+Pulling out the address Seraph and Akira had sent him, he double-checked the crumpled parchment. This is it.
+
+He uncorked the jar, grabbed a handful of the glittering green powder, and threw it into the flames. “Fura Manor!”
+
+The flames turned emerald, crackling with energy. Hibari stepped into the fire, the familiar rush of warmth engulfing him as the world blurred and spun.
+
+---
+
+When the spinning stopped, Hibari stumbled out of a hearth onto cold stone floors. This was the place.
+
+The air smelled of soot and ash, a faint acrid tang that made his nose wrinkle. The ruins of the Fura family manor loomed around him, charred beams and broken stone stretching upward like skeletal fingers. Moonlight spilled through the gaping holes in the roof, illuminating the destruction.
+
+Hibari’s stomach clenched. This wasn’t just a fire. This was a message.
+
+He adjusted his bag and took a deep breath. The place was eerily quiet, but he wasn’t here to admire the ruins. He was here to find Kanato—or at least, some clue of where he might have gone. No way was Hibari going to stop now.
+
+  
+
+Hibari walked carefully through the wreckage, his footsteps muffled by ash and debris. The skeletal remains of the Fura manor stretched around him like a war-torn battlefield, eerily silent save for the occasional whisper of wind through the broken beams. He clenched his wand tightly, his heart pounding in his chest.
+
+Signs of a struggle, right? What did those even look like? He frowned, kicking aside a charred fragment of wood. Was he supposed to know some spell for this? Something useful from Defense Against the Dark Arts or Charms? His grades had been barely passable at best, and now it was coming back to bite him.
+
+“Damn it,” he muttered, crouching to examine a pile of shattered glass. It glinted faintly in the dim light, but it told him nothing.
+
+The rain began to fall, at first a gentle drizzle, then heavier, the drops pattering against the ruined stone. It soaked into the ash, turning it into streaky, gray rivulets that ran down the broken walls and pooled on the ground. Hibari sighed, rubbing the back of his neck. What now?
+
+Then, something caught his eye. A glimmer of gold amidst the washed-out debris.
+
+He froze, his breath hitching. What’s that?
+
+He stepped closer, the rain dripping from his hair as he crouched. His fingers brushed against the object, slick with water and soot. When he lifted it, recognition slammed into him like a bludger.
+
+Kanato’s necklace.
+
+It was unmistakable—the delicate gold chain, the small, simple pendant the shape of a pinwheel, inlaid with that blue jewel— real, authentic tanzanite. It was the same one Kanato always wore on his lapel in uniform, a quiet but constant piece of him that Hibari had grown used to seeing.
+
+Now, it hung limp in Hibari’s hand, the clasp broken, the chain smeared with ash. His chest tightened.
+
+“Kanato…” he whispered, gripping the necklace tightly. The rain fell harder, plastering his hair to his forehead as he stared at the small, fragile object. His mind raced.
+
+Why is this here? Did he leave it behind? Did someone take it from him? Was he—
+
+He stopped the thought in its tracks, his stomach twisting. His heart pounded as he looked around, the ruins suddenly feeling more oppressive, more sinister. He had to find something, anything, to explain this.
+
+Gripping the necklace like a lifeline, Hibari pushed forward, the rain washing away the soot from his path as he searched the wreckage with renewed determination. 
+
+  
+
+he pilfers the log book from a wizard inn and forges his registration as prepaid and stays the night in a random room. he doesnt even know where he is. if only kanato had told him at least something.. wait. if he had a driver, he was within driving distance of the train station. so an hour or two at most from kings cross by car. its a lead.
+
+it is 100% not smart to go around chasing up the son to an internationally wanted criminal, so hibari cant go around asking for leads willy nilly. but stick to wizarding spots close enough, and learn the players in the shadier areas, and you start to hear gossip. nothing substantial, not even a name. but anyone smart wont mention the fura name aloud-- not in public. but all hibari needs is an allusion.
+
+hibari gets around and keeps low by doing what he does best-- stealing. there are few that can track down a phantom thief, after all. or so he thought, anyway. until about a week into his trip, it seems like hes being tailed. and hwoevers tailing him isnthere to play games.
+
+  
+
+Hibari had nowhere to run. The alley was a dead end, and his back was pressed against the cold, slick wall. The figure blocking his way loomed closer, wand raised, the sharp green glow of a curse forming at its tip.
+
+He was so screwed.
+
+His arms shot out in front of him instinctively, as if they could somehow ward off death. His heart hammered in his chest, a wild, erratic rhythm that made his breaths come fast and shallow. He couldn’t think. There was no time to think.
+
+I’m dead. I’m dead because I wanted to know if Kanato was alive. God, I hate Kanato. A bitter laugh escaped his lips, though it came out more like a strangled sob. But I love Kanato.
+
+The figure muttered the incantation, the curse almost at its peak, the deadly green light growing brighter.
+
+Sorry, Kanato. You can kill me in the afterlife for this.
+
+Hibari shut his eyes tightly, bracing for the inevitable—
+
+"Young Master—!"
+
+The shout tore through the tense air like thunder. Hibari’s eyes snapped open just in time to see someone hurl themselves in front of him, arms spread wide in a protective gesture. The green light of the curse veered wildly off course, crashing into the wall behind him in an explosion of sparks and heat.
+
+For a moment, Hibari couldn’t comprehend what he was seeing. He blinked, his breath caught in his throat, as the figure standing between him and death turned their head.
+
+"Kanato?" he whispered, his voice trembling with disbelief.
+
+Kanato was there, disheveled and panting, his own wand clutched tightly in one hand. His golden hair was damp from the rain, clinging to his forehead, and his glasses were askew, one lens cracked. But it was him. It was really him. And he was furious.
+
+“You,” Kanato snarled, rounding on the attacker. His voice was low, sharp, and colder than Hibari had ever heard it before. “Who gave you the authority to make decisions for me?”
+
+The assailant—a wiry man with a gaunt face and hollow eyes—lowered his wand slightly, though his posture remained tense. “With all due respect, young master, I thought you’d—”
+
+“You thought,” Kanato interrupted, his tone like ice. “That’s the problem. You’re not here to think. You’re here to follow orders.”
+
+The man flinched but didn’t back down entirely. “You know the consequences of harboring liabilities, young master. This…this Gryffindor, this boy—”
+
+“Is none of your concern,” Kanato spat, his voice like a whip. “Do you know what would happen if that curse had landed? Do you know who would’ve come after you? Do you know who I am?”
+
+The man’s mouth opened and closed like a fish gasping for air. “Young master, please. I was only—”
+
+Kanato’s wand flicked upward in an instant, the tip glowing faintly. “Shut up,” he commanded, his voice so calm it was terrifying. “If you want to stay alive long enough to report back to my father, you’ll leave. Now.”
+
+The man hesitated for a fraction of a second, his eyes darting between Kanato and Hibari. Then, with a muttered curse under his breath, he Disapparated, leaving only a faint crack and the lingering smell of ozone.
+
+Hibari, still pressed against the wall, stared at Kanato, his heart pounding so hard it hurt. “You—” His voice cracked, and he tried again. “You saved me.”
+
+Kanato turned to face him, his expression unreadable. “Obviously,” he said curtly, though his voice softened slightly. “You’re an idiot for putting yourself in this situation.”
+
+Hibari’s legs gave out, and he sank to the ground, rain soaking through his clothes as he laughed weakly, the adrenaline finally catching up with him. “You’re calling me an idiot? You just jumped in front of a Killing Curse.”
+
+Kanato adjusted his glasses with a faint sigh. “Yes, well. I’ve had worse ideas.”
+
+Hibari stared at him, his chest tight with a mix of relief, awe, and something he couldn’t quite name. “Kanato…”
+
+“Save it. Are you completely brain-dead?” Kanato hissed, his voice cutting through the rain like a whip. “Do you have any idea what you’ve done? You’ve painted a giant target on your back, Hibari. A blinking, neon target!”
+
+Hibari yanked his wrist free, matching Kanato’s glare with his own. “Oh, I’m sorry for wanting to know if my—if you were alive, you jackass! Do you know how it felt hearing your name whispered like some dark curse? Do you?!”
+
+Kanato stopped dead in his tracks, spinning on his heel to face Hibari, his golden hair plastered to his forehead. His glasses were cracked, one lens fogging slightly from the heat of his breath as he stared Hibari down. “I told you to wait for me! I told you to stay put! Was that so fucking hard to do?”
+
+“Yes!” Hibari shouted, throwing his hands up in frustration. “It was! Because you told me nothing! I had no idea what happened, Kanato! You could’ve been dead! Or captured! Or—” His voice broke slightly. “Or worse.”
+
+Kanato’s lip curled, and he took a step closer, his voice dropping to a dangerous whisper. “And what did you think you’d accomplish by coming here, hmm? You’re not a detective, Hibari. You’re not some hero out of one of your stupid books. You’re a half-blood Gryffindor playing a game you don’t understand.”
+
+Hibari flinched, the words hitting harder than any hex. “I wouldn’t have to play if you weren’t such a closed-off bastard! If you’d just told me anything—”
+
+“My house burned down, Hibari!” Kanato snapped, his voice breaking into something sharp and brittle. “Do you get that? My house. My home. Everything. The address you think I could’ve given you wouldn’t have existed the moment you sent a letter!”
+
+The words hung heavy in the air, echoing in the narrow alley. Kanato’s chest heaved, his anger palpable, but there was something else in his expression too—something raw and vulnerable that Hibari had never seen before.
+
+Hibari’s lips parted, but no words came out. His anger ebbed away, replaced by a hollow ache in his chest. “Kanato…”
+
+“I don’t need your pity,” Kanato said sharply, turning away. He started walking again, his shoulders stiff, but Hibari wasn’t done.
+
+“You’re right,” Hibari said, his voice trembling as he followed. “I don’t understand. I don’t know what it’s like to lose everything in one night. I don’t know what it’s like to carry something this heavy by yourself. But you’re not alone, Kanato. You have me. You’ve always had me, and you still didn’t trust me enough to let me help.”
+
+Kanato stopped again, his fists clenching at his sides. “Because you don’t belong in this world!” he shouted, spinning around. “You don’t belong in my mess! And now, because of you, half the goddamn underworld knows you’re looking for the Fura heir. Do you understand what that means? Do you?!”
+
+“I know what it means, you idiot!” Hibari yelled back, tears pooling in his eyes. “But I didn’t care, okay? I didn’t care because I thought—” He choked on his words, his fists shaking at his sides. “I thought I’d already lost you.”
+
+Kanato froze. The fury drained from his face, replaced by something unreadable as he watched Hibari crumble in front of him.
+
+Hibari rubbed at his eyes with the heel of his palm, his voice cracking as he continued. “Do you know how much it hurt? Hearing your name, seeing the pinwheel on your necklace in the ashes—do you know how scared I was? I didn’t care about the danger, Kanato. I didn’t care about any of it. I just wanted to know you were alive.”
+
+it looks like forgiveness, but its not. because kanato wheels right back around and drags him down the alley, yelping bc his grip is really strong. fucking idiot, kanato is saying, because it wouldve been fine, and they wouldve gone back to hogwarts just fucking fine and graduated and then he wouldnt even *be* a target anymore because he wont be staying under his father anymore. but now hibari has fucked it up, because the goddamn heir to the watarai family of phantom thieves has been running around looking for the heir to the goddamn magic mafia and-- wait, how does kanato know about hibaris history? of course he knows, he says, hes the fucking mafia. now hibari has a lot to grapple with. he doesnt have anything left to say bc he doesnt know *what* to say.
+
+  
+
+28. the place kanato is staying now is some fancy high rise penthouse apartment, with his family, that apparently owns the whole top floor. first of all, what the fuck. second of all, kanato now apparently has to present hibari to his father so he doesnt get put on the fura hitlist. what. the fuck. and third of all, this family dinner is NOT how he imagined meeting kanatos parents. it sucks. because his father doesnt like hibari. it starts with, 'so thisi s your friend? i didnt know he he was a boy'. and its all downhill from there. and this guy knows everything about hibari. that hes in a band, likes music, has awful grades, and is a prodigal seeker. but its not enough. because the big thing is -- "You can't bear an heir to the family, so you're of no use to Kanato." hibari feels like crying. but he doesnt. now he understands why kanato worked so hard to keep him off the radar.
+
+  
+
+The moment Hibari stepped into the penthouse, he knew he was in over his head. The sheer scale of the place was staggering—marble floors, intricate chandeliers, and walls lined with shelves of old, leather-bound books that looked like they belonged in a museum rather than a home. The whole top floor of this high-rise belonged to the Fura family.
+
+Of course it does, Hibari thought, trying to swallow the lump in his throat. He glanced at Kanato, who walked ahead with his usual poised elegance, like he was used to all this grandeur. Which he probably is.
+
+“Don’t embarrass yourself,” Kanato muttered under his breath, not even looking back at Hibari.
+
+Hibari bristled, but the weight of the situation kept him quiet. He adjusted the collar of his best shirt—it was wrinkled from being stuffed in his bag—and trailed after Kanato into a dining room that was far too large for three people. The table could seat twenty, but only three places were set, each with shining silverware and folded napkins.
+
+Kanato’s father was already seated at the head of the table. His presence was magnetic in the worst way—sharp eyes, a composed expression that didn’t betray a single thought, and an aura of command that made Hibari’s knees want to buckle. This man wasn’t just a head of the family; he was the Fura patriarch.
+
+“So this is your friend,” Mr. Fura said without preamble, his tone cold and assessing. His gaze raked over Hibari, and Hibari felt the weight of it like a physical force. “I didn’t know he was a boy.”
+
+Hibari stiffened. He could feel the heat creeping up his neck, but Kanato remained calm, lowering himself into his seat. “Yes, Father. Hibari is my friend.”
+
+That single word—friend—felt like a dagger. Kanato said it with such careful neutrality, as if he’d rehearsed it to make it sound as meaningless as possible.
+
+Hibari took his seat, trying to appear unaffected, but his palms were clammy. He wasn’t even sure where to put his hands. He settled on his lap, where they wouldn’t knock over the crystal goblet in front of him.
+
+Mr. Fura didn’t bother with pleasantries. He leaned back in his chair, steepling his fingers as his piercing gaze bore into Hibari. “I’ve heard a great deal about you.”
+
+Hibari blinked. “You… have?”
+
+“I make it my business to know who associates with my son,” Mr. Fura said smoothly. “You’re a musician. A seeker. Mediocre grades. Charming, I suppose, in an unsophisticated way.”
+
+Hibari flinched. The man’s words were like scalpels, cutting him down piece by piece.
+
+“You have some talent,” Mr. Fura continued, his tone dismissive, “but not enough to warrant this disruption to my son’s life.”
+
+“Father,” Kanato interjected, his voice tight. “Hibari has nothing to do with the disruption.”
+
+Mr. Fura ignored him, his gaze still fixed on Hibari. “You can’t bear an heir to the family,” he said bluntly, his voice cold and final. “So you’re of no use to Kanato.”
+
+Hibari’s heart plummeted. The words struck with the force of a Bludger to the chest. He felt like the air had been sucked out of the room, and for a moment, all he could hear was the roaring in his ears. He gripped the edge of his chair, willing himself not to cry. Not here. Not in front of him.
+
+He glanced at Kanato, who looked composed but tense, his jaw set in a tight line. Kanato wasn’t saying anything. Hibari wasn’t even sure if he could.
+
+“I…” Hibari started, his voice cracking. He cleared his throat, trying again. “I didn’t come here to—”
+
+“To what?” Mr. Fura interrupted, his voice sharp. “You’ve already put a target on your back, wandering into Knockturn Alley, drawing attention to yourself. If you think that sort of reckless behavior is suitable for someone associated with my family, you’re mistaken.”
+
+Hibari bit his lip hard enough to draw blood. He wasn’t sure if it was anger, humiliation, or despair coursing through him, but the overwhelming need to leave this suffocating room burned in his chest.
+
+“Father,” Kanato said again, his voice colder now. “That’s enough.”
+
+Mr. Fura’s gaze shifted to Kanato, who met it head-on. For a moment, the tension in the room was palpable, thick enough to choke on.
+
+“Very well,” Mr. Fura said finally, sitting back. “But remember, Kanato, everything I do is for the benefit of this family. You would do well to remember where your loyalties lie.”
+
+Kanato didn’t respond, his expression unreadable.
+
+Dinner continued in strained silence, the clinking of silverware the only sound. Hibari barely touched his plate, his appetite long gone. All he could think about was the suffocating realization that he had just glimpsed the world Kanato had been trying to shield him from. He finally understood why.
+
+Hibari sat in the room they’d given him—a guest room so lavish it made him feel like he didn’t belong even breathing the air inside it. The bed was huge, the furniture polished to a mirror shine, and the wardrobe was filled with clothes that weren’t even his. It all felt like a cage, gilded and cold.
+
+He stared at the ceiling, the events of dinner replaying in his mind on an endless loop. Mr. Fura’s cold voice, Kanato’s tight-lipped silence, the weight of the family expectations crushing everything under their heel.
+
+And Kanato wouldn’t even look at him. Not once since dinner started.
+
+I fucked up, Hibari thought, squeezing his eyes shut. Hogwarts felt so far away now, like a dream he’d woken from. The carefree banter in the corridors, the tension on the train, the room of requirement, the stolen kisses and—  
+He groaned, covering his face with his hands. Even the awkward library detention felt like heaven compared to this.
+
+It was all so distant.
+
+He thought of the fight on the train, how Kanato had lashed out and pushed him away. The search through Knockturn Alley, running through rain-soaked streets chasing shadows. The night in the room of requirement when he’d finally crossed that line, the electricity of Kanato’s touch, the way Kanato’s hunger had unraveled him completely.
+
+"Stay far, far away from Kanato," Mr. Fura had said, his voice as sharp as the glint of the family crest pin on his lapel. “For the rest of the summer.”
+
+And what could Hibari do? Fight back? Plead his case? The Fura family wasn’t just any family. One wrong move, and he wasn’t the only one in danger. His own family, for all their indifference, would be caught in the crossfire if he even thought about crossing the line again.
+
+Don’t even think about it.
+
+He sat up abruptly, running his hands through his hair. "Shit, man," he muttered to himself, his voice hollow in the cavernous room. “I really, really fucked up.”
+
+Kanato was just down the hall, but he might as well have been on another continent. The distance between them wasn’t measured in meters but in silence, expectations, and the weight of Mr. Fura’s disapproval.
+
+Hibari leaned back against the headboard, staring at the door. He couldn’t shake the feeling that if he didn’t do something—anything—this was how it would end. Everything they’d built, everything they could have been, swallowed whole by the Fura family’s ironclad grip. And Kanato wouldn’t even look at him.
+
+  
+
+for the next meal, its breakfast the next day. hibari hardly slept. but for some reason, hes invited to sit at the table-- probably because kanatos mother is there this time. shes a lot nicer, even goes as far as to ask her husband if hes being too much, laying it on too thick, etc, but when he asserts that *the boy is of no use to us. hes a halfblood gryffindor incapable of bearing children*, kanatos mother doesnt disagree. and while its nice that kanatos dad is a trans ally, thinks hibari, going mildly insane, it doesnt do anything for him. if anything, the fura parents seem pleased by kanatos indifference to his presence.
+
+  
+
+Hibari lay flat on his back on the oversized, feather-soft bed in the guest room, staring blankly at the ornately carved ceiling. The luxury surrounding him was suffocating, not comforting. It was too much. The chandelier above him, the gilded furniture, the silk sheets—it all felt oppressive. He wasn’t used to this. He wasn’t used to being seen like this.
+
+His family barely looked at him, didn’t care what he did so long as he stayed out of their way. But here? Every glance from Kanato’s parents, every word dripping with veiled threats and calculated disdain—it was like being pinned down by apex predators. They weren’t just watching him. They were circling, waiting for the slightest misstep to pounce.
+
+“This is fucking nuts,” he muttered, running a hand through his hair. “This is insane.”
+
+And it only got worse.
+
+The Fura apartment might’ve been luxurious, but it wasn’t soundproof. The walls were just thin enough for Hibari to hear everything happening next door—everything Kanato and his father said about him. He hadn’t meant to eavesdrop, but he couldn’t stop himself once he caught the first few words. Now he wished he hadn’t heard a thing.
+
+“Do you have any idea how precarious this situation is?” Mr. Fura’s voice was cold and sharp, like a blade slicing through the air. “That boy shouldn’t even be here. Do you know how much information the Watarai family has stolen from us over the years? Do you understand the risk of bringing him into this house?”
+
+“Of course I understand,” Kanato snapped back, his voice uncharacteristically heated. “But he’s not them. He doesn’t even know what his family is.”
+
+“And you’re willing to stake everything on that assumption?” Mr. Fura’s tone dripped with derision. “Your judgment is compromised. You’ve been compromised. What guarantee do we have that this isn’t another ploy? That the Watarai family didn’t send him to sink their claws into you?”
+
+Hibari swallowed hard, his stomach twisting into knots. His ears burned, his mind racing. Is that really what they think of me?
+
+“I brought him here to protect him,” Kanato said, his voice rising. “Me. I made that decision. And if you can’t trust me to handle this, then how the hell do you expect me to handle anything when I leave this house?”
+
+There was a sharp silence, heavy and oppressive.
+
+“You’re not leaving,” Mr. Fura finally said, each word deliberate and cruel. “Not now. Not ever. If this boy is any indication, you’re too naive to survive on your own.”
+
+The words hit Hibari like a physical blow, knocking the wind out of him. He clenched the silk sheet beneath him, trying to steady his breathing. Kanato isn’t leaving? That couldn’t be true. That couldn’t be the future Kanato was resigned to, could it?
+
+“I’m not naive,” Kanato said, his voice quieter but no less firm. “And I’m not staying under your thumb forever.”
+
+“Not if you keep entertaining distractions like him,” his father retorted. “You’re risking everything, Kanato. Everything I’ve built. Everything this family stands for. And for what?”
+
+Kanato didn’t respond. Or if he did, his voice dropped too low for Hibari to hear.
+
+Hibari squeezed his eyes shut, his heart pounding in his chest. The weight of everything crashed down on him all at once. This is why, he thought. This is why Kanato shut me out so many times. This is what he was protecting me from.
+
+He wanted to be angry, but all he felt was guilt. He’d pushed too hard, been too persistent, and now Kanato was stuck. Stuck in this suffocating world of blood money and bloody hands. And worse, Kanato’s future—the life he wanted, the freedom he deserved—was slipping further and further away because of Hibari’s actions.
+
+He curled in on himself, burying his face in the pillow. 
+
+  
+
+hibari isnt a problem solver. he isnt smart. hes just some idiotic gryffindor with a hero complex, who convinced himself that stealing hearts over objects is a better thing to do. and he did! he tried. hes stolen kanatos heart and he never wants to give it back. and he KNOWS that kanatos father knows hibari is not *just a friend* because the man mentions it at every fucking meal-- 'not capable of bearing children'. so hibari does the only thing he can think of. he approaches kanatos father by himself, after going through one of the guards to get an appointment-- a fuckign appointment, holy shit-- and asks if he breaks up with kanato and drops out of hogwarts, will he reconsider granting kanato independence? kanatos father is intrigued. he thought thieves were selfish and covetous, not transactional creatures like the mafia.
+
+  
+
+“So,” Mr. Fura said without looking up from the papers in front of him. “The little thief comes to my door. What do you want?”
+
+Hibari hesitated, his hands clenching at his sides. He hadn’t planned on being intimidated, but the man’s aura was suffocating. He forced himself to take a deep breath. This was for Kanato. He couldn’t afford to falter.
+
+“I…” He cleared his throat, his voice unsteady. “I wanted to ask you something. To offer something.”
+
+Mr. Fura finally looked up, his cold eyes narrowing as he studied Hibari. “Offer something, you say? Do go on.”
+
+Hibari licked his lips, his mouth dry. “If I… If I break up with Kanato,” he began, each word feeling like a dagger to his chest, “and drop out of Hogwarts, will you reconsider granting him independence?”
+
+The room fell silent, the only sound the crackling of the fire. Mr. Fura leaned back in his chair, a slow, calculating smile spreading across his face. “Now, this is unexpected,” he said, his tone laced with mockery. “A thief offering to give something up. I thought your kind were selfish, covetous creatures.”
+
+Hibari’s jaw tightened. “I’m not like that.”
+
+“No?” Mr. Fura raised an eyebrow. “Then what are you, Watarai Hibari? A martyr? A hero? Or just a lovesick fool?”
+
+Hibari flinched but didn’t look away. “I just want what’s best for Kanato.”
+
+“What’s best for Kanato…” Mr. Fura repeated, his smile fading. He tapped his fingers on the desk, considering. “And you believe that’s you disappearing from his life entirely?”
+
+“If it gets him what he wants—what he deserves—then yes,” Hibari said firmly, though his voice shook. “If it means he can be free of all this, then I’ll do it.”
+
+Mr. Fura studied him for a long moment, his expression unreadable. “And what makes you think I’ll hold up my end of the bargain? That I won’t simply take your sacrifice and keep him under my thumb regardless?”
+
+Hibari swallowed, his throat dry. “Because… Because if you don’t, he’ll find a way out anyway. He’s strong. Smarter than me. And if he finds out I tried to help him and you didn’t keep your word… you’ll lose him. For good.”
+
+For the first time, Mr. Fura’s gaze flickered, a glimmer of something unreadable crossing his face. “You’re an interesting creature,” he said after a moment, his voice quiet but sharp. “You’re willing to give up everything for him, even though you’re well aware he might resent you for it.”
+
+Hibari didn’t respond, his fists clenched at his sides.
+
+Mr. Fura’s lips curled into a smirk. “Very well. I’ll consider your offer. But know this, boy—you’ll never see him again if you go through with this. Are you prepared for that?”
+
+The words hit Hibari like a punch to the gut, but he nodded. “If it’s what’s best for him… then yes.”
+
+Mr. Fura leaned back in his chair, his smirk widening. “You may go.”
+
+  
+
+The door to Hibari’s temporary room in the Fura penthouse burst open with a force that nearly knocked it off its hinges. Hibari, who had been sitting on the edge of his bed with his head in his hands, startled, looking up just in time to see Kanato storm inside, his face twisted with a fury Hibari had never seen before.
+
+“What the fuck is wrong with you?” Kanato shouted, his voice cracking at the edges. He looked unhinged, his usually composed demeanor shattered into a thousand sharp pieces. “Do you even know what you’ve done?”
+
+Hibari stood, his gut churning. “Kanato—”
+
+“Don’t. Don’t even try to talk your way out of this!” Kanato cut him off, pointing an accusing finger at him. “You’re a fucking coward! A failure of a fucking Gryffindor! Aren’t you supposed to be brave, to stand by your convictions? But no. You fold the moment my father looks at you sideways!”
+
+Hibari flinched, his fists clenching at his sides. “It’s not like that—”
+
+“Bullshit!” Kanato snapped. “What kind of thief gives up something they worked so hard to steal? What kind of seeker lets their golden snitch fly away after catching it? You’re pathetic!”
+
+The words hit Hibari like a series of blows, but he couldn’t muster a defense. Kanato’s chest heaved, his eyes glinting with unshed tears that made his gaze burn even brighter. Hibari knew this wasn’t just anger—it was something deeper, something raw and jagged.
+
+“You were supposed to be my partner,” Kanato hissed, his voice trembling now, breaking apart like glass under too much pressure. “But you’re just another one of my father’s lapdogs. Just like everyone else.”
+
+Hibari’s breath hitched, but he couldn’t form a response. The weight of Kanato’s words pressed down on him like a mountain, pinning him in place.
+
+Kanato grabbed a plate from the nearby table and hurled it at him. Hibari barely ducked in time, the ceramic shattering against the wall behind him. Kanato didn’t even look at the mess he’d made; his hands balled into fists as he glared at Hibari, his body trembling.
+
+“You’re a fucking traitor,” Kanato spat, his voice breaking entirely. “You don’t care about me at all.”
+
+With that, Kanato turned and stormed out of the room, slamming the door so hard the walls seemed to shake. Hibari stood frozen, staring at the door, his chest hollow and his ears ringing with Kanato’s parting words.
+
+For a long moment, he couldn’t breathe. Couldn’t think. Couldn’t move.
+
+Then it hit him all at once—the crushing weight of what he’d done, of what he thought was the right choice but now felt like the worst betrayal in the world. His knees buckled, and he collapsed back onto the bed, burying his face in his hands.
+
+Kanato’s words echoed in his head, over and over again: You’re a fucking traitor. You don’t care about me at all.
+
+“I’m sorry,” Hibari whispered, his voice cracking as tears slid down his cheeks. “I’m so, so sorry.”
+
+But there was no one to hear him.
+
+  
+
+From the hallway, muffled voices rose in heated argument.
+
+“You’ve embarrassed yourself and the family, Kanato,” his father’s sharp tone carried through the walls, scathing and uncompromising. “Throwing tantrums like some common child. Do you think that’s how a Fura should behave?”
+
+Kanato’s voice was quieter, strained, but laced with defiance. “Maybe I wouldn’t have to if you didn’t treat every aspect of my life like one of your damn chess pieces.”
+
+“Watch your tongue,” his father snapped, his fury palpable. “You’re lucky I’m even tolerating this display. I expect better from you, Kanato. Far better.”
+
+The scolding continues. And Hibari could feel his heart splintering with every syllable. He stared at the closed door to his room, his chest tightening as he imagined Kanato on the other side of the wall, standing rigid, taking each word in silence.
+
+“You’re weak when you act like this,” his father hissed. “Do you think you can lead this family someday, making a spectacle of yourself over some inconsequential fling?”
+
+The sharpness of the words struck Hibari like a physical blow. He squeezed his eyes shut, his nails digging into his palms.
+
+Then came the sound of a door slamming shut.
+
+The house fell silent again, save for the distant ticking of a clock. But Hibari knew. He knew. His ears strained to hear it—the barely perceptible sound of muffled sobs. It was faint, but it was there, just barely carried through the shared wall between their rooms.
+
+Kanato was crying.
+
+Hibari felt his throat constrict. Kanato, who was always so composed, so impossibly controlled, even when angry. Kanato, who never allowed himself to show weakness, was now breaking apart just feet away from him. And it was his fault.
+
+He wanted to go to him. Wanted to push open that door, take Kanato in his arms, and apologize until his voice gave out. But what good would it do? He’d already done the damage. He’d already made himself into the traitor Kanato accused him of being.
+
+Instead, Hibari sat there, motionless and hollow.
+
+  
+
+29. information flies, especially in a place that is part hotel. so hibari is invited back to kanatos fathers office, where he is told that he will be allowed to go to hogwarts should he choose, as his family has just traded back all the information they ever stole. likely to preserve their own lives, but kanatos father is showing a kindness by extending this to hibari, because his parents obviously didnt care enough about him to even mention his name. but if he ever hears that hibari is fraternising with his son again, he wont be so gracious next time.
+
+he doesnt write letters to akira and seraph. he doesnt get to do much of anything. but hes escorted to diagon alley to buy his things early-- because kanato gets his delivered, of course he does-- and sent to kings cross station for his seventh year without so much as a goodbye. seraph and akira meet him at the station, delighted. they chatter about the place theyve shored up-- an office in the pit center of the city, in tokyo, their homeland. wow. hibari misses japan too. he wishes again his father hadnt chosen muggle living. damn. then kanato pulls up, escorted by his black car. hibari refrains from greeting him, but kanato doesnt regard him anyway. in fact, seraph and akira say hello as he passes by, and he returns their greetings rather enthusiastically. hibari looks at him, and his gaze turns instantly cold as he boards the express. hes not wearing lenses, so his eye must be better, hibari thinks sullenly. seraph and akira though? theyre shocked.
+
+kanato doesnt join them in their train carriage. hes shepherded off to the first class. so akira and seraph are free to ask hibari, what on earth happened? its akira who glumly surmises, you didnt wait, did you? we sent you the address, but you didnt actually go chasing after it, did you?
+
+hibari tells them he cant fix it. hell never get to talk to kanato again because if he does, its not just his head on the chopping block-literally-- its kanatos freedom. and kanato hates his guts. he explains the deal he took. and akira and seraph are.. not only flabbergasted by his choice-- a gryffindor, giving up?-- but deeply, deeply concerned.
+
+INTERLUDE 8
+
+the only classes hibari is qualified to take newts for is defense against the dark artes, divination and potions. for twoof these classes, hes only qualified because kanato was with him. for divination, its a bullshit class anyway, so if he makes junk up, he gets an O grade. but he takes them all anyway, knowing none of them will be enough for anything ever, because the only things hibari is really good at are stealing quidditch and apparently fucking things up with kanato all the time. funnily enough, kanato is in his defense against the dark arts and potions newts classes-- of course he is. so is seraph, which makes sense. and akira is in a bunch of newts, except for defense against the dark arts, which also makes sense. at least hibari has allies in his newts classes to crutch on, since kanato........................ treats him so coldly. he doesnt e ven know why he hopes. hes not meant to speak to kanato anyway.
+
+hibari is elected quidditch captain again-- all is right in the world, his gryffindor cohorts say. which means hibari is responsible for scheduling everything again too. he wasnt good at it ebfore, but he had lauren last year. lauren said hes ditching quidditch to study for newts, he wants to go into enforcement. which is fucked up man. what the heck lauren? hibari has never felt so isolated in all of his hogwarts life.
+
+the newts classes are fucking brutal. except for divination, that ones a breeze because he can make everything up. but holy shit, he underestimated newts classes. they even seem to be getting to akira, which is crazy, because akira is deadly smart. seraph seems okay, ish. and nobody can tell with kanato, even though he talks to akira and seraph quite happily. fucked up, hibari thinks, as his potion blows up in his face. hes going to fail and get kicked out of school anyways. until akira sits down with him. hes here to help hibari with his quidditch stuff, he says, and since when has akira been interested in quidditch outside of supporting seraphs interest in it? hes not, says akira, but hes pretty darn good at management. itll be relaxing, he says. its a big help for hibari. but it doesnt solve his misery. and people are starting to notice that the gryffindor golden boy isnt shining so brilliantly all of a sudden.
+
+it doesnt feel right. Hibari is still popular. everyone in seventh year is a bit more aloof, brainspace taken up by newts classes. but hes still popular, and he still gets love letters-- even from first years, and he still gets chocolates in them with love potion and other unhinged things. and where he could brush it off last year as overzealousness, this year it just feels. wrong. hes not meant to be single, he thinks, sullen. im not meant to be. but he is. and its his fault. he remembers what akira said-- since when do gryffindors give up? he remembers what kanato said-- what kind of seeker lets their golden snitch fly away? hibari is so, so popular, so well loved. but not by the person who matters. Lauren sees it first. its like a sparks gone out.
+
+30. THIS ONE IS ONE OF MY FAVOURITE PARTSSSS EHEEEE
+
+hibaris birthday comes around pretty soon into september. he gets piles of gifts, of course he does. lauren gets him a guitar, which annoys everyone in the dorm, but it lights hibari up at least a little. akira gets hibari a magic quill, for reminders, he says, itll remind you. seraph gives hibari the password to the prefect bathroom for his birthday because akira shares it with seraph... which is, pragmatic. but hey, hell take it, he likes singing in the shower. and he gets slews of other, more menial gifts from admirers and swooning girls and other things. thats all before the mail surge at breakfast. hibari never gets mail, because nobody outside of hogwarts gives a flip about him-- but today, he gets one. hibari gets a new broom-- the newest of the newest models from the brand that invented fucking quidditch, *invented the golden fucking snitch*. in other words, hes holding incomprehensible amounts ofm oney in his hands-- and hes been using the tatty old broom from his parents closet since he got to hogwarts, held together with duct tape and a dream. who on earth could afford something like this? he looks at kanato. kanato doesnt look back.
+
+The Great Hall was a cacophony of clinking cutlery and lively chatter that morning, a hum of life Hibari usually found comforting. But today, it was his birthday, and the sheer noise of it all felt overwhelming.
+
+It had started in the Gryffindor dorms, where his friends piled on the presents before breakfast. Lauren's guitar, sleek and resonant, had earned him immediate complaints from the others—but Hibari had grinned so hard his cheeks ached. Akira’s magic quill had been practical, teasing but thoughtful, while Seraph’s whispered prefect bathroom password had been... surprisingly useful. For singing in the shower, of course.
+
+And then there were the admirers. Piles of gifts that he didn’t even open immediately, not because he wasn’t grateful, but because the sheer volume of them was overwhelming. By the time they left the common room, his hands were full.
+
+But that was nothing compared to breakfast.
+
+The post owls flooded the hall in a wave, and Hibari couldn’t help but laugh awkwardly as packages and letters kept landing in front of him. The usual assortment—sweets, fan letters, scarves, even a lovingly knitted sweater he thought was rather nice. He was sifting through the chaos when a box, sleek and unassuming, thudded onto the table.
+
+It didn’t have a note. Just his name, cleanly written, in a careful hand.
+
+Curious, he opened it, and the room seemed to still.
+
+Inside was a broom. The newest of the new, an impossible dream for anyone without obscene amounts of gold to throw around. It was The Aurum One, made by the legendary brand that invented Quidditch, complete with the company’s signature golden snitch insignia engraved on the handle.
+
+Hibari stared. His hands shook as he lifted it, light as a feather and gleaming under the enchanted candles of the Great Hall.
+
+His team captain instincts kicked in, and he quickly ran his fingers along the shaft, checking the specs, the balance, the charm-work. It was flawless. Beyond flawless. He had been flying on a broom cobbled together with duct tape and a dream. This was…
+
+“Who—” His voice cracked, and he cleared his throat, looking up. His gaze swept over the hall, searching for anyone, anyone who might have sent it. None of the usual suspects seemed likely. And then his eyes landed on Kanato.
+
+Kanato, sitting at the Slytherin table, his back straight, his expression unreadable. He didn’t even glance up.
+
+Hibari blinked, his stomach twisting. He clutched the broom tighter, his mind racing. It couldn’t be… could it?
+
+“Who sent it?” Lauren asked, leaning in to examine the broom with wide eyes. “Man, Hibari, this thing costs more than my house.”
+
+Hibari didn’t answer. He just kept staring at Kanato, who was calmly sipping his tea like nothing had happened.
+
+If it was him, why didn’t he say anything? And if it wasn’t… Hibari shook his head, unsure what to think.
+
+Hibari burst into the owlery, clutching the broom in one hand and the box in the other, breathless from his mad dash up the stairs. The wide-eyed owls stirred, some fluttering on their perches in irritation. Little Phantom, his oversized, lark-like owl, waddled over from her perch, chirping inquisitively.
+
+“Hey, Hibari-san,” Hibari muttered, crouching to show him the broom. “You didn’t deliver this, right? You’d tell me, yeah?”
+
+Hibari-san tilted his head, eyes gleaming with curiosity. He chirped again, but of course, had no answers. Hibari groaned, setting the broom down and running a hand through his hair.
+
+“This is so stupid,” he muttered. “Who sends something like this with no note? It’s not funny.”
+
+Hibari-san fluttered up onto the box he had dropped by his feet, claws tapping lightly on the wood. He chirped insistently, pecking at the surface. Hibari blinked.
+
+“What? What is it?” He frowned and shifted closer, examining the box. The sleek surface was flawless, but Hibari-san seemed particularly interested in a small section near the hinge.
+
+Hibari hesitated. He wasn’t great with spells, but he knew enough to suspect there was something hidden here. A simple unveiling charm might do it.
+
+“Okay, uh…” He drew his wand and cast the charm, his voice a little shaky. “Revelio.”
+
+The air shimmered faintly, and there, etched faintly into the wood, two words appeared:
+
+Happy birthday.
+
+The handwriting was sharp, precise, yet undeniably familiar. Hibari’s heart leapt into his throat. He ran his fingers over the words, his breath hitching. Kanato’s handwriting.
+
+He sat there, stunned, his fingers trembling against the letters. For a moment, the noise of the world fell away, leaving only the sound of soft chirps. Hibari pressed his lips together, his chest tight.
+
+Of course. Naturally.
+
+“Damn it,” He leaned back, blinking rapidly. Eyes stinging.
+
+Kanato didn’t look at him, didn’t talk to him, acted like he didn’t care. And yet, he sent this. This broom, something so impossibly thoughtful, so perfect for him.
+
+Hibari laughed bitterly, wiping at his face. “Damn it, Kanato. What am I supposed to do with this?”
+
+Hibari-san chirped in agreement, hopping closer to nudge his hand. Hibari scratched his head absently, sighing. His mind raced, torn between gratitude and frustration. He wasn’t sure whether to cry, scream, or bolt straight to Kanato to confront him.
+
+But for now, he stayed in the owlery, clutching the box and the broom like they were lifelines, trying to steady his pounding heart.
+
+the next day kanato gets a howler. the moment it starts yapping about unauthorised use of the family bank account, he sets it on fire, twice just to be safe, gets up, and leaves. he still doesnt look at hibari. he doesnt look at anyone, who has stilled to listen to the envelope shriek. but the moment lauren says, hes that rich? the hall bursts into conversation.
+
+"FURA KANATO!" The voice that erupted from the Howler was sharp, scolding, and unmistakably laced with authority. "YOU HAVE CROSSED THE LINE THIS TIME! UNAUTHORIZED USE OF THE FAMILY ACCOUNT FOR A—AN AURUM ONE?!"
+
+The hall collectively gasped.
+
+"A FRIVOLOUS, UNNECESSARY EXPENDITURE LIKE THAT?! DO YOU THINK MONEY GROWS ON TREES?!"
+
+Kanato, looking completely unbothered, pulled his wand from his sleeve and pointed it at the envelope. With a deft flick, it burst into flames, the words cutting off as the Howler disintegrated into ash. For good measure, Kanato flicked his wand again, ensuring every last ember was reduced to dust.
+
+Without so much as a glance at anyone, he stood, straightened his robes, and strode out of the hall, leaving an echoing silence in his wake.
+
+---
+
+It didn’t last long.
+
+“Wait.” Lauren’s voice, while not particularly loud, carried like a cannonball across the Gryffindor table. His face twisted into an expression of incredulity as his fork clattered against his plate. “He bought the Aurum One? For you?!”
+
+The buzz of murmurs started low, but within seconds, the hall exploded into chaos.
+
+“Are you serious?” a Gryffindor chaser gasped, leaning forward to stare at Hibari.
+
+“Wait, does this mean Kanato—like—cares?” someone whispered, their tone a mix of awe and disbelief.
+
+“Do you even know how much that broom costs?” a Ravenclaw gawked. “That’s, like, ten years’ worth of tuition!”
+
+“I heard only professional players get those!” a Hufflepuff piped up.
+
+Hibari, still clutching his fork like it might shield him from the onslaught of attention, slouched lower in his seat. His face burned red, his ears hot enough to fry an egg. He wanted to say something—anything—but his brain was short-circuiting, spinning between mortification and the overwhelming realization of what exactly Kanato had done.
+
+Lauren, of course, was having the time of his life. He grinned at Hibari, leaning in conspiratorially. “You lucky bastard,” he teased. “He’s that rich? And he’s still not looking at you? You gotta fix that, man.”
+
+“Shut up, Lauren,” Hibari hissed, glaring daggers at him.
+
+  
+
+kanato had partially done it with his own money, actually. he has good stocks, after all, having inherited his fathers business sense, under his own name. though he did borrow some of the family money for it. more as a stroke of rebellion than anything else. and actually, the reservation for the broom had been made since before graduation, because he wanted it for hibaris birthday. he thinks smugly that his plan had gone under his fathers radar until now. its a bit of a slight in regards to recent events, but hes kind of satisfied about it. and he does hate hibari. quite a bit right now. but hes also seen hibaris tatty old broom. and that bright, bright boy deserves just one thing-- at least one. just one luxury to match his quality. even if he is a shitty gryffindor and a whining dog and a traitor.
+
+  
+
+Kanato’s fingers tapped idly on the desk in his dormitory as he stared out of the window at the grounds. The echo of the Howler’s shrill voice still rang faintly in his ears, and he could picture the scene in the Great Hall with vivid clarity. The stunned silence, the sharp collective inhale, the explosion of whispers and gasps—it was exactly the reaction he’d anticipated.
+
+And yet, Kanato thought, turning the quill in his hand with a twist, he hadn’t expected the surge of satisfaction that followed.
+
+The reservation had been made months ago, before all the drama, before the burned-down manor, before the betrayal, before everything. It wasn’t impulsive; Kanato didn’t do impulsive. He’d seen that tatty old broom Hibari insisted on flying—barely held together with duct tape and what Kanato could only assume was sheer force of will—and it had grated on him.
+
+How could someone like Hibari, a prodigal Seeker, fly on something so utterly pathetic? It was an affront to the sport. An affront to Hibari’s talent. An affront to him, if Kanato was being completely honest.
+
+Kanato flicked his quill down onto the parchment in front of him, the ink blotting where it hit. He didn’t need to remind himself why he’d gone out of his way to secure an Aurum One—the pinnacle of Quidditch craftsmanship—for Hibari’s birthday. It wasn’t just to irritate his father, although that was an undeniably satisfying side effect. It was because that irritating, reckless, disloyal, traitorous Gryffindor deserved it.
+
+Even if Kanato hated him right now. And he did. Oh, he hated him so much it was a palpable thing, simmering in the pit of his stomach, rising to his throat every time he thought of Hibari’s stupid face, his stupid grin, and the way he’d stupidly thrown himself into things Kanato had spent months carefully trying to protect him from.
+
+But even in that hatred, Kanato couldn’t deny the truth: Hibari was brilliant. He shone brighter than anyone, as irritatingly incandescent as the sun itself. And someone like that didn’t belong on a shabby broom. Someone like that deserved the best.
+
+Kanato leaned forward, his elbows resting on the desk as he let out a quiet sigh. The Aurum One had cost him—not just money, though he’d dipped into his personal funds to keep the charge low enough to fly under his father’s radar until today. It had cost him planning, time, and a considerable amount of effort.
+
+But he didn’t regret it. Not really. Not even now, with Hibari’s betrayal gnawing at him like an old wound.
+
+“Happy birthday, idiot,” Kanato muttered under his breath, his voice laced with both bitterness and reluctant fondness. He picked up the quill again, idly spinning it between his fingers as his thoughts drifted back to the scene in the Great Hall. Hibari’s reaction. The way he’d grabbed the box and fled, looking both overwhelmed and almost on the verge of tears.
+
+Kanato frowned.
+
+He hated him, sure. But at least Hibari had that broom now—one luxury to match his quality. Even if he was a shitty Gryffindor, a whining dog, and, yes, a traitor.
+
+Kanato’s gaze dropped to the parchment in front of him, the beginnings of a letter he’d been writing to his father. The smirk returned, sharper this time. His plan had gone under his father’s radar longer than he’d expected, but the Howler had been inevitable. A slight rebellion, but one Kanato was privately satisfied with.
+
+He dipped his quill in the ink, his hand steady as he wrote the next line: “Thank you for the reminder about unauthorized expenses. I’ll be more careful in the future.”
+
+hibari steals the letter. he follows kanato when kanato leaves it at the owl post, out of sight, and then slips right in and steals it from the fura family post owls claws. because he wants to know what on earth kanato was thinking, when he sent the fucking broom. and oh boy, its a very passive aggressive letter to kanatos father. about hwo it was preplanned-- preplanned, he planned this?-- and two thirds paid for by his own money-- he spent his OWN MONEY?-- and how since kanatos father has written hibari out of his life, its irrelevant anyway. that part stings. but he puts the letter back and gives it to the owl and screams into his hands because-- kanato had gone above and beyodn for him, and hed fucked it up. their relationship
+
+  
+
+"Father,
+
+I understand your frustration regarding the recent charge to the family account, though I would remind you that the Aurum One was preordered several months ago. Two-thirds of the payment came from my own funds. The use of the family account was a matter of convenience, nothing more.
+
+It’s irrelevant now, isn’t it? After all, you’ve already written Watarai out of my life. He’s a nonfactor—‘useless,’ as you so frequently remind me. His broom choice shouldn’t concern you.
+
+But since you insist on interfering in every aspect of my life, I should clarify: the broom was a gift. My gift. It reflects my standards, not yours.
+
+Please refrain from questioning my decisions further. Unlike you, I prefer to manage my affairs without dragging unnecessary attention to them.
+
+Your son,  
+Kanato.”
+
+Hibari’s grip on the letter tightened as the words seared themselves into his mind. Preordered. Kanato had planned this, before everything. He’d been thinking about Hibari’s tatty old broom and decided, months ago, that Hibari deserved better. Kanato had spent his own money. Kanato, the same Kanato who had once thrown plates at him and screamed about betrayal, had dipped into his savings to give him something extraordinary.
+
+Hibari shoved the letter back into the envelope, hands trembling, and slipped it into the Fura owl’s claw. The owl gave him a scrutinizing look, but he barely noticed as it took off into the sky. He pressed his hands to his face and let out a muffled scream, the weight of his guilt suffocating.
+
+He crouched there for a long moment, his mind a chaotic mess of regret, frustration, and something rawer—something that whispered, Fix this. Fix this before it’s too late. But how? How could he make things right when the damage seemed so irreparable?
+
+Kanato’s words echoed in his mind again: “It reflects my standards, not yours.”
+
+Hibari’s hands dropped from his face, his breathing still uneven. Maybe… maybe there was still a way to prove he could meet those standards. If Kanato had gone to such lengths, then maybe—just maybe—Hibari hadn’t completely lost him yet.
+
+He just had to figure out how to steal Kanato’s trust back. And this time, he wouldn’t let it slip through his fingers.
+
+  
+
+The next morning at breakfast, the Hogwarts Great Hall seemed abuzz with a certain expectation. It wasn’t that anyone knew exactly what was going to happen, but everyone had been privy to the first howler addressed to Kanato Fura—and it had been nothing short of dramatic. Now, as the mail arrived, several heads tilted toward the Slytherin table, their gazes fixed on Kanato.
+
+Hibari felt the tension in the air like a weight pressing against his chest. He was trying, trying not to stare as Kanato calmly sipped his tea, unbothered by the quiet murmur of speculation all around.
+
+The next thing he knew, an angry red envelope swooped through the enchanted ceiling and landed squarely in front of Kanato’s plate.
+
+The hall stilled.
+
+Kanato sighed, his shoulders rising and falling as if burdened by the inevitability of his life being the center of attention once again. He didn’t so much as blink when the howler opened with an explosion of furious, shrill tones.
+
+"KANATO! WHAT IS THIS I HEAR ABOUT YOU HIDING YOUR OWN STOCKS?! YOU HAVE YOUR OWN PORTFOLIO?! AND YOU NEVER BOTHERED TO TELL YOUR MOTHER?!"
+
+The hall broke into scattered gasps and murmurs. Even Hibari, who had been ready for something, felt his stomach twist. Stocks? What stocks?!
+
+Kanato’s expression remained the epitome of composure as his mother’s voice continued its tirade.
+
+"DO YOU HAVE ANY IDEA HOW THIS LOOKS? AFTER YOUR FATHER HAD TO CLEAN UP THAT MESS WITH THE BROOM PURCHASE, YOU—YOU'RE PRACTICALLY EMBARRASSING US! I SWEAR, IF YOUR PORTFOLIO ISN’T REVIEWED BY OUR ADVISOR BY THE TIME YOU COME HOME FOR CHRISTMAS, THERE WILL BE—”
+
+Kanato casually reached over and pinched the howler closed, cutting off his mother mid-shriek. He muttered something under his breath that looked suspiciously like “Let’s not subject everyone to this” and, with the same nonchalance, set it aflame with a flick of his wand.
+
+Ash fluttered to the table, and the hall broke out into a louder buzz of conversation.
+
+“His own stocks?” Lauren said from the Gryffindor table, sounding absolutely disbelieving. He looked like he was about to pass out. “He has stocks. What the hell?”
+
+Across the table, Hibari stared at the charred remains of the howler with a tight chest. His brain buzzed with the revelation. He made that much money—enough to pay for an Aurum One with barely a dent to his finances? Kanato was just sitting on this information? He felt dizzy, like he’d been blindsided by the complexity of Kanato’s life all over again.
+
+But as Hibari watched Kanato lean over to ask someone for a pen and parchment—his demeanor as calm as if he were writing a simple to-do list—he caught something in the calculated way Kanato moved. There was no panic in him. Not a shred of hesitation or fear of repercussions. Kanato knew exactly what he was doing.
+
+That was when it hit Hibari. The howlers were only coming after Kanato’s decisions had already been made. Whether it was the broom or his stocks, Kanato’s parents didn’t seem to find out about these things until after the fact.
+
+Hibari’s heart thudded heavily in his chest. Did that mean… Kanato’s father’s threats weren’t as omnipotent as they seemed? Maybe he didn’t know everything.
+
+And if he didn’t know everything, that meant Hibari might still have a chance.
+
+Hibari swallowed thickly, his mind racing. He couldn’t rush into this. If Kanato’s father could get even a hint of what he was thinking, he was as good as dead—and worse, Kanato’s freedom would be ruined. He had to figure out the boundaries of what was safe first. He needed information.
+
+Hibari looked across the table at Seraph and Akira. They were the ones who had to know.
+
+  
+
+then comes time for the first quidditch practice hibari is actually attending since getting the broom two days ago. hibari knows hes late on the uptake, but the quidditch team has been pretty nifty, even in his absence. its his first showing with the aurum one, so hed better make it count.
+
+From the stands, a small crowd had gathered. Quidditch was one of the few sports that attracted attention even during practice, and tonight was no different. Among the onlookers, Kanato sat with Akira and Seraph, his arms crossed and his expression neutral.
+
+Akira nudged him. “You bought that broom, didn’t you?”
+
+Kanato didn’t respond, his eyes locked on Hibari as the Gryffindor captain weaved effortlessly through the air. He made it look easy, natural, and it was clear he was testing the limits of the broom, pushing it to see what it could do. Kanato’s chest tightened at the sight.
+
+Of course I bought it, Kanato thought, though he said nothing. He couldn’t deny the sense of satisfaction watching Hibari soar like that, even if he wouldn’t admit it out loud.
+
+“Looks like it was worth the money,” Seraph remarked, leaning back with a smirk.
+
+Kanato didn’t answer, but a small, almost imperceptible smile tugged at the corner of his lips. He wouldn’t have said it, but there was something deeply gratifying about knowing Hibari was flying on something he had provided. It felt right.
+
+quidditch practice closes out, and lauren approaches hibari. hes changed his mind. he loves watching hibari fly on that thing, and he wont even have to try that hard to win if hibari rides that broom, but mostly-- lauren is happy that hibari is happy. he wants back on the team, hibari is more than delighted. he makes a comment about the broom, saying that its crazy hibari won as many games as he did on that thing from his muggle moms broom closet (duct tape and a prayer). hibari liked his old broom though, even if this one is better. and then hes reminded again as lauren mentions kanatos howlers, of what kanato did for him.
+
+hibari needs to do something weird. and thats think things through, methodically. first, he needs to pin down who and where kanatos fathers informants are. slytherins, undoubtedly? but which ones, and who? and how can he win them over? he asks akira as much. akira couldnt say who, hes not privy to that information anymore. but on the latter? its hibari. with that charisma, hibari can win anyone over.
+
+  
+
+31. hibari needs to do something weird. and thats think things through, methodically. first, he needs to pin down who and where kanatos fathers informants are. slytherins, undoubtedly? but which ones, and who? and how can he win them over? he asks akira as much. akira couldnt say who, hes not privy to that information anymore. but on the latter? its hibari. with that charisma, hibari can win anyone over.
+
+if he cant figure out who. hibari only has to do one thing-- and that is become popular with all of them. now, the slytherins hate their guts since his fling with kanato last year. and he cant really tell him thats not happening, because hes trying to make it happen, obviously. but hibari may be pretty open on the surface, but hes got an edge of cunning. there was that girl he got to let him into the slytherin commons last year. he just needs to do that again. for the entire slytherin cohort. easy, right? seraph stops him. he heard from akira. and seraph can offer something even better than hibaris charm-- no offense-- and thats leverage. hibari should use kanatos howlers. kanato is rich as hell, everybody knows that now. lord of the underworld, the hufflepuffs are calling him, the god of riches, hades, etcetera. hibari winces at how on the nose that is, seraph agrees. but anyway, thats what slytherins care about. riches, power. and if kanato got his own family in a tizzy with just how much money hes made *secretly*, then thats something hibari can use alongside his charm, no?
+
+  
+
+“Exactly,” Seraph said, smirking. “But here’s the thing—if Kanato got his own family in a tizzy just by flashing how much money he’s made on his own, imagine what that means to the Slytherins. You don’t just have charm. You’ve got currency.”
+
+Hibari blinked, the gears in his head beginning to turn. “You’re saying… I should use that?”
+
+“Why not?” Seraph shrugged. “Tell them you’re close to Kanato, and that you’ve got connections. Drop hints that being on your good side means being on his good side. Dangle it just enough to make them curious.”
+
+“But Kanato hates me right now,” Hibari pointed out.
+
+“They don’t have to know that,” Seraph said. “Slytherins don’t care about feelings. They care about outcomes. If they think you’re a bridge to Kanato’s power, they’ll flock to you.”
+
+Hibari hesitated, the idea both thrilling and terrifying. “And you think this will work?”
+
+Seraph smirked. “It’s better than walking into the snake pit with nothing but your golden retriever energy.”
+
+Hibari scowled. “I still don’t get why everyone keeps calling me that.”
+
+Seraph clapped a hand on his shoulder. “Because it’s accurate. Now, go fetch yourself some allies.”
+
+  
+
+as he sets off to take seraphs advice, he complains that hes at least a border collie. kanato is the golden retriever. seraph thinks about it, but with how kanato has been lately-- outside of his interactions with hibari-- he can see it actually. maybe his recent openness about his family status has taken a weight off his shoulders? who knows. at any rate, hibari needs to get going. hes got a lot of slytherins to go through. Blah blah blah cue montage
+
+hibari gets more of an audience at the next quidditch practice, and if one were to suspect-- which lauren is-- its because hibaris little charm seeds (dont phrase it like that lauren, says hibari)-- have got them interested in his broom. a lot of them arent quidditch team players, lauren observes. so there here to gauge the worth of that. he points at the broom. a power display, hibari realises. thats what theyre looking for. well, sure. he can deliver.
+
+the howlers were big news, but as it turns out, a lot of the slytherins didnt put the clues together until hibari was dangling the carrot right in front of their faces. t he very next day, the three slytherins come trotting right back to him to talk about it-- in the middle of the hall, in between classes. in other words, in the sightline of everybody present, including other slytherins. this is good. if he can get to business with them and win, then hes as good as gold to resume chasing his golden snitch. and by the end of the exchange? theyre impressed. they even say, you couldve been a slytherin.
+
+isnt it convenient, hibari thinks wryly, as he begins to attract a lot of slytherins 'interested' in his viability, how bullies tend to forget all the bullying they did? like seraph said, all kanato did was flash a fraction of his wealth, send his own family into a tizzy, and they swap sides like a fucking light switch. but just a little more, just a bit more push, and a bit more pizazz, and a bit more charisma, and most importantly-- a bit more *business*, hell have sealed the deal with any slytherin. theres just one thing he needs to do, and its prove to them that hes on kanatos side, and anyone on kanatos side is a winner. he just cant let them know kanato hates his guts right now. and hes so close. how does he ensure their silence? isnt it hard to cut off informants without a serious bribe? between akira and seraph though, hibari has a foolproof plan.
+
+the next day. kanato gets a howler. and this time, he lets it talk, because it surprises him. well played, his mother shrieks, your stocks stunt has caused a bunch of our supporters to pull rank!! and kanato lets it prattle on, because, that wasnt him actually. it keeps shrieking about how kanato has no power over the family and his own wealth is not enough to do anything and blah blah blah and kanato says, to the howler, i didnt bribe anyone. the howler shuts up. lying is tantamount to treason in the fura family, and kanato is no liar. after a moment of silence, kanato says, they did it themselves. the howler shrieks in outrage, and tears itself into shreds. the hall stays silent.
+
+“Well played!” came the voice of Kanato’s mother, shrill and scathing. Her words echoed off the enchanted ceiling, filling the Great Hall. “You think you’re clever, don’t you? Do you have any idea what you’ve done? Your little stunt with the stocks has caused a bunch of our supporters to pull rank! They’re threatening to withdraw entirely, and it’s your fault!”
+
+Kanato’s expression didn’t change. He sat back slightly, as if to make himself more comfortable, and laced his fingers together on the table. His pale blue gaze remained fixed on the howler, which practically vibrated with fury.
+
+“Do you think your pathetic little portfolio gives you real power?” the howler continued, her voice rising with each word. “Your money is a pittance compared to what the family commands! You have no authority! No sway! No—”
+
+Kanato’s voice cut through the tirade like a knife. Calm. Cool. Lethal.
+
+“I didn’t bribe anyone.”
+
+The howler stopped mid-rant, the silence so abrupt it was as if someone had cast a silencing charm on the room. Every head in the Great Hall turned toward Kanato. Even the professors paused mid-meal to stare.
+
+Kanato tilted his head slightly, his gaze narrowing. “They did it themselves,” he said, his voice still calm but carrying an edge that made the words land with an almost physical weight.
+
+For a moment, the howler didn’t respond. Everyone in the hall seemed to hold their breath, waiting. Lying was tantamount to treason in the Fura family. If Kanato had lied, the howler would have torn into him with renewed fury. But it didn’t.
+
+Instead, it let out an incoherent shriek of rage, paper curling and edges smoking, before tearing itself into shreds. The pieces disintegrated into ash before they hit the table, leaving nothing but the faint smell of burnt parchment behind.
+
+The silence in the Great Hall was deafening. Students exchanged wide-eyed glances, whispers starting up like the rustle of dry leaves.
+
+Kanato, for his part, appeared utterly unbothered. He picked up his tea and took another sip, his movements unhurried. Then, as if addressing no one in particular, he said, “What a waste of good parchment.”
+
+  
+
+32. its akira who approaches hibari rapidly after breakfast, because he can see from a distance that hibari has no idea what that howler was about. a bit frenetic, akira spells it out for him. It. Was. You. Youre the one whoc aused the supporters to pull because youve won all the slytherins over using the broom kanato bought him! hibari pales, oh shit, he said. if they find out, im dead meat. the fura family is going to cut my head off. (he pictures it, and its not pretty.) seraph pops up, he assures hibari that if its true and the supporters are pulling, theyll lie low. nobody burns their sources in the underworld. they just need to make good on any favours the slytherins ask them for, and theyll be fine. uh huh, says hibari, okay. HOW. the others seem to relax at this. did you forget? they say. seraphs from an assassin family. you are a phantom thief. and im an ex spy. says akira youre a what? says hibari, because he didnt know that. oh, akira says. well you do now. maybe hes not so screwed after all?
+
+if kanatos new nickname is king of the underworld-slash-god of riches, then hibari has a new one. theyre calling him the chimera. WHAT! says hibari, when he hears this from lauren. lauren says its because a chimera is a lion with a snake on its tail. hibari feels like dying. and not just because his potions homework is kicking his ass when hes having this conversation
+
+hibari has to keep the act up a little longer. really cement it. actually, hes even becoming friends with a couple of the slytherins, proper. if he keeps going, he might not even have to try. meanwhile, kanato is dealing with a lot of unwanted attention. hes a bit ticked the three howlers basically revealed his hand to every student in the building. and now any gold digging student is trying to get into his pants in all kinds of ways. some of them even seem nice. but he supposes his nickname wouldnt be god of the underworld if he wasnt at least a little cold. hibaris attention from the slytherins climbs, too. and it impresses the other houses-- which were already pretty fond of him in the first place. basically, the pair of them climb to the top of the social hierarchy in a matter of days thanks to hibari, akira and seraphs secret manouvres. and then the first request comes, from a demure slytherin seventh year. i want to pass my newts, he says plainly. what. says hibari. just study. poor guy. hibari sees a lot of himself in him. cant you just cheat the results for me? says the guy, bribe the teachers? hibari laughs. no, some things you gotta do the right way. if you get those grades on your own, wont people respect you more? that gets the seventh years attention. hibari promises to get akira to help him study. like seraph said-- now hibari is thinking like a slytherin.
+
+  
+
+one week later, hibari has solved about four problems that are purely menial. its weird. except for the kid who asked him if he could steal something back from the headmaster. piece of cake, even if hibari felt a little bad. its all for kanatos sake, he tells himself. even if it compromises his morals. not long after that, rafael comes back to him and says he aced a mock test in muggle studies. he really is trying for lawyer, lucky guess hibari, but anyway, it got the attention of a ravenclaw girl that had an eye on him, and he got a date. huh. thinks hibari. weird how life works out. he sees rafael off and is turning the corner to head for quidditch practice when he comes nose to nose with none other than fura kanato. "What," he hisses, icy, "The hell are you doing?" hibari is in trouble.
+
+  
+
+“Life’s weird,” he muttered, turning on his heel.
+
+But as he rounded the corner, his amusement evaporated. Standing directly in his path, as though materialized out of thin air, was Fura Kanato.
+
+Hibari froze.
+
+Kanato looked immaculate as always, his Slytherin robes pristine, his golden hair catching the dim light of the hallway. His face, however, was a different story. His icy glare bore into Hibari, and his lips curled into something between a snarl and a sneer.
+
+“What,” Kanato hissed, his voice low and sharp, “the hell are you doing?”
+
+Hibari blinked, his brain scrambling for an answer. “Uh—what do you mean?”
+
+Kanato stepped closer, his movements deliberate and precise. “Don’t play dumb with me, Watarai. I’ve been hearing things. Slytherins talking about you. My Slytherins.”
+
+“Your Slytherins?” Hibari repeated, incredulous.
+
+Kanato’s eyes narrowed, his voice dropping even further. “Yes. Mine. You’ve been meddling, haven’t you?”
+
+“Meddling?” Hibari said, trying for nonchalance. “I don’t know what you’re talking about.”
+
+Kanato stepped even closer, his nose practically brushing Hibari’s. “Don’t lie to me.”
+
+Hibari’s heart was racing, but he forced himself to stand his ground. “Look, if you’re upset about something, maybe just say it instead of looming over me like a dementor.”
+
+Kanato’s glare intensified. “Upset? Upset doesn’t even begin to cover it. You’ve been running around Hogwarts, cozying up to Slytherins, pulling stunts like stealing from the headmaster. Do you think I don’t know what you’re doing?”
+
+“I’m just helping people!” Hibari shot back. “Isn’t that what Gryffindors are supposed to do?”
+
+Kanato’s jaw tightened, and for a moment, he looked like he might explode. Then, with a sharp exhale, he took a step back, crossing his arms. “Helping people, huh? Don’t think I don’t see through you, Watarai.”
+
+“See through what?” Hibari demanded, his voice rising.
+
+Kanato leaned in again, his voice like ice. “You’re using my name. My reputation. My family. You’re playing a dangerous game, Hibari, and if you screw this up—”
+
+“I’m doing this for you!” Hibari blurted, cutting him off.
+
+The words hung in the air, echoing in the silence that followed. Kanato blinked, his expression momentarily thrown off.
+
+“For me?” he repeated, his tone skeptical.
+
+Hibari swallowed hard, his pulse pounding in his ears. “Yeah. For you. Because you’re the one who—”
+
+“Stop,” Kanato snapped, his voice laced with warning. “Just stop.”
+
+Hibari bit his tongue, his frustration boiling over. “Fine. If you want to be mad, be mad. But I’m not apologizing for helping you.”
+
+Kanato stared at him for a long moment, his expression unreadable. Then he turned on his heel, his robes billowing behind him as he strode away.
+
+“Kanato, wait—” Hibari started, but Kanato didn’t look back.
+
+As the sound of his footsteps faded, Hibari exhaled shakily, running a hand through his hair.
+
+“I’m so screwed,” he muttered.
+
+  
+
+he runs straight to seraph and akira. frantically asks them that if anyone was going to screw it up, it wouldnt be kanato would it? because he knwos everything. like everything everything. and also he still hates hibaris guts. and also, what is lauren doing here? lauren says hes studying law enforcement. of course he knows about everything. i mean, the three of them are basically operating a highschool crime ring. of course lauren is going to notice, even if the teachers dont. and hes here because their little highschool vigilante ring has been helping lauren out too. hibari doesnt believe it when he hears that seraph has been keeping a hitman syndicate off the muggle studies teachers back-- WHAT? who is apparently a friend of laurens.
+
+early november. the first quidditch match of the season is about to be played. as last years champions, gryffindor is on one side. hufflepuff on the other. the hufflepuff seeker looks like hes already given up. but then hayase sou on the announcer says, 'in lieu of some recent developments, we've upgraded the capabilities of the golden snitch!' and what the heck does that mean? no explanations given. the g ame starts. off goes the quaffle. soon the snitch will be unleashed-- and when it is, shit. that things lightning fast. and its almost like its *thinking*. Yeah i upgraded the snitch bc i can
+
+hibari actually hits a post and is knocked off his broom, but its not far from the ground so hes back on his feet. that was embarrassing, but hes gonna catch that snitch if it kills him.
+
+not long after the match, a rather large swathe of slytherins are on the pitch, intercepting hibari and lauren and the rest of the team. their demands are sharp but forward: Youre the chimera, says their quidditch captain, teach us how to fly like you. thats the codeword-- chimera. any slytherin who mentions it is leveraging a favour, so its not like hibari can decline. its not as if he wants to,r eally-- its weird how mundane their 'favours' are sometimes. he expected worse from slytherin, but theyre just kids too, huh? kanato watches as he leaves. he knows exactly what hibaris done. but if he burns too bright, the rays of his star are going to start causing fires. if the fura family finds out... kanato shakes his head. he needs to do some recon. if the fura family finds out, hibari is as good as dead.
+
+  
+
+33. hibari is starting to feel pretty stable in his position. although his grades are never stable, but thats par for course. the plan, with the help of all his friends, seems to have gone well, and the slytherins even *like* him now. november is here and the yule ball is on the horizon once again-- he still thinks its awesome that hogwarts holds them every year now-- and theres only one thing hibari needs to do to get his stride back. and thats catch his golden snitch. who, he remembers, wilting, hates his guts.
+
+  
+
+Hibari groaned. “Stupid snitch,” he muttered under his breath. “Why’d you have to make everything so hard?”
+
+“What’s that?” Akira’s voice cut through his grumbling as he and Seraph dropped into the seats beside him.
+
+“Nothing,” Hibari mumbled, straightening up.
+
+Seraph leaned forward, peering at the mess of notes and spilled ink on the table. “You’re brooding.”
+
+“I don’t brood,” Hibari shot back, glaring at him.
+
+“You do now,” Akira said, grinning. “So, what’s the plan for the Yule Ball?”
+
+Hibari blinked. “Plan?”
+
+“Yeah,” Akira said, as if it were obvious. “You’re going, right? Or are you too busy moping over Fura to notice the world around you?”
+
+“I’m not moping,” Hibari said, crossing his arms. “And… I dunno. It’s not like he’s gonna go with me.”
+
+Seraph raised an eyebrow. “So ask him.”
+
+“What?”
+
+“You’re the Chimera, aren’t you?” Seraph continued, leaning back with a smirk. “You’ve charmed half the school into liking you. Why not try your luck with him?”
+
+Hibari laughed, but it was hollow. “He hates me.”
+
+Akira rolled his eyes. “Oh, please. He doesn’t hate you. He’s just being Kanato. He probably hates himself more than he hates you.”
+
+“Wow,” Hibari said, throwing up his hands. “Thanks, Akira. That makes me feel so much better.”
+
+Akira grinned. “You’re welcome.”
+
+Seraph tapped his fingers on the table, his gaze thoughtful. “Look, you’re stable now, right? Your plan worked. The Slytherins are on your side, the teachers aren’t suspicious, and your reputation is rock solid. If you really want to fix things with him, now’s the time to do it.”
+
+Hibari hesitated, the weight of their words sinking in. The plan had gone well—better than he’d dared to hope. But this? Asking Kanato to the Yule Ball? That wasn’t just risky; it was outright terrifying.
+
+Still, a spark of determination flickered in his chest. He was a Gryffindor, wasn’t he? And Gryffindors didn’t give up. Not on their grades, not on their friends, and definitely not on their golden snitches.
+
+“Alright,” Hibari said, standing up. His heart was pounding, but he ignored it. “I’ll do it.”
+
+Akira and Seraph exchanged a glance, smirking in unison. “Good luck,” Akira said, his tone laced with amusement.
+
+“You’ll need it,” Seraph added.
+
+Hibari wasn’t nervous. Okay, maybe he was a little nervous. He adjusted his tie for the third time as he entered the library, ignoring the flutter in his chest. The Gryffindor golden boy had faced bludgers, hexes, and Slytherin politics—he could handle this. Right?
+
+Except it didn’t help that on the way there, six different girls stopped him, each asking him to the Yule Ball. He declined them all as politely as he could, though one ran off crying before he could even explain himself.
+
+“Sorry,” he muttered after her retreating form. He really did sympathize. He knew exactly how it felt to want someone and feel like you couldn’t have them.
+
+But he wasn’t here for anyone else. He was here for Kanato.
+
+He found him exactly where he thought he would: in the library, poring over an ancient text with a stack of equally old books beside him. Kanato Fura, ever the perfectionist. Ever the nerd.
+
+“Kanato,” Hibari greeted, sliding into the seat across from him.
+
+Kanato didn’t even glance up. “If it isn’t the Chimera half-wit.”
+
+Ouch. That stung. Hibari forced a smile. “Wow, really setting the mood here.”
+
+Kanato finally looked up, his cold, pale gaze piercing. “What do you want?”
+
+Hibari swallowed. Cut to the chase, he thought. Don’t overthink it. “The Yule Ball’s coming up.”
+
+“I’m aware,” Kanato said flatly, returning his attention to his book.
+
+“Well,” Hibari began, “I was thinking… maybe we could go. Together.”
+
+For a moment, there was silence. Kanato’s eyes stayed fixed on the page, though he wasn’t reading anymore. Then, he closed the book with deliberate slowness and leaned back in his chair, fixing Hibari with a blank stare.
+
+“You can’t be serious,” Kanato said, his voice as sharp as a knife. And then, with cutting precision: “Watarai.”
+
+Hibari winced. He hadn’t used his surname in months. “Kanato, listen—”
+
+“No, you listen,” Kanato interrupted, his voice icy calm. “If I recall correctly, it was you who suggested to my father that we never speak again.”
+
+“That’s not—” Hibari started, but Kanato cut him off again.
+
+“And your stunts with the Slytherins?” Kanato continued, his tone biting. “They aren’t appreciated. In fact, I don’t appreciate any of your stunts.”
+
+Hibari stared at him, speechless. His chest felt tight. He opened his mouth to respond, but the words wouldn’t come.
+
+Kanato gathered his books with a precise, almost mechanical grace. “If you don’t mind,” he said, his tone dripping with mock politeness, “I already have a date. So if you’ll excuse me.”
+
+Wait. What?
+
+Kanato stood, his bag slung over one shoulder, and strode toward the exit without looking back. Hibari sat frozen in his chair, his mind racing. What the hell had just happened?
+
+He had a date? Kanato had a date? Since when? With who?
+
+Hibari’s stomach sank as he watched Kanato disappear through the library doors. Oh, man. He had really, really screwed this up.
+
+Hibari watched Kanato leave, his back rigid as he pushed through the library doors. But then, at the threshold, a girl stopped him—a pretty one, wearing the kind of nervous smile Hibari recognized. She wanted to ask him something, probably the same thing six others had asked Hibari earlier.
+
+Kanato listened for a moment, his expression unchanging, then shook his head and walked away without a glance back. It didn’t make Hibari feel better. In fact, it made him feel worse.
+
+Kanato didn’t care. He didn’t care about her interest. He didn’t care about Hibari’s invitation. And worst of all, he didn’t care about Hibari. The way he’d said his surname—the way he used it like a wall between them—was worse than any hex, worse than any bludger. Worse than the years his family spent ignoring him, pretending he didn’t exist.
+
+At least with them, he’d never expected anything. But with Kanato…
+
+For the first time in his Hogwarts life, Watarai Hibari fled.
+
+He didn’t know where he was going until he was there, the door appearing in front of him as he rounded a corner on the seventh floor. The Room of Requirement. His sanctuary. The place that had seen him through countless sleepless nights and restless days.
+
+He stepped inside, and the door closed softly behind him. The room was dim, its warm, golden light casting long shadows across the walls. It was empty save for a single couch by the fire, the crackling flames the only sound.
+
+Hibari sat down heavily, his hands trembling as he ran them through his hair. The adrenaline of the confrontation was wearing off, leaving behind a hollowness he didn’t know how to fill. His chest felt tight, like he couldn’t quite breathe.
+
+What had he been thinking? That Kanato would just… forgive him? That they could pretend the summer hadn’t happened, that Hibari hadn’t made the worst decision of his life?
+
+“Stupid,” he muttered, his voice cracking. “You’re so stupid.”
+
+The fire flickered, casting fleeting shapes on the walls. Hibari stared into the flames, his mind racing. He thought of Kanato’s cold stare, the venom in his voice, the way he’d said, I already have a date.
+
+It didn’t matter who it was. The words alone were enough to break him.
+
+Hibari buried his face in his hands, his breaths shallow and uneven. For the first time in years, he felt the sting of tears at the corners of his eyes. He hated this. He hated feeling like this. He hated how much he still loved Kanato, even now.
+
+hibari gets hit in the face with the quaffle at the next practice. its been a while, but hes wearing that scary neutral face again. the one he wears when hes upset and bottling everything up. so. they bench him for practice. and hibari goes off to the room of requirement. again. which hes been doing for the whole week. saiki ittetsu, now a second year on the quidditch team, as he watches hibari go says, he needs a date man. he looks miserable. lauren agrees. as hibari is dragging himself and his very expensive broom to hide in the room of requirement again, hes spotted by none other than kanato. he doesnt notice. and kanato doesnt approach him. but its a sight that sits in his mind afterwards. serves him right.
+
+  
+
+From the shadowed corridor outside the seventh-floor staircase, Kanato paused mid-step, his brow furrowing as he watched Hibari push open the familiar door. He didn’t know why he’d stopped; he hadn’t been following him—not intentionally, anyway.
+
+But there Hibari was, his shoulders slumped, dragging that ridiculous broom like it weighed a ton. He looked like a ghost of himself, his usual vibrancy stripped away. It was a pathetic sight.
+
+Serves him right, Kanato thought sharply, turning away. But as he descended the stairs, the image stayed with him. The slump of Hibari’s shoulders. The blankness in his eyes.
+
+Kanato clenched his fists. He didn’t care. He didn’t.
+
+  
+
+OWUEYUIEUEWWW KANAAAA
+
+  
+
+34. The Great Hall was abuzz with chatter that morning, as it always was, but something new was stirring in the air. Hufflepuffs whispered conspiratorially at their table, and Ravenclaws were craning their necks toward the entrance. Even the Slytherins seemed unusually attentive, their sharp gazes fixed on the commotion that had just arrived at the doors. A girl, her presence demanding attention, stepped into the hall with all the confidence of someone who belonged there but somehow stood apart.
+
+Kana.
+
+Her name passed like a ripple through the room before she even introduced herself. It wasn’t just her striking resemblance to Kanato that caught the eye, though that was impossible to ignore—her delicate features, framed by long, silken hair, mirrored his almost unnervingly. Their shared blue eyes were a vivid, glacial hue, cutting through the warm light of the Hall like shards of ice. But Kana was different. Her smile was wide and brilliant, and her demeanor exuded an effervescence Kanato had never possessed. Where Kanato’s elegance was cool and distant, Kana’s was approachable, almost inviting, though something in her bright expression felt just a little too perfect.
+
+Hibari, sitting at the Gryffindor table, had noticed her immediately, though he couldn’t quite place why she struck such an immediate chord of unease in him. It wasn’t until she introduced herself that the pieces fell into place.
+
+“Kana Fura,” she said, her voice like a bell. “Kanato’s cousin. I’ll be joining you all for the rest of the term!”
+
+Kanato, sitting at the Slytherin table, didn’t even look up as the words spilled out. If anything, he seemed to shrink slightly into himself, his expression hardening as Kana cast a cheery glance his way.
+
+Hibari’s gaze darted between Kanato and Kana, searching for any clue, any subtle indication of what this might mean. The resemblance was uncanny, undeniable, but Kana’s demeanor couldn’t be more different. While Kanato seemed to actively avoid the attention she drew, Kana basked in it. She waved enthusiastically to a few nearby students and tossed an airy laugh as one of the Ravenclaw boys offered to help her find her way around. She was magnetic in her own way, though her cheerfulness rang almost hollow to Hibari’s ears.
+
+“Family business,” she added, as though it explained everything.
+
+And maybe to the other students, it did. Hogwarts, after all, was no stranger to sudden arrivals or curious transfers. But to Akira and Seraph, seated at the Gryffindor and Hufflepuff tables respectively, this announcement wasn’t just curious. It was alarming.
+
+They weren’t at all comforted by Kana’s cheerful presence or the excuse of “family business.”
+
+“Why now?” Akira murmured, pulling Seraph aside. “Why send her here of all places? Why not some other school? This isn’t a coincidence.”
+
+“She’s an operative,” Seraph said bluntly, his voice low. “Has to be. The Fura family wouldn’t send someone halfway across the world for no reason. They’re probing for something.”
+
+Akira nodded. “Or someone.”
+
+Across the room, Kana had made her way to the Slytherin table and seated herself with the grace of someone stepping onto a stage. Kanato barely spared her a glance, his jaw tight and his shoulders rigid. Kana, however, seemed unbothered by his cold reception. She leaned toward him, whispering something that made his frown deepen, though he didn’t respond.
+
+Hibari couldn’t hear what was said, but the sight of Kana next to Kanato, so similar yet so incongruent, sent a fresh wave of discomfort through him. It wasn’t just her sudden arrival or the way she seemed to command the room—it was the way Kanato looked at her, or rather didn’t look at her, that unsettled him most of all.
+
+Something was wrong.
+
+“Oi,” Lauren’s voice snapped him out of his spiraling thoughts. “What’s got you looking so pale? Don’t tell me you’ve got a thing for her too.”
+
+“What?” Hibari blinked at him, startled. “No, that’s—what?”
+
+Lauren raised an eyebrow, but before he could press further, Kana’s voice rang out again, bright and clear.
+
+“Do take care of me!” she said with a smile that didn’t quite reach her eyes. And then, almost as an afterthought, she added, “Right, cousin?”
+
+Kanato didn’t respond, but the subtle clench of his jaw spoke volumes.
+
+Hibari barely had time to process the uneasy knot Kana’s arrival had tied in his stomach before Lauren, ever the opportunist for chaos, started poking at him with his usual mischievous energy.
+
+“Y’know,” Lauren said, leaning casually on his elbow as he shoveled a forkful of scrambled eggs into his mouth. “You’ve got a type.”
+
+Hibari, mid-sip of pumpkin juice, nearly choked. “What are you talking about?”
+
+“Oh, c’mon,” Lauren said, smirking. “You can’t tell me you’re not interested. She’s got that whole striking, enigmatic aura going on. You sure you’re not into her?”
+
+“I’m not,” Hibari said firmly, setting his goblet down with a decisive thud.
+
+Lauren raised an eyebrow, clearly unconvinced. “Really? Not even a little curious? I mean, look at her. She’s practically the female version of—”
+
+Hibari shot him a sharp look. “Don’t even finish that sentence.”
+
+“Fine, fine,” Lauren said, holding up his hands in mock surrender. A mischievous glint danced in his eyes, though, as he added, “Still, you’re not exactly putting up a convincing defense. What if you’re into both?”
+
+Hibari groaned, pinching the bridge of his nose. “I’m not into her.”
+
+“But you could be,” Lauren pressed, the smirk on his face growing. “Think about it—a cousin. It’s like, prime opportunity for—”
+
+“Lauren, if you say the word ‘threesome,’ I’m going to hex you into next week,” Hibari snapped, his ears reddening.
+
+Lauren cackled, clearly enjoying himself far too much. “Alright, alright, calm down, Romeo. I’m just saying, your life’s already dramatic enough—why not spice it up a little more?”
+
+Hibari glared at him, but Lauren only grinned wider, unfazed.
+
+Meanwhile, on the other side of the Hall, Akira and Seraph intercepted Kanato as he made his way toward the Slytherin table. His expression was, as usual, impassive, but the rigid set of his shoulders betrayed the tension bubbling beneath the surface.
+
+“Kanato,” Akira called, his tone edged with curiosity. “Got a second?”
+
+Kanato glanced at them but didn’t slow his stride. “Not really.”
+
+Akira matched his pace, undeterred. “About your cousin—”
+
+“She’s my cousin,” Kanato said flatly, cutting him off. “End of story.”
+
+Seraph raised an eyebrow but said nothing, his sharp eyes flicking between Kanato and the approaching gaggle of students behind them. Before Akira could press further, Kana herself appeared, her bright voice cutting through the conversation like a knife.
+
+“Kanato!” she called cheerfully, waving as she approached. Behind her trailed a small entourage of sixth-year boys, each looking as though they’d just been hit with a Confundus Charm.
+
+“Well,” Akira muttered under his breath, “this is going to be fun.”
+
+“Fun,” Seraph repeated dryly, his gaze fixed on Kana as she continued to chatter, effortlessly charming her audience. “Right.”
+
+Kanato, for his part, looked ready to walk away, but Kana looped her arm through his before he could escape, steering him toward the Slytherin table with an air of triumph.
+
+“Shall we?” she said, her smile never faltering.
+
+Kanato said nothing, but the sharpness in his eyes spoke volumes.
+
+Akira crossed his arms, his expression grim. “We need to keep an eye on her.”
+
+Seraph nodded. “Agreed.”
+
+  
+
+hibari hides in the room of requirement again. like hes been doing. miserable. he even does his homework there now. which is crazy, because hibari barely does his homework. kana was in slytherin, and she seemed to slip right into all of the classes kanato had. including potions, and defense against the dark arts. there arent a lot of students in newts potions, so she took the free table on hibaris right-- which means he was sandwiched between her and kanato, who he shared the desk with on his left. lauren would have a field day. she was a nice enough girl, but she clung to kanato like she wasnt his cousin. and she attracted so much attention, it freaked him out a bit. beautiful exchange student, part of the fura legacy? yeah, no wonder shes got boys on her heels. but what he really doesnt like about her-- is that shes a living wedge between him and kanato. and more importantly. she seems to like hibari a bit too much for his comfort.
+
+In Potions, she’d slid smoothly into the empty table on his right—so now, Hibari was sandwiched between her and Kanato. It was an unspoken rule of the classroom that Kanato and Hibari shared a desk, but now? He was trapped in an awkward triangle. Kana had a way of making everything seem casual, almost effortless. Her laughter was like tinkling bells, her every movement so graceful it made him feel clumsy by comparison.
+
+Even when she wasn’t saying much, her presence was magnetic. Boys from other houses found excuses to talk to her. Even Professor Katerina seemed to soften in her presence, answering Kana’s questions with a warmth Hibari hadn’t seen her show since the term started.
+
+Hibari hated it.
+
+And it wasn’t just Potions. Kana had joined Defense Against the Dark Arts, too—another small, exclusive class. She managed to slot herself right next to Kanato, her easy charm drawing not just the other students but even Professor Albio. Kana laughed and asked questions that made the older man chuckle, earning her a smirk from Kanato every now and then.
+
+It shouldn’t have bothered him so much. She was his cousin, for crying out loud. She didn’t even seem like she liked Kanato that way.
+
+But she was a wedge—a living, breathing wedge between him and the person he couldn’t stop thinking about.
+
+  
+
+What made it worse was Kana’s strange warmth toward him.
+
+At first, it had been innocent—compliments on his Quidditch skills, light teasing about his hair. But lately, there had been moments that left him squirming. Like when she caught his eye in Potions and offered him a sly smile that lingered too long. Or when she stood too close during breaks, brushing her hand against his arm as she spoke about some nonsense topic he couldn’t focus on because she was too close.
+
+He’d caught Kanato staring a few times when these moments happened, but Kanato’s expression was unreadable. Was he annoyed? Amused? Jealous? Hibari couldn’t tell, and it was driving him insane.
+
+Kana wasn’t doing anything overtly wrong. She was just… too much. Too friendly, too close. Hibari didn’t know what her game was, but it set his teeth on edge.
+
+  
+
+Back in the Room of Requirement, Hibari threw down his quill with a groan and flopped onto his back, staring at the enchanted ceiling. The frustration he’d been bottling up all week surged to the surface.
+
+“What the hell am I even doing?” he muttered aloud, his voice echoing faintly in the empty room. “She’s just his cousin. It’s not like—”
+
+He cut himself off, shaking his head. It wasn’t Kana’s fault. Not really. She was just being Kana. The real issue was him.
+
+“Get it together,” he told himself firmly, sitting up.
+
+But when he glanced back at his homework, all he could see was Kana’s bright smile, Kanato’s icy stare, and the endless chasm they represented. With a groan, he flopped back down again, determined to avoid the world for a little while longer.
+
+  
+
+the whole of hogwarts knows theyre cousins-- but they start calling the fura pair the Fura Twins. they just look that much alike. and with kanas.. magneticness, theyre a magnet for popularity. shes a beacon, and she hangs with kanato, which means kanato gets more attention too, which means if hibari, wasnt, you know, on kanatos personal social blacklist, hed have to fight through the throng competing for the underworld kings heart. though the chimera is no slouch either-- if anything, the presence of kana has made people more active in trying to seduce him. and hibari is so tired. so. so tired. he just cant get away, so he keeps running to the room of requirement. until seraph and akira eventually track him down.
+
+“She’s the wedge, right? Maybe it’s time to take her out of the equation. Nicely, of course.”
+
+maybe hibari tries. and though kana acts a little airheaded, shes not dumb. and before hibari can make any headway with any information on her, its kanato-- unsurprising, theyre basically glued together. fura twins. what a joke-- who stops him. he says, in annoyed, clipped tones, that *he* called her here, and that hibari should leave her alone. and also him alone. and while kanato storms off, kana hangs around. she does like hibari. hibari can tell. like, like-like. she knows he knows, too, but shes polite in that she doesnt push it like other girls. which is a small mercy, really. she says something about the fura taste-- about their lives sucking so bad, they cant help be drawn to the brightest stars, and then she saunters off. hibari feels sick.
+
+35. the yule ball draws closer. hibari isnt throwing a performance this time. in fact, hes not even intending to go. he wants to mope, he tells lauren, where nobody can find him. and lauren scoffs and says, so what, youre copying kanato now? come on, dude. hibari sulks after that. but lauren doesnt get how heartbroken he is. he doesnt get it. he goes to quidditch practice and gets hit by the quaffle again and then gets benched, again, and then goes to the room of the requirement to do his homework, where he updates akira and seraph that kana is one of kanatos calls and also kanato still hates his guts. hibari looks on the verge of tears, but he looks back down at his homework and mutters something about patronuses. since when was that in the seventh year curriculum? um, since the battle of hogwarts decades ago, says akira. duh. oh. right. poor hibari, seraph says, like hibari is not right there. hes taking it hard
+
+“I’m not copying Kanato!” Hibari snapped, sitting up straight. “I just don’t… feel like it.”
+
+Akira raised an eyebrow, unconvinced. Seraph, however, leaned back in his chair, regarding Hibari with the kind of amused pity that made him want to crawl under the table.
+
+“Poor Hibari,” Seraph said dramatically, clasping his hands over his chest like some tragic heroine. “Taking it so hard. All alone in his sadness…”
+
+“I’m right here,” Hibari grumbled, glaring at him. “You don’t have to narrate it.”
+
+akira and seraph, finally taking him seriously, go over to him and to help him get his mind off things, they start learning the patronus charm together. its ane xercise, they say, for the newts, and theyre going to need it anyways. akira gets it first. of course he does. a cat, a really big and fluffy cat. seraph teases him for it. theres a cat at home, seraph explains--home being their new office in tokyo, which they still possess illegally--thats big and fluffy and looks like me. akira flushes and tells him to shut up. and seraph laughs, and he summons his patronus and its a much smaller, sleeker cat. there it is, says akira wryly, the one that looks like me. they look like theyre having fun. hibari thinks. he looks down at his wand. the patronus is about happy memories, right? it doesnt seem hard, if you pull all the happy stuff out from under all the sad stuff. he doesnt get it, really, why this is a seventh year thing, it sounds easy. he just has to.. remember.. (and he does. he remembers his lifes favourite moments-- all of them with kanato. theres another one too, hazy, really hazy, he hardly remembers, from his childhood. boy in a garden. but it makes him happy, too. one by one, he goes through the memories. kanato, hiding from him-- it sucked, but it was fun in a way. kanato, kissing him. their first potions class together, his yule performance last year. kanato kanato kanato.) and out of his wand comes a wolf-- which doesnt suit at all, seraph says. akira agrees,a fter all, hibaris name literally means skylark, no? hibari just watches the wolf as it prowls. he remembers the wolf earring, he only saw it once. all that time ago.
+
+  
+
+The first memory: Kanato avoiding him in the halls. It should’ve hurt, but the chase had been exciting in a way—like a game only the two of them could play.
+
+The second: Kanato kissing him. His heart skipped at the thought, the memory as vivid as if it had just happened.
+
+Then came others, all of them filled with Kanato: their first Potions class together, the awkward laughter, the quiet moments when they sat side by side. His yule performance last year, with Kanato watching from the crowd, his expression unreadable but his presence unmistakable. Kanato. Always. Ugh.
+
+Something hazy surfaced, too—a memory from long ago. A boy in a garden, laughing, though Hibari couldn’t place his face. It was distant, but the happiness it brought was real.
+
+Hibari opened his eyes, and without overthinking, he whispered, “Expecto Patronum.”
+
+Silver light burst from his wand, and for a moment, Hibari thought it wouldn’t take shape. But then it did—coalescing into a wolf, its form lean and powerful. It prowled around him in a wide circle, its movements fluid and confident, its silver fur gleaming in the dim light.
+
+“A wolf?” Seraph said, his eyebrows raising in surprise. “That doesn’t suit you at all.”
+
+“Not at all,” Akira agreed, though his tone was amused. “I mean, your name literally means ‘skylark.’ Shouldn’t it be a bird or something?”
+
+Hibari ignored them, his eyes fixed on the wolf as it continued its slow, deliberate prowl. Something about it felt… familiar. A tugging at the edges of his memory.
+
+“Does it remind you of something?” Seraph asked, catching Hibari’s distant expression.
+
+“Yeah…” Hibari murmured. “It does.”
+
+He remembered seeing it—no, something like it—once before. A wolf earring, sleek and silver, tucked away in Kanato’s things. He’d only glimpsed it once, but the memory came rushing back now, vivid and unshakable.
+
+Hibari watched the Patronus until it faded, his heart pounding. He didn’t know what to make of it, but one thing was certain: he hadn’t imagined it. His Patronus was tied to Kanato, just like everything else in his life.
+
+  
+
+The wolf dissolved into a wisp of silver light, fading back into the tip of Hibari’s wand. He stared at the empty space where it had prowled just moments ago, his grip tightening. The memory of the wolf earring—sleek, elegant, undeniably Kanato—clawed its way back into his mind. His throat tightened as the realization sank deeper.
+
+Hibari dropped his wand onto the table, burying his face in his hands. “I’m fucked,” he muttered, his voice muffled and trembling. “I’m so fucking fucked.”
+
+Akira and Seraph, who had been lounging on the opposite side of the Room of Requirement, immediately perked up. “What?” Seraph asked, concern edging his usually casual tone. “What’s wrong?”
+
+“It’s—” Hibari’s voice cracked. He pulled his hands away and looked at them, his golden eyes shimmering with unshed tears. “The wolf. My Patronus. It looks like… it looks like the wolf on Kanato’s earring.”
+
+The room went silent. Akira blinked, tilting his head slightly as if he hadn’t heard correctly. Seraph’s easygoing smirk melted into something softer, almost pained. Hibari, oblivious to their reactions, rubbed his hands over his face, his words spilling out in a nervous, uneven stream.
+
+“I—I didn’t even think about it until now,” he said, his voice shaking. “But that wolf… it’s his. It’s always been his. And now it’s mine? That’s so fucking pathetic, isn’t it? My Patronus is tied to him. He probably doesn’t even remember he had that stupid earring, and here I am…”
+
+His voice faltered, and the tears finally spilled over. Hibari gritted his teeth, swiping furiously at his cheeks, but the tears wouldn’t stop. “I’ve ruined everything,” he choked out. “I’m so in love with him, and he hates me. I’m so fucked.”
+
+Seraph’s mouth opened, then closed, as if he wasn’t sure what to say. Akira, ever the pragmatist, leaned forward, resting his elbows on his knees. “Hibari,” he said, his voice carefully measured. “It’s not pathetic. You’re not pathetic.”
+
+Hibari let out a bitter laugh, shaking his head. “Feels like it. He’s probably somewhere, laughing about how miserable I am. And I deserve it. I ruined everything—his life, my life. All of it.”
+
+Seraph couldn’t stay quiet any longer. “Okay, stop that,” he said, standing and crossing the room in a few quick strides. He crouched in front of Hibari, his face serious for once. “You didn’t ruin his life. His shitty family ruined his life. You were just the one person in it who actually made it better.”
+
+Hibari sniffled, looking at Seraph with wide, teary eyes. “Then why does he hate me?”
+
+“He doesn’t hate you,” Akira said firmly, joining them. “He’s angry, sure. Hurt, definitely. But hate? No way. I’ve seen how he looks at you. Even now, he still—”
+
+“Still what?” Hibari interrupted, his voice trembling. “Still hates me for giving up on us?”
+
+“No,” Akira said, his tone softening. “Still loves you.”
+
+That broke Hibari. He let out a strangled sob, doubling over and clutching his head as if trying to block out the words. “No, no, no. If he loved me, he wouldn’t have—he wouldn’t—” His words dissolved into incoherent crying.
+
+Seraph placed a hand on Hibari’s shoulder, his grip firm but comforting. “Hibari,” he said quietly, “you’re allowed to feel like this. It’s okay to fall apart. But don’t you dare think for a second that your feelings are a weakness. You’ve been through hell, and you’re still standing. That’s strength.”
+
+Hibari shook his head, his tears spilling freely. “I don’t feel strong,” he whispered. “I feel like I’m breaking into pieces.”
+
+Akira crouched beside Seraph, his gaze steady. “Then let us help you pick them up,” he said simply. “We’re not going to let you fall apart alone.”
+
+  
+
+The three of them stayed like that for a while, Hibari crying softly as Akira and Seraph stayed close, offering quiet words of comfort. When the tears finally slowed, Hibari sat up, his face blotchy and red but a little less burdened.
+
+“I just…” He took a shaky breath. “I don’t know what to do. How do I fix it? How do I fix us?”
+
+Seraph and Akira exchanged a glance. “One step at a time,” Akira said. “But first, stop running yourself into the ground. You’ve been trying to carry all of this on your own, and that’s not working. Let us help.”
+
+“And maybe,” Seraph added with a smirk, “start by showing him what that Patronus can do. Who knows? It might impress him.”
+
+  
+
+the next class is the last before winter break starts-- in other words, two weeks before the yule ball. with kanato, that is. defense against the dark arts, on friday. shaking, he puts his hand up at the start of the lesson-- 'can we try the patronus charm today, professor?' his voice shakes, but he gets it out. everyone looks at him. its pretty early in the semester for that, says albio. but seraph backs hibari, and akira too. and the class seems enthusiastic, and its in the curriculum anyway, so albio relents. they go through the motions, akira and seraph nailing theirs, just like before. they watch hibari struggle. hes really cracked today. all hes managing are puffs of white smoke. umise yotsuha manages her patronus on the fifth try-- a rabbit. cute. kanato hasnt tried yet, and kana is shaking her wand with a frustrated look on her face. lauren manages a crow. badass, he says, and hibari half heartedly agrees. lauren notices. happy thoughts bud, he says, clapping hibari on the back. right. happy thoughts. his thoughts drift to kanato. happy thoughts. and then he naturally succeeds.
+
+hibari looks like hes about to cry-- is what kanato notices. and as soon as he thinks this, his attempt at the charm fails with a particularly spectacular puff. gah. hey, says kana, that wolf kinda looks like the earring i sent you last christmas. reflexively kanato says, no it doesnt, but then turns to look and, oh, it kind of does. no, not kinda, not even sorta. its the spitting image. kanato frowns. he doesnt think about it too hard, even as the wolf sidles up to him. which freaks him out a bit. kanato likes dogs, sure, but this things a predator. it almost looks like it wants to cuddle him.
+
+  
+
+Kanato wasn’t one to let distractions rattle him—normally. But today wasn’t normal, and the way things were going, it looked like the universe had decided to test him.
+
+First, the Gryffindor half-wit—the Chimera, he corrected bitterly—had somehow convinced Professor Albio to bring forward one of the most advanced charms in their curriculum. Typical Hibari, probably trying to show off, Kanato had thought at first, rolling his eyes. Yet, as the lesson progressed, it became painfully clear that Hibari wasn’t showing off. If anything, the guy looked like he was unraveling.
+
+Kanato watched him struggle from the corner of his eye. Puff after puff of silvery vapor emerged from Hibari’s wand, the meager wisps dissipating as quickly as they appeared. He was shaking, his normally bright, expressive face carved into a blank mask, but Kanato could see the cracks. 
+
+Kanato’s fingers tightened around his own wand. He felt a flash of something uncomfortable—pity, annoyance, and… concern? No. Not concern. Hibari didn’t deserve that after what he’d done. Still, Kanato couldn’t look away.
+
+  
+
+“Expecto Patronum!” Hibari’s voice cracked as he tried again.
+
+For a moment, there was nothing. Then, a burst of light erupted from his wand, so sudden and dazzling that even Kanato blinked. The class collectively held their breath as the light shaped itself into something solid, something alive.
+
+“Hey,” she said, her voice lilting with curiosity. “That wolf kinda looks like the earring I sent you last Christmas.”
+
+“No, it doesn’t,” Kanato shot back reflexively
+
+Except—he turned back toward the Patronus and took a good, hard look. His frown deepened.
+
+The wolf, as if sensing his unease, padded across the classroom. Kanato stiffened as it approached him, its silver eyes locking with his. There was something unnerving about the way it moved—silent, deliberate. And then, to his horror, it stopped at his feet, sitting like a dog waiting for its master.
+
+“Hibari,” he bit out, his voice sharp and cold. “Get your dog off me.”
+
+Hibari’s head snapped up, his face flushed and his eyes wide with panic. He waved his wand awkwardly, trying to recall the wolf, but it lingered, staring up at Kanato like it wanted to cuddle him. Kanato shuddered. He liked dogs, sure, but this thing wasn’t a pet. It was a predator. And it was far too interested in him for his comfort.
+
+“Now,” Kanato demanded, his tone clipped.
+
+“I-I’m trying!” Hibari stammered, his hands trembling as he waved his wand again. The wolf gave him a disinterested glance before returning its attention to Kanato. Why would I go back to him when you’re right here?
+
+The class watched in stunned silence. Kana looked between the wolf and Kanato, her mouth quirking in amusement. “It’s kind of cute,” she said. “I mean, it’s loyal. That’s good, right?”
+
+Kanato glared at her. “It’s not cute. It’s—” He stopped, realizing he was arguing with his cousin in front of half the class.
+
+The wolf tilted its head at him, its silver gaze unnervingly intelligent. Kanato scowled. “Hibari,” he snapped, “I swear, if you don’t—”
+
+“Expecto Patronum!” Kana cut him off, summoning her own Patronus—a sleek, elegant fox that darted around the room before circling back to her.
+
+“See?” she said, grinning. “Mine behaves.”
+
+Kanato rolled his eyes but didn’t respond. His attention drifted back to Hibari, who was still flustered, his attempts to recall the wolf growing more frantic.
+
+kanato fails the charm. over, and over, and over again, so much that its humiliating. his frustration starts to bubble over, but he tries, very hard to keep his composure. he hates this stupid charm. happy thoughts? and would hibari just stop-- summoning his wolf, please. its so bright. god. its distracting. hibari being bright, he thinks blithely, no surprise there. stupid gryffindor, goes his brain. unconsciously, he falls into the pull of it in his mind -- hibari, hibari hibari, and without even trying- a bird pops out of his wand, singing loudly. Wow, he says, that's annoying. (he doesnt understand the weight of it, because hes never seen the kanji for hibaris name. but seraph and akira know-- thats a skylark. hibari looks on the verge of having a breakdown. but nobody says anything.)
+
+Hibari himself looked stricken, his face pale as he stared at the little bird. His wolf dissolved into mist, leaving him standing there, wand slack in his hand, as if the weight of Kanato’s Patronus had knocked the wind out of him.
+
+Kanato, oblivious, simply waved the bird off. It fluttered up into the air, singing happily as it circled him.
+
+“What kind of Patronus is that, anyway?” Kanato muttered, more to himself than anyone else. “A bird? How useless.”
+
+Akira opened his mouth to say something, but Seraph put a hand on his shoulder, shaking his head. This wasn’t the time.
+
+Kanato dismissed the bird with a flick of his wand, watching as it dissolved into silver mist. He glanced around, meeting no one’s eyes, and sat down, his jaw tight as he tried to push down the odd swell of emotion rising in his chest.
+
+Hibari, meanwhile, stood frozen, his wand trembling in his hand. The room moved on around him, but he felt like he was stuck in place, unable to breathe, unable to think.
+
+  
+
+36. kanato got held back because professor albio was chewing him out for insulting the shape of his soul. but kanato doesnt-- like, *sing*. hes not some free flying bird. it doesnt make sense, he tells the professor. it doesnt match up with me at all. professor albio gives him a tired look, and dismisses him. as he walks out, he notices seraph and akira consoling hibari. ever the bleeding hearts, that hufflepuff and ravenclaw. but thats why kanato likes t hem too, good people. he thinks about them because he doesnt want to think about hibari, who is starting to attract a lot of attention with how much hes crying-- even if he is a silent crier.
+
+kana meets him in the hallway, where she attaches herself to kanatos arm and leans in, like usual. but this time, shes talking business. kanato invited her to hogwarts because he needed a second pair of eyes-- and she was doing a good job. everyone loves her. and shes a perfect in to the slytherin circles. a girl, so shes obviously not the fura heir-- thats hwo the slytherins think, which means, she can get into their circle easily. in other words, kanato invited her because hes using her to get information on hibaris vigilante circle. kana knows, too, being on kanatos side. and theyre three steps ahead, shutting down any information leaks before they can get out. hibari? he doesnt even know.
+
+what does kana get out of this? a direct in to the main branch of the fura family. if kanato keeps hibaris activities on the down low, he gets his independence and hibari gets to keep his neck from being chopped. which leaves seats open for kana to take. its a three way win. but.. kana does really like hibari. a lot. not as much as kanato does, evidently, but enough. and she hates seeing how upset he is. so she follows the weeping mess called watarai hibari to the room of requirement, where hes being nudged along by seraph and akira, and slips inside as the doors close. her infiltration surprises them, and theyre hostile at first, but she assures them shes not an enemy. she wants to know the story. why hibari is such a bleeding heart for her cousin.
+
+kana thinks about it. woudl it be smart to tell them that kanato has been watching out for them the whole time?? its already precarious, but heres watarai hibari, sobbing so hard hes chronically dehydrated, because her cousin wont giveh im the time of day. in the end, shes something like a sibling. so of course, shes going to give up her info. she tells them why shes here, and it works-- it soothes them a bit. kanato is watching out for him, in his own roundabout way. the only way that really works.
+
+“I followed him,” she said simply, nodding toward the disheveled Gryffindor. “He looked like he was about to fall apart, and I wanted to see what was going on.”
+
+Etc etc
+
+Kana leaned back in her chair, her sharp, calculating eyes flicking between the three faces in front of her: Seraph's cautious frown, Akira's skeptical glare, and Hibari's tear-streaked, utterly devastated expression. It would be easy to say nothing. Let them figure it out themselves. But Kana was nothing if not a pragmatist, and more than that—family.
+
+She sighed, crossing her legs and tapping her chin with a perfectly manicured finger. “Alright,” she said finally, her voice softer than usual. “I wasn’t planning on telling you this, but you look like you’re about to keel over, Watarai.”
+
+Hibari sniffled and looked up at her, his gold eyes rimmed with red. “What?”
+
+Kana’s gaze softened just slightly before she straightened her shoulders, her usual confidence settling back into place. “Kanato didn’t invite me here just for fun, you know. He brought me here for a reason—because he’s watching out for you.”
+
+The room went still. Hibari froze, his lips parting slightly in shock. Seraph and Akira exchanged glances, their suspicion momentarily tempered by curiosity.
+
+“What do you mean?” Akira asked, his tone still cautious.
+
+Kana leaned forward, her voice dropping to a conspiratorial whisper. “Kanato knows about everything you three have been doing. The favors, the Slytherins, the whole vigilante setup you’ve got going on. He’s known for months.”
+
+Hibari’s mouth opened and closed like a fish out of water. “What?”
+
+“And you’re not exactly subtle, Watarai,” Kana added with a smirk. “You’re running around Hogwarts like you own the place, making deals left and right. Do you think Kanato wouldn’t notice? He’s been keeping tabs on you this whole time.”
+
+“But—he hates me,” Hibari croaked, his voice barely above a whisper. “Why would he—”
+
+Kana cut him off with a sharp wave of her hand. “Because he doesn’t hate you. He’s just… Kanato. He doesn’t do things the normal way. You broke his heart, yeah, but that doesn’t mean he stopped caring about you. He brought me here to make sure things didn’t spiral out of control. To keep you safe.”
+
+The words hit Hibari like a bludger to the chest. He stared at Kana, his mind racing. All this time, he’d thought Kanato had written him off completely. That he was nothing more than a mistake in the Slytherin’s life. But now…
+
+Seraph leaned back in his chair, his arms crossed as he processed the revelation. “That… actually makes sense,” he said slowly. “Kanato’s been shutting down information leaks before they could spread. And that nickname—the Chimera? That kind of buzz doesn’t happen by accident.”
+
+Akira nodded, his sharp mind already piecing the puzzle together. “He’s been protecting you from the inside, Hiba. That’s why nothing’s blown up in your face yet.”
+
+Hibari’s hands trembled in his lap, his mind a whirlwind of emotions. “I… I didn’t know,” he whispered. “I thought…”
+
+Kana gave him a knowing smile. “You thought he hated you. Trust me, he doesn’t. He’s just stubborn as hell. But if you’re serious about making things right, you need to meet him halfway. He’s not going to make the first move, not after what happened.”
+
+Etc etc etc
+
+they plot, they conspire. kana is a girl, so she knwos a lot of things-- yknow,a side from b eing kanatos cousin. class will be out soon, and theres no way in hell kanato is going home, so hes basicallyf ree real estate for the holidays-- assuming girls arent trying to throw themselves at him. so kana makes a proposition. if hibari steals kanatos glasses, shell trade him his placeas kanatos date to the yule ball. first of all, WHAT? and second of all, WHAT?
+
+Kana’s words hung in the air, her terms as outrageous as they were precise.
+
+“You heard me,” she said, her tone sweet but her grin positively devious. “Steal his glasses and give them to me, and I’ll trade you my place as his date to the Yule Ball.”
+
+Hibari’s jaw dropped. “You’re kidding.”
+
+Kana shook her head. “Not at all. It’s simple. Those glasses are his emotional armor, and I’m sick of it. I want to see my cousin without the walls he’s built up. And I’m guessing you want a shot at making things right, don’t you?”
+
+Akira was the first to speak, his brow furrowed in disbelief. “You’re telling me you’ll give up your spot—prime position at the Yule Ball, no less—for a pair of glasses?”
+
+Kana shrugged. “They’re not just glasses, Akira. They’re his crutch, his shield, his way of keeping people at arm’s length. Without them, he’s just Kanato. And that’s who I want to see.”
+
+Hibari buried his head in his hands. “This is insane. You’re insane.”
+
+“Maybe,” Kana said with a grin. “But you can’t tell me it’s not worth it. Don’t you want to get closer to him? Don’t you want to show him that you care, that you’re willing to take a risk?”
+
+“By stealing his glasses?” Hibari muttered through his fingers.
+
+“They’re fake, aren’t they?” Kana countered. “Most of the time, anyway. You’re not taking something functional. You’re just taking away his excuse to hide. That’s fair game.”
+
+37. its a lot easier getting into the slytherin commons a second time, seeing as he has so many friends there now. whats not easy is getting in when kanato isnt lurking. after hours? tough, kanato is on prefect patrol. any other hours outside of class? kanato is in the commons, or in his room, and his glasses are usually on his face. so lets see how hibari steals his glasses undetected.
+
+first, kanatos glasses go missing. he checks the room the night of, under books, under his bedclothes, under everything. not there. he goes back to professor shirayukis office. not there. he scours the library. not there. and why does he feel like someone is watching him? augh. whatever. he doesnt have his glasses and though theyre were functionally useless hes really uncomfortable. its the winter holidays and the yule ball is tomorrow, and he really needs his glasses except he stays up all night looking and theyre not. fucking. there. kana sends him a note under the door-- meet you at 8. for the yule ball. right. of course. he spends the leadup looking for glasses too. but theyre gone, just gone. and he doesnt want to be late, even though hes freaking out a little-- where are his damn glasses? so hes not paying attention when he hits the steps to the auditorium and the person there is not-- his cousin but watarai fucking hibari. kanato realises instantly. hibari stole his fucking glasses.
+
+hibari doesnt have his glasses, he gave them to kana. kanato just clues into his plan fast enough to be mad about it. kana was his cousin, yes, but sometimes she acted like a conniving sister. and hibari was just the right amount of idiot to go along with her.
+
+kanato seethes-- but hes trained in ballroom dancing, of course he is, hibari thinks. hibaris tempo is a little off, hes used to things a little faster, but hes agile enough that it looks natural. and hasnt it been so long since hes been this close to kanato? without his glasses too, what a treat.  but anyway. wow. except this doesnt seem to be helping. in fact, kanato seems even angrier.
+
+  
+
+but kanato doesnt stay. he never does. and this time, he turns sharply away from hibari-- who is already missing the closeness-- and setting his sights on kana, who looks beautiful tonight, but it looks like shes attended without a date? huh. seeing him, she starts making a break for it. kanato curses. he wants his glasses back. so he gives chase. and hibari is like, um no, thats my golden snitch? and then hes chasing kanato. hibari is the fastest, so kanato is at a bit of a disadvantage, and down the hall they can both hear kana giggling. stupid girl. everythings a game to her! kanato shouts, ahead of him. yeah, he really is less filtered without his glasses. up the stairs, down the stairs, kana doesnt seem to tire out and neither does hibari, but kanato is going to die. he is not a sprinter, but if he slows down hes going to get caught by the stupid seeker and hes not going to get his glasses back, so it goes on like this for aw hile, through a hogwarts decorated in december.
+
+i think itd be funny if kanato actually slipped on that patch of snow, and hibari, surprised, slides right past him. kanas not his target, kanato is, and unlike kanato, he still has too much momentum to make a sharp turn on slippery ground. and realising hes lost kana, kanato only has one objective now-- to not get caught by hibari. run!
+
+the slytherin dungeons, he thinks, thats his only chance of escaping. no windows for the infuriating thief to come through, and he can change the password at the front. hibari wont get in. they blast past a pair of students, one hufflepuff one ravenclaw, making out in a small cove in the wall and-- wait was that seraph and akira?-- ah, but anyway, hibari runs fast first into a wreath and spits out leaves, and kanato gains some distance, the stairs, he needs the stairs. he makes it to the stairs and hes got about three flights on hibari until-- does the fucker know parkour? because he jumps, of course he does. cutting off kanatos escape. the staircase moves-- hibari complains, so kanato is headed for the third floor now. so be it. the chase continues.
+
+i like how long it is. except.. this happens *after* the yule ball. after kana has already escaped, after the moment kanato slips on snow chasing her and hibari slides past and has to course correct. the chase should be relentless and the only reason kanato is able to outstrip hibari in the long spanses of corridor is because his legs are not as long and so his turns are a lot sharper. also, seraph and akira making out in a shallow cove. thats something he speeds past. and then the stairway scene, after tha.t and then after that, hibari seems to have cornered kanato in the third floor corridor, except kanato frees a cage of cornish pixies to stall hibari as he runs past, but hes running out of stamina. hes got no choice. lay low somewhere close by and hide bc if he keeps running hes going to collapse. somewhere in plain sight-- hibari knows him too well, so hed expect something complex. which is exactly why it works.
+
+  
+
+[[ i lost the notes for the yule ball chase scene BUT its fi ne. Outline got me ]]
+
+  
+
+Kanato lay sprawled in the snow, cold seeping into his robes as Hibari loomed over him, practically glowing with his victory. Even without his glasses, Kanato could make out the wide, triumphant grin that Hibari wore—equal parts glee and defiance. The chase had been relentless, and now he was pinned beneath him, a position Kanato despised.
+
+“Fine.” Kanato’s voice was sharp, slicing through the tension like ice. His glare was cutting, even with the blurred world around him. “What do you want, Watarai?”
+
+The name was a dagger, deliberate and pointed, and it landed exactly where Hibari expected it to. His grin faltered for a second, but he quickly masked the blow, his resolve solidifying. “When are you going to pierce your ears?”
+
+Kanato blinked, thrown entirely off guard. He frowned harder, his sharp features pulled into an incredulous scowl. “What?”
+
+Hibari shifted his weight slightly, though he didn’t move away. “Your ears,” he repeated, his voice quieter now. “When are you going to pierce them?”
+
+Kanato stared at him as if he’d lost his mind. His heart began to thud uncomfortably against his ribs, panic creeping in from the edges. Without his glasses, Hibari’s expression was too raw, too vivid, and too close. “Why?” he snapped, deflecting. “And besides—” he hesitated, his voice dropping to a low grumble. “I don’t like needles.”
+
+Hibari chuckled softly, though there was no teasing in it. “The wolf earring,” he murmured. “I saw it in the Room of Requirement last Christmas while I was looking for you.”
+
+Oh.
+
+Kanato’s stomach twisted, the memory of the earring flashing in his mind. It had been a gift—a piece of his family’s legacy meant to symbolize something Kanato couldn’t bring himself to wear. He swallowed thickly, the mention of it leaving a bitter taste in his mouth. “We’re not talking about that.” His voice was firm, his walls snapping into place. “You know my father—”
+
+“He won’t know.” Hibari cut him off, his tone earnest and almost pleading. His eyes softened, and his voice cracked just slightly as he added, “He won’t know, Kanato.”
+
+Kanato opened his mouth to argue, but Hibari pressed on, his words tumbling out in a rush. “I’m sorry,” he said, his voice tight with emotion. “I’m sorry for the deal, for everything. I’m sorry for making you hate me. I—”
+
+Kanato froze as the apologies kept coming, one after another, a steady stream of words tangled and thick with emotion. Hibari’s voice wavered, each “sorry” cutting deeper until it was all Kanato could do to lie there, pinned beneath him, and count the broken words spilling from Hibari’s lips.
+
+“…I’m sorry,” Hibari whispered again, his face dropping closer to Kanato’s as the silence stretched between them. His breath was warm against Kanato’s chilled skin, his voice barely audible. “You look really good without your glasses.”
+
+Kanato’s breath hitched. His frown faltered for the first time, a flicker of something unnameable breaking through the walls he’d so carefully built.
+
+Hibari didn’t move, didn’t say anything more. He just looked at him, his gaze steady and heartbreakingly sincere, waiting for Kanato to respond—or to push him away entirely.
+
+“Get off me,” Kanato hissed, his voice sharp, yet trembling just slightly at the edges. He hated how exposed he felt without his glasses, hated how much harder it was to hide the way his cheeks flushed, even under the chill of the snow. And he hated the way Hibari was looking at him—like he was everything.
+
+“Get off me,” he repeated, voice cracking just enough to betray the storm brewing inside him. “If you get caught, you’re dead, Hibari. You know that.”
+
+Hibari didn’t move. His weight pinned Kanato to the frozen ground, but it was the intensity in his eyes that froze Kanato in place. “Don’t you get it?” Hibari’s voice broke, the plea raw and desperate. “You’re my soul, Kanato. My fucking soul is in the shape of the wolf on your stupid earring. Don’t you get it?”
+
+Kanato felt something shatter inside him, but he didn’t know if it was anger, fear, or the walls he’d spent years building around himself. His chest burned, but his voice turned icy. “I get it,” he snapped, the words coming out louder than he intended. “But it doesn’t change anything!”
+
+Hibari flinched at the sharpness, but he didn’t back away.
+
+“You’re an idiot,” Kanato continued, his frustration spilling over. “You do these stupid things with your ridiculous vigilante circle, always ignoring my advice, never listening—”
+
+Kanato shoved at Hibari’s chest with a sudden burst of strength, forcing him back. “Get off me!” he shouted, scrambling to his feet. Snow clung to his robes, melting into the fabric, but he barely noticed, too busy brushing off the sting of emotions threatening to overwhelm him.
+
+Hibari staggered back, his breath visible in the cold air as he caught himself. The force of Kanato’s shove, the venom in his words—it all reminded him of the fight on the train, months ago. Back then, he’d made a mistake, too, hadn’t he? He’d let his guard slip, let himself care too much. He’d told Kanato he hadn’t meant to care.
+
+But now, now he cared so much it felt like his very soul had reshaped itself to match Kanato’s. He clenched his fists, his breath shaky but his resolve unbroken. “I don’t care if you push me away,” he said, his voice steady, but his eyes betraying the ache inside him.
+
+“I’m not letting you go,” Hibari said, taking a step closer, then another. His heart pounded in his chest as he held Kanato’s gaze, unrelenting. “I don’t care how many times you shout at me, or push me, or hate me. You’re my soul, Kanato. And I won’t let you go.”
+
+Kanato’s voice was like ice, sharp and unyielding, cutting through the frosty air. “It doesn’t fix anything.”
+
+Hibari froze, the words hitting harder than any physical shove could.
+
+“What you did,” Kanato continued, his tone calm but filled with quiet fury, “was unforgivable. You betrayed me. You betrayed what I wanted, what I needed. And for what? To play the perfect pawn in my father’s game?” His lips twisted in something like a bitter smile, but it didn’t reach his eyes. “What I needed then wasn’t another one of his tools, Hibari. I needed a partner. And you weren’t that.”
+
+Hibari opened his mouth to argue, but Kanato didn’t give him the chance.
+
+“You never fucking listen,” Kanato snapped, his voice rising now. “You never have. And that’s the problem, isn’t it? You keep acting like you know what’s best, like you’re helping me, but you don’t hear me. And that doesn’t make for a good relationship, does it?”
+
+Hibari stared at him, his chest tight and his throat dry. The words hurt—more than hurt—but Kanato wasn’t wrong. That made it worse.
+
+For the third time, Kanato turned on his heel, his posture stiff and his steps quick as he tried to put distance between them. “Don’t follow me,” he said coldly, his voice clipped and final.
+
+But Hibari couldn’t let him go. He surged forward, his hand gripping the back of Kanato’s robes desperately, stubbornly. “Wait,” he pleaded, his voice hoarse. “Kanato, please…”
+
+Kanato froze, his fists clenched at his sides. Slowly, he turned his head, his glare filled with a mix of frustration, exhaustion, and something else—something far more vulnerable. “What part of ‘don’t follow me’ don’t you understand?”
+
+Hibari’s grip on his robes tightened. “The part where I’m supposed to just let you go,” he said, his voice shaking but determined. “I can’t do that, Kanato. Not again.”
+
+Kanato’s eyes narrowed, and for a moment, the cold between them felt even sharper than the snow beneath their feet. “You already let me go, Hibari,” he said quietly, the words cutting deeper than a shout ever could. “You made that choice when you went to him.”
+
+Hibari flinched, the weight of Kanato’s words heavy on his chest. But he didn’t let go. He couldn’t. “I made a mistake,” he said, his voice breaking. “I know that. I know I hurt you. But I—” His voice cracked, and he swallowed hard, his fingers trembling against Kanato’s robes.
+
+“Hibari,” Kanato said, his voice sharp and clipped, cutting through the cold like a blade. “Watarai,” he added, his tone growing colder still, as if the name itself was a weapon. His glare was piercing, unrelenting. “You’re doing it right now. You’re not. listening.”
+
+Hibari’s breath hitched, but he didn’t loosen his grip. His voice trembled, desperation bleeding through every word. “It’s the last time,” he whispered. “Please, Kanato. Please. It’s the last time, I swear. Just give me another chance. Please.”
+
+Kanato’s expression shifted, his usually guarded face contorting into something unreadable. Hibari froze, his heart sinking at the sight of it. It wasn’t anger. It wasn’t disappointment. It was something far worse—something Hibari couldn’t place, something he had never seen before.
+
+“Do you understand how pathetic you sound right now?” Kanato said, his voice quiet but laced with a cruel edge, each word hitting like a slap.
+
+Hibari nodded, his throat too tight to form a response. His hands trembled as they clung to Kanato’s robes, his knuckles white against the fabric. He didn’t try to defend himself. He didn’t try to argue. He just nodded.
+
+His lips parted slightly, as if he might say something, but the words caught in his throat. His eyes glistened, and for a moment, it looked like he might cry again.
+
+Kanato’s gaze flickered, his own lips pressing into a thin line before he bit down on his lower lip, hard. His fists clenched at his sides as he looked down at Hibari, his emotions threatening to spill over, too tangled to untangle.
+
+Hibari’s grip on Kanato’s robes loosened, then fell away entirely. For a moment, Kanato stood frozen, unsure of what to do, what to think. The absence of Hibari’s touch—desperate, pleading, full of raw emotion—left a strange hollow ache behind.
+
+Hibari crouched down in the snow without a word, his head bowed, and began dragging his finger through the frost-covered ground. The motion was slow and deliberate, his focus entirely on whatever he was tracing.
+
+Kanato frowned, his arms crossing over his chest as he watched. “Stop that,” he said sharply, though his voice had already lost some of its earlier venom. “You’ll get frostbite.” The words came out clipped, but there was an unmistakable edge of concern buried in them, faint but there.
+
+Hibari didn’t stop. His movements were steady, his finger carving out precise strokes into the snow. Kanato stepped closer despite himself, the curiosity gnawing at him outweighing his resolve to keep his distance.
+
+And then he saw it.
+
+The characters were clean and deliberate, their meaning unmistakable. Kanji for skylark, drawn in neat lines against the snow’s untouched canvas.
+
+Kanato stared at it, his pulse quickening. He didn’t know what to think.
+
+“That’s my name,” Hibari said softly, not looking up. His voice was steady, but the weight of it settled heavily in the space between them. “In Japanese. Skylark.”
+
+Kanato swallowed, his throat tight. Of course, he knew. He wasn’t an idiot. He knew the characters, understood what they meant. But seeing them now, written so plainly in the snow, left him disarmed.
+
+Hibari didn’t move, didn’t look up to see Kanato’s reaction. He simply stayed there, crouched in the snow, his finger hovering above the last stroke of his name. His breath was shallow, visible in the cold air, and his shoulders trembled slightly, though not from the chill.
+
+Kanato opened his mouth, but no words came out. His gaze flickered between Hibari and the name etched into the snow, something twisting in his chest, sharp and aching. He didn’t know what to say, what to think, what to feel.
+
+“Hibari…” he started, his voice quieter now, hesitant.
+
+Hibari finally looked up, his eyes glassy but determined. “That’s what I am,” he said, his voice steady but barely above a whisper. “And it’s what you are too, Kanato.”
+
+Kanato had called it annoying, scoffing at its size, its sound, its incessant, free-flying nature. He’d called it useless.
+
+But even as he’d spat those words, somewhere deep inside, he’d known.
+
+He’d known what it meant, what it symbolized. He wasn’t a fool. He’d known how Hibari’s name was written from the start, because of course he had. He would’ve been a terrible boyfriend if he hadn’t. And now, as that same memory burned fresh in his mind, the sharp pang of guilt was impossible to ignore. He hadn’t wanted to admit it—not then, and certainly not now.
+
+But now Hibari was looking up at him, his eyes unyielding, glassy with emotion but steady, holding Kanato in place as if daring him to look away.
+
+“It’s the last time,” Hibari said, his voice soft but unwavering. “I swear. I’ll listen to you for the rest of my life if you’ll have me. I just want to kiss you again.”
+
+Kanato’s breath caught in his throat, his composure shattering like glass.
+
+He bit down hard on his lip, but it did nothing to stop the way his eyes burned, the glassy sheen betraying him even without his glasses to hide behind. He blinked quickly, trying to keep it together, but the weight of Hibari’s words was unbearable.
+
+Hibari was still crouched in the snow, his hand resting near the kanji he’d drawn, his expression open and raw. There was no bravado now, no mask of charm or mischief—just the truth, laid bare in his trembling voice and pleading gaze.
+
+Kanato shook his head, but it wasn’t in denial. It was something else. A futile attempt to keep himself from crumbling. “You…” His voice faltered, and he swallowed hard, his fists clenching at his sides. “You’re such an idiot, Hibari.”
+
+Hibari didn’t flinch. He just waited, watching, his breath visible in the cold air.
+
+Kanato’s lips parted again, but no sharp words came. No biting retorts or sarcastic jabs. He was too tired, too overwhelmed, too… done. The weight of everything—the past, the present, the unbearable ache in his chest—it all pressed down on him at once.
+
+And then he cracked.
+
+The tension in his shoulders gave way, his fists unclenching as he took a single step forward. His chest heaved with a shaky breath, his carefully built defenses crumbling like snow underfoot. “You’re so stupid,” he muttered, his voice trembling. “So stupid, and stubborn, and…”
+
+His words trailed off as his gaze locked with Hibari’s, and something in him broke entirely.
+
+“Fine,” Kanato said finally, his voice barely above a whisper, his tone both exhausted and resigned. “Just… fine.”
+
+Hibari’s eyes widened, hope flickering to life even as he stayed frozen in place, afraid to breathe too deeply and ruin the fragile moment.
+
+Kanato took another step forward, his hand twitching at his side before he let out a soft, frustrated sigh. “But if you ever—ever—do something that stupid again…” His voice cracked, but he didn’t finish the thought.
+
+Instead, he grabbed Hibari’s face with both hands, his cold fingers trembling as he leaned down and crushed their lips together in a kiss that was anything but gentle. It was raw, messy, filled with every ounce of anger, frustration, and longing that had built up between them.
+
+And Hibari, still crouched in the snow, melted into it, his own hands lifting to clutch at Kanato’s robes once more—not out of desperation this time, but out of sheer relief.
+
+From the shadowed archways on the edge of the courtyard, three figures stood watching, shrouded in the quiet hush of falling snow. Kana leaned casually against a stone pillar, Kanato’s glasses dangling from her fingertips. Beside her, Seraph and Akira were doing their best to look unimpressed, though neither of them could fully hide the awkward tension in their postures.
+
+The three of them had been unintentional witnesses, drawn by the commotion of Kanato’s shouting and Hibari’s stubborn pleas. They hadn’t expected to find the two locked in a moment so raw, so painfully honest, and so completely oblivious to their surroundings.
+
+Seraph broke the silence first, his mouth opening as if to say something—probably some dry quip about the scene they’d just stumbled upon—but then he stopped. He didn’t have the heart to ruin it, not after what they’d just seen.
+
+“Wow,” Akira muttered under his breath, rubbing the back of his neck. “I mean, I know Hibari’s a romantic, but… that was…” He trailed off, unsure of how to finish the sentence without it sounding like mockery.
+
+“Sappy,” Kana offered, twirling the glasses absentmindedly. Her tone was light, but her expression was thoughtful, almost wistful.
+
+“Sappy,” Seraph agreed with a short nod, though his usual sharp sarcasm was notably absent.
+
+None of them moved for a moment, their gazes lingering on the figures in the courtyard. Kanato and Hibari were still tangled together, their voices too low to carry, their surroundings entirely forgotten as the snow continued to fall around them.
+
+Kana shifted, her expression softening as she pocketed Kanato’s glasses. “We should go,” she said quietly, her voice gentle in a way that felt out of place coming from her.
+
+Akira nodded quickly, eager for an excuse to leave the emotionally charged scene behind. “Yeah, good idea.”
+
+Seraph lingered a moment longer, his gaze lingering on Kanato before he turned on his heel with a quiet sigh. “Let’s give them some space,” he murmured, his tone unusually subdued.
+
+  
+
+kanato wants to forgive him, he does. hes an emotional guy too, so its not as if this moment is lost on him. but its more so a matter of-- if his father finds out, its really over. if his father finds out hibari has anything to do with whats been happening in the family lately, then hibaris dead. and if he goes back on his word? hes worse than dead. thats how it is in the mafia. you take a deal, you have to fulfil it. and hibari is doing a terrible job of fulfilling it.
+
+hibari tells kanato about how hard hes worked. he has the slytherins, he says, we have the vigilante group. and kanato tells him hes crazy, but hibari says, its for you. it was all for you, kanato. i dont want you to lose your freedom from your shitty family. kanato says if hibari thinks thats all it takes to shut off the flow of information, hes sorely mistaken. its too dangerous.
+
+hibari, he says, youre not listening again. youre dead if he finds out. not just you. seraph, akira. your enforcer friend. if he finds out, my father wont just ground me for life. hell hunt you. 
+
+Hibari’s lips parted, his voice catching in his throat. “Kanato, I—”
+
+“No.” Kanato shook his head sharply, his voice rising. “No excuses. No promises. You don’t get to brush this off like it’s just some noble risk you’re willing to take for me. This isn’t just about you, Hibari. You’re putting everyone in danger, and for what? For me?”
+
+Hibari swallowed hard, his hands trembling at his sides. “Yes,” he said quietly, his voice breaking. “For you. Because you’re worth it, Kanato. Because I’d rather die than let him take your freedom away again.”
+
+Kanato froze, his chest tightening as Hibari’s words cut through him like a blade.
+
+“Hibari…” His voice softened, the sharp edges dulling as exhaustion seeped in. “Do you even understand what you’re saying? What you’re doing?”
+
+Hibari nodded, his eyes glassy but unwavering. “I do,” he said, his voice trembling but resolute. “I understand the risks. I understand what could happen. But I don’t care, Kanato. You deserve better than this. You deserve a chance to be free. To live your life the way you want.”
+
+Kanato’s gaze faltered, his eyes dropping to the snow beneath them. His shoulders slumped, the weight of everything—of his father’s looming threat, of Hibari’s reckless determination—bearing down on him.
+
+“I don’t want to lose you,” he said finally, his voice barely above a whisper. “But if you keep doing this, I will. And it won’t just be you, Hibari. It’ll be everyone you care about.”
+
+Hibari took a step closer, his breath visible in the cold air. “Then help me,” he said softly, his voice pleading.
+
+take a risk. says kanatos heart. take a risk take a risk take risk. hibari says it doesnt matter anyways, because if he gets found out hes dead. hed rather kiss kanato first before dying. kanato doesnt answer. he seems really torn. please, hibari says again, every day for the rest of my life. at last, kanato seems to crack. hibari, he says. youre meant to fly free. birds cant fly without the wind under their wings. is what hibari says. and kanato cracks a bit further. hes winning-- hibari that is. every day, hibari says again. im yours. and kanato finally, finally caves-- can you stop making it sound like a marriage proposal?
+
+And then Hibari, ever the dramatic one, cleared his throat and stepped forward with all the pomp and circumstance he could muster. He extended a hand, his palm steady despite the tension lingering between them. His expression was earnest, but there was a hint of mischief glinting in his eyes as he spoke.
+
+“Kanato,” he said, his voice warm and steady. “Will you do me the honor of accompanying me to the Yule Ball?”
+
+Kanato stared at him, utterly dumbfounded, his mouth opening and closing as he tried to process the audacity of it. “Are you serious?” he asked, his tone flat but laced with disbelief.
+
+“Completely,” Hibari replied smoothly, not missing a beat. His hand remained outstretched, unwavering.
+
+Kanato groaned, dragging a hand down his face. “You really are impossible,” he muttered, though his voice lacked its usual sharpness.
+
+“And yet…” Hibari prompted, his smile growing wider.
+
+Kanato rolled his eyes so hard it almost hurt, but the corners of his lips twitched upward despite himself. He glanced at Hibari’s hand, then back at his face, before finally letting out a quiet sigh of defeat. “Fine,” he muttered, reaching out to take Hibari’s hand.
+
+Hibari’s grin lit up his entire face as he clasped Kanato’s hand, giving it a firm shake. “You won’t regret it,” he said, his voice brimming with confidence and warmth.
+
+“I already do,” Kanato retorted, but the faintest smile tugged at his lips, belying his words.
+
+  
+
+37? 38?
+
+hibari feels like hes going to explode. hes happy, of course, hes very happy. but this is like, a new kind of . *watch*. people are looking at him and kanato like theyre idols, and it makes him anxious. and the number of requests has gone up since people started noticing. its getting hard to manage-- but between the four of them, things are okay. with kana working to stamp out leaks, kanato has inserted himself into their little circle and seemed to have organised things. with his connections, and his leverage, anything they have to do just works *better*. kanato is an ideas guy, and it makes sense. entrepeneurial stocks and all. akira keeps him grounded enough to actually accomplish anything, and hibari and seraph are the groundwork. it *works*. it just works. but the attention is. Crazy.
+
+then someone comes to them with something big-- a slytherin. she says she needs information stolen, big information. that one of the ravenclaws is a politics daughter, and what that family is plotting is something nasty. its the first time theyve received a request of true criminal magnitude. and its not one they can t ake lightly. if itd just been the three of them, they wouldve had to take it without any resistance-- but with kanato on his side, hes able to leverage his own position to bargain: if the information is harmless, she doesnt get it. if its hurtful, they expose the politician. but under no circumstances are they relinquishing any damaging blackmail for trade. the slytherin hesitates, feeling somewhat slighted. but its kanato. so its not like she can disagree.
+
+its complicated. first off, its not a hogwarts mission. second off? its information classified by the ministry of magic. but its easy for these four. all it takes is a vanishing cabinet and a day trip, and then some well placed schemes. a spy, and a phantom thief, and an assassin, and the son of the mafia. in, kanato says, then out. they wont even know. 
+
+And then its done so easily its not even worth reporting. but its in the news the next day-- a politician in the ministry of magic was blackmailing goblins at gringotts. the slytherin girl seems satisfied. and for the four of them, its a high note victory. nobody suspects a thing-- except lauren, of course, who keeps it on the down low. but even hes impressed.
+
+for hibari? it means he can play the ravenclaw-gryffindor quidditch match with his head in the game for once. first match since returning to term after winter break-- and the snitch is still upgraded. but with his training for other quidditch teams, suddenly, the hogwarts playoffs are a lot more tense. everyone seems to better on the broom. of course, gryffindor doesnt lose., not with hibari as seeker. (kanato though? he doesnt even have to hide how smug he is about the broom anymore. about the broom, and about hibari, and about how hibari looks on the broom.)
+
+hibari starts talking about seraph and akira, remember when we caught them making out here? like theyre slick youre not any better. kanato tells him hibari scrunches his nose. im not? kanato says hes the most obvious person on the entire planet. and hibari laughs and says, you hypocrite. you look like you want to eat me right now.
+
+its lauren who finds him. dude, he says, where are you? quidditch time man. and then he takes one look at hibari and starts howling with laughter. again
+
+its not fair,. whines hibari. they put a bunch of hormonal teenagers in a school and expect them to just? manage???? are the teachers so frigid theydont know how it feels anymore? and lauren howls at that, ugly. he snorts his hot chocolate out of his nose. never thought hed hear hibari say something like that out loud. Yeah. so
+
+Anyways
+
+Ummmmm stuff time stuff . etc. time is passing
+
+  
+
+38 or 39 maybe
+
+hibari receives a howler the next day. which is strange, because hibaris parents didnt even care enough about him to send mail in seven years-- except its not from his parents. it has the fura seal on it. oh. the howler doesnt scream, or shout, but it talks in a low, insideous voice-- how dare you have relations with my son, the mafia take their deals very seriously, blah blah blah, watch your back, boy. then it tears itself up. hibari looks ghostly pale. when he looks to kanato at the slytherin table, kanato looks equally as terrified.
+
+The information had been leaked by the girl they did the thing for. Yep
+
+Hibari stood frozen as the howler disintegrated in front of him, the weight of its contents sinking into his bones. It had been so quiet compared to the usual shrieking howlers—an eerie calm before the storm. The words were simple, yet they carried the weight of a thousand threats, and the unmistakable presence of Kanato’s father loomed over every syllable.
+
+“How dare you have relations with my son? The mafia takes their deals very seriously. Blah blah blah, watch your back, boy.”
+
+The words echoed in his mind like the clanging of chains, heavy and suffocating. Hibari didn’t even need to read between the lines. The message was clear: Kanato’s father knew everything. The circle, the secrecy, all of it—it was laid bare. Hibari had failed. The deal he had made with Kanato’s father, to stay away from Kanato, had been broken when he had come back into Kanato’s life. And now, the consequences were about to hit hard.
+
+The howler didn’t scream or yell in its usual chaotic manner, but its low, venomous voice carried a weight that made Hibari’s heart race in his chest. His hands shook, the remnants of the howler still gripped tightly in his fingers.
+
+As the howler ripped itself to shreds, Hibari’s mind raced. Kanato’s father had already been a looming presence in the background of their relationship, but now, it was front and center. Hibari had thought he could get away with it—he had thought that maybe, just maybe, he could be with Kanato without facing the full wrath of the Fura family. But he had been wrong. They weren’t just playing with fire anymore; they were inside the inferno, and it was threatening to consume them both.
+
+Hibari’s eyes darted toward Kanato at the Slytherin table, instinctively looking for him. Kanato’s expression was blank, a strange mixture of shock and something else—something unreadable. Hibari’s heart clenched as he caught the fear in Kanato’s eyes. Kanato had already been caught in this mess before—now he was trapped in it again. Hibari knew it wasn’t his fault, not entirely, but the guilt gnawed at him. He had promised to protect Kanato, to keep him safe, but in the end, he had only brought more danger into their lives.
+
+Kanato turned his head slightly, meeting Hibari’s gaze across the room. The look in his eyes sent a jolt of panic through Hibari’s chest. It was the look of someone who had just learned that the worst thing had happened. Someone who had been betrayed by fate, by circumstances, by their own decisions.
+
+Without a word, Kanato looked away, his face pale and drawn. The silence between them felt like an impenetrable wall, and Hibari couldn’t break through it. He should have known better. He should have listened to Kanato when he told him to stay away. But now, it was too late.
+
+Hibari’s breath caught in his throat as the reality of the situation sank in. They had been caught. Their relationship, their secret circle, all of it had been exposed. Alethea had failed in her mission, but in doing so, she had paved the way for Kanato’s father to exact his revenge. And Hibari was the target.
+
+The rest of the room blurred around him as Hibari’s thoughts swirled in chaos. His chest tightened, his stomach churned. He could hear the faint whispers of the other students, the way their gazes flitted nervously between him and Kanato. They knew something was wrong. They could feel the tension, the unspoken fear that hung in the air.
+
+But Hibari didn’t care about the whispers, the looks. All he could think about was Kanato. He had failed him. The guilt weighed heavily on his shoulders, but it was something he couldn’t shake. He had gone against the deal he had made with Kanato’s father. He had tried to carve out something of his own, and now the consequences were crashing down on them.
+
+Watch your back, boy.
+
+  
+
+Kanato looked up as Hibari approached, his eyes still clouded with confusion and fear. Hibari reached out, his hand trembling as he cupped Kanato’s cheek. He didn’t care about the consequences. He didn’t care about the mafia or the family. All that mattered was that Kanato was here, still alive, still with him.
+
+“I’m sorry,” Hibari whispered, his voice breaking. “I’m sorry I got us into this.”
+
+Kanato didn’t respond right away. He just stared at Hibari, as if trying to process everything. Finally, he placed his hand over Hibari’s, his fingers warm and reassuring.
+
+“It’s not your fault,” Kanato said quietly, his voice hoarse. “It’s just... who we are. We don’t have control over this.”
+
+Hibari nodded, a tear slipping down his cheek. He didn’t know what the future held for them, but in this moment, he would do whatever it took to keep Kanato safe. Whatever the cost. He would never let Kanato slip away again.
+
+“I won’t let them take you from me,” Hibari promised, his voice low but resolute. “I’ll find a way. I swear.”
+
+its not me im worried about, kanato snaps. dont you get it, hibari? somethings leaked, and hes after you. not me. hibari argues that it may as well be the same thing. after all, hell have died for nothing because even if he does die kanato. wont. be. free. kanato looks at him then. and what he says next is so clear: then lets run away. back to tokyo. you and me. well run.
+
+“Let’s run away. Back to Tokyo. You and me. We’ll run.”
+
+It felt like a weight had dropped into Hibari’s stomach. This wasn’t the Kanato he knew—the Kanato who always had to plan, always had to play his part, always under the watchful eye of his family, of the mafia. The idea of running away, of leaving it all behind, was so simple. So pure. And yet, it felt so impossible.
+
+Hibari wanted to speak, wanted to argue, to tell Kanato how stupid that idea was. But the words wouldn’t come. He knew how dangerous it would be. Kanato couldn’t just leave; they couldn’t just run. Hibari knew all too well how deeply embedded they both were in the web of Kanato’s family, in the mafia. They had no chance of escaping it—at least not without consequences that would tear them apart.
+
+And yet, despite that knowledge, the hope that glimmered in Kanato’s eyes was enough to make Hibari’s chest tighten with something unfamiliar. Maybe it was desperation. Maybe it was love. But the idea of running away, of living a life where it was just the two of them, without the shadow of the mafia hanging over them, seemed almost too good to be true.
+
+Hibari’s breath caught in his throat, and for a brief moment, he almost wanted to believe it. He almost wanted to take Kanato’s hand and say yes, to let everything else fall away and just be with him. Just run away from everything, from the world that had always controlled them both.
+
+But the reality of their situation crashed down on him again. We’re not allowed to leave, Hibari thought bitterly. Not like this. Not when they’ll be looking for us.
+
+“Kanato…” Hibari started, his voice a little hoarse, as if the very thought of leaving everything behind was physically painful. “You know we can’t. They won’t stop. Not after everything that’s happened. You’re not just some boy from a rich family—they’ll hunt us down, Kanato. You’re too important to them.”
+
+Kanato’s expression faltered slightly, but there was still that determination in his eyes. “Then what?” he asked quietly, his voice almost too calm. “We just stay here, waiting for the worst to happen? For my father to come and take everything from us again? We’re stuck in this cage, Hibari. And I—I don’t want to be stuck anymore. Not like this.”
+
+Hibari’s heart ached as he saw the desperation in Kanato’s eyes. It wasn’t just the mafia that had trapped them—it was the whole damn system. They’d been born into this world, raised in the shadow of people who didn’t care about them, only about their power, their control. And now, Kanato wanted to break free from it. He wanted to be free of his family, free of the mafia’s grip.
+
+And Hibari... Hibari wanted to believe in it too. He wanted to believe that they could just run away, live their lives, without all the chains that held them down. But the reality, the bitter truth, was that it wasn’t that simple.
+
+“I’m not saying I don’t want to, Kanato,” Hibari whispered, his voice thick with emotion. “But if we run, if we leave... we’ll never be free. Not truly. We’ll just be running forever, always looking over our shoulders, always hiding.”
+
+they move out of the breakfast hall, and kanato begs him. please hibari, lets just run. we dont have any other choice. hell kill you. hes already tried before. please hibari. *please.* kanato knows already, that theyll be chased for the rest of their lives, but if hibaris going to be chased and hunted anyway, he wants to be there. hibari cant die or hell die too, he says, lets just run, hibari. please. and then he says, listen to me, im begging you. and hibari hesitates. he doesnt know what else to do. alright, he says quietly, and smiles, lets run.
+
+"Listen to me, Hibari," Kanato’s voice was low, almost trembling. "I’m begging you. You can’t die, not like this. I’ll die if you do. I can’t live without you. We’ll be chased forever, yes, but I don’t care. I just... I need you to be with me. I need you to live. Please, Hibari. Please."
+
+The words hit Hibari like a wave, crashing over him, drowning him in emotion. His heart raced, his mind whirling. Kanato’s words weren’t just desperate—they were a plea for freedom. Freedom not just from the mafia, but from the pain, from the expectations, from the constant fear of being hunted. Kanato wanted them both to be free, together. And Hibari couldn’t ignore that.
+
+But the reality of it—the idea of running, of leaving everything they knew behind—was terrifying. Could they really do it? Could they truly escape? The weight of the decision was almost too much to bear, but the thought of losing Kanato, of seeing him crushed by the weight of his family’s expectations, was unbearable too.
+
+Hibari took a deep breath, his hand reaching out for Kanato’s. He saw the desperation in Kanato’s eyes, the way his body seemed to physically lean toward him, needing him to say yes. Kanato wasn’t asking for escape from the world just for himself—he was asking Hibari to take that step with him, to run and face whatever future they could carve out together.
+
+Hibari hesitated for just a moment longer, his mind still racing, torn between the certainty of the life they knew and the uncertainty of what they could have, together, if they ran.
+
+And then, as the weight of Kanato’s plea settled deeper into his heart, Hibari made his decision.
+
+“Alright,” he said quietly, his voice barely more than a whisper, but full of resolve. “Let’s run.”
+
+He smiled, a smile that was soft, bittersweet, and full of the hope they both clung to. Kanato blinked, a small flicker of disbelief in his eyes before it was replaced by something far softer—relief, tenderness, and something Hibari had been craving for so long: hope.
+
+“Let’s run,” Hibari repeated, and this time it was full of the promise of everything they could be.
+
+  
+
+Im just gonna make this 40.
+
+they plan their leave that night. theyll take their essentials and escape using the vanishing cabinet, and then hibaris thief skills will get them as far as the ministry of magic. theyve never tried to leave a country with magic, before.. but theyll figure out, right? theyll find someplace, in japan, their homeland, and theyll open a cafe and live as muggles, or.. or .. . they stop dead. seraph and akira are locked in an argument with lauren. all three of them overheard the howler, of course, theyre always listening-- but it seems like seraph and akira are hisisng at lauren to let them pass. lauren is trying to get a word in, but he *cant.* and when hibari and kanato approach,s eraph and akira explain-- they want to go too, but they think lauren is here to stop them. lauren finally interrupts. Im not here to stop you, idiots. im here to say ill cover your back.
+
+lauren will support them from hogwarts. HES going to finish his year, he says, but he wont let anyone in hogwarts follow their trail. thats his idea of support. he bids them farewell, and hibari leaves him with a friendly clap on the shoulder, 'im promoting you to captain, and im giving you my aurum one. its too obvious, so i cant take it with me anyway. look after it.'
+
+  
+
+They moved from small towns to quiet villages, always under the radar, always changing their names, their appearances, their lives. In one town, Kanato worked as a part-time barista in a small café while Hibari explored the nearby woods. In another, they took up temporary jobs at a quiet bookstore, both of them hiding behind mundane routines that kept them grounded in a world that was unfamiliar, yet so peaceful.
+
+It was in one of these quiet towns, nestled among rolling hills and untouched forests, that they found a small cottage to rent for a while. The windows were large, and the entire place was filled with soft light as the morning sun streamed through the curtains. Kanato had insisted on paying for the cottage with some of the last of his account’s funds, but Hibari had managed to slip into the local markets for food and supplies without attracting any attention. Their days were filled with simple moments, with laughter and quiet joy as they navigated this new life.
+
+One evening, the two of them sat by the fire after a long day of wandering the countryside, Kanato curling his legs under him on the couch, Hibari lounging lazily beside him. The scent of tea lingered in the air, mingling with the warmth of the fire. Kanato’s fingers brushed over the edge of Hibari’s hand, his gaze turning soft.
+
+“You know,” Kanato said quietly, “this is the most peaceful I’ve ever felt. Not having to look over my shoulder... being able to wake up and not have to worry.”
+
+Hibari smiled, his hand gently cupping Kanato’s. “We don’t have to worry about anything anymore, Kanato. We’re free. And we have each other. What else do we need?”
+
+Kanato looked down at their entwined hands, his thumb tracing the lines of Hibari’s fingers. A small smile tugged at the corners of his lips. “You’re right. I’ve never really felt free before. It’s strange, but... in a good way.”
+
+They spent their nights together, in the small cottage or under the open sky. Sometimes, they lay out under the stars, talking about nothing and everything at once. They even started picking up small trinkets from the places they visited—souvenirs that held memories, but never to be returned to. It was just them, out there in the world, surviving and thriving.
+
+One afternoon, after a particularly long day of hiking through the countryside, they found a secluded lake. The water was still, like glass, and the air smelled of pine and damp earth. Hibari grinned as he noticed Kanato’s wistful expression.
+
+“You know,” Hibari began, his voice teasing but warm, “there’s no one around to judge us here. We could swim.”
+
+Kanato raised an eyebrow, clearly skeptical. “In this cold water?” He glanced down at the lake, but Hibari’s smirk only grew.
+
+“You’re so uptight,” Hibari teased, already pulling his shirt off. “C’mon, let’s take a dip.”
+
+Kanato hesitated for a moment, but then, with a quiet laugh, he followed Hibari’s lead and began pulling off his own clothes. The moment they stepped into the lake, the cold water hit them like a shock, but they both quickly found their footing. Hibari swam out a little further, splashing water behind him as Kanato followed, laughter bubbling between them. It was a carefree moment, a small piece of their new life where nothing mattered but being with each other.
+
+Later, when they finally climbed out of the water, both shivering and laughing, they lay on the soft grass, watching the clouds pass lazily by overhead. Hibari, always restless, rested his head on Kanato’s chest. It was a moment of peace. A brief, stolen moment in the world they had made for themselves.
+
+Kanato, with his quiet smile, traced the lines of Hibari’s jaw with his fingers. “You’re not so bad, you know. Not like I thought you were back then.”
+
+Hibari’s laughter was soft, warm, but there was an underlying tenderness that had grown between them over these weeks on the run. “What, you mean because I’m a thief?”
+
+Kanato grinned. “You’ve always had a way of getting what you want, haven’t you?”
+
+“You make it sound like it’s a bad thing,” Hibari replied, his voice light. But there was truth in it, too, an honesty that only came out in these quiet moments.
+
+They lay there for a while longer, wrapped up in the small things that made their world feel real. At times, the simplicity of their life seemed too good to be true, but then Kanato would press a kiss to Hibari’s forehead, and Hibari would pull him closer, reminding him that it was exactly what they needed.
+
+In the mornings, they would sometimes wake up in the cottage, tangled in sheets, limbs entwined. There would be breakfast—Hibari made pancakes that were much better than they had any right to be—and then they would set off again, back to the little towns, to blend in, to remain unnoticed. They never stayed in one place for too long. They couldn’t afford to, not with the eyes of the world on them.
+
+But still, they had their time. And it was enough.
+
+“Maybe we should start our own café,” Kanato said one day as they walked through another village. “Like we talked about before. In Japan. A little café, somewhere quiet. We could forget everything that happened and just live.”
+
+Hibari smiled, the kind of smile that spoke of dreams, of promises made without the fear of breaking. “Maybe we could. But only if you promise me one thing.”
+
+Kanato looked at him, curiosity sparking in his eyes. “What’s that?”
+
+“That you’ll always stay by my side,” Hibari said, his voice steady. “No more running. No more hiding. We’re in this together.”
+
+  
+
+But for like hwo long though
+
+until the first time they get found. out in the wheat fields, far from any roads. where the grass is taller than they are. they keep track of each other by holding hands.. until theres a flash of green under the light. Did you see that? says hibari, as kanatos hand tenses in his grip. killing curse, kanato mutters, and hibari locks up. kanato urges him to run, run! they start bolting. the curse starts flying. kanatos hand slips from his grip but kanato tells him to keep running, keep running and dont look back. and he says listen to me, so hibari doesnt have a choice. people are shouting now, and the sunny day doesnt match the atmosphere at all. his vision starts to blur, but he can still hear kanato running some distance from him, through the grass. they stop talking to each other because its dangerous-- so all hibari can do is run and hope.
+
+other flashes of light begin to show-- the enemy, attepmting different spells, to wound their prey for the killing shot. hibari is quick, quicker than anyone, even kanato, so he dodges, even in the wheat field. but theyre running out of long grass to hide in, and theres a stretch of meadow before the trees. and even then, who can tell if theyll be safe? they break onto the meadow-- hibari first, kanato somewhere behind and off to the side. out in the open. the enemy breaks onto the meadow sometime after, lining clear shots. kanato is firing his own back with his wand, and hes hitting them, but theyre not killing curses, so they just keep getting up or picking their wands up out of the grass. but its slowing them down-- and that should be enough. they hit the trees. hibari is watching for kanato, who is starting to keep pace, but hes distracted, and he snags his ankle on a twig, spraining it. ow. 
+
+  
+
+kanato is at his side in an instant, but the enemy is closing in, and hibari can hardly see straight hes panicking so hard, as kanato lugs him up-- theyre too close, the enemy. too close, and then- "Crucio! Crucio, crucio!" Kanato starts firing off the unspeakable curse, in sheer panic. one by one the enemies twist in agony and drop their wands, writhing, and then kanato throws hibari over his shoulder-- since when was he strong enough for that?-- and runs. Hibari doesnt even hate him for it. kanato just loves him that much. hibari isnt even mad, not even mad about what kanato just did, as kanato throws him over his hsoulder and bolts-- because kanato just committed an unforgiveable curse, just to protect him.
+
+when theyre finally safe-- finally somewhere *else*, kanato lets hibari down on a park bench enclosed by trees, of some town somewhere, and checks his ankle. its not just twisted, its straight up broken, and this shocks kanato because is hibari an idiot? hibari thinks it mustve been the adrenaline, and then he makes a strangled cry as kanato uses reparo to set it straight. because ogbviously, that would hurt like a fucking bitch. and as kanato turns away, grumbling about accommodations and getting to japan, hibari notices the huge gash on kanatos arm.
+
+And this is when kanato decides, while hibari thinks securely— they cant keep running.
+
+  
+
+Aaaaand i still havent skeleton’d the ending 👍
+
+**
