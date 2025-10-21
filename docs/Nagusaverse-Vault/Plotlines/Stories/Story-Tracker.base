@@ -1,0 +1,74 @@
+filters:
+  and:
+    - file.tags.containsAny("Story", "Completed")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - No.
+      - Alias
+      - Type
+      - file.tags
+      - file.folder
+      - file.mtime
+      - file.ctime
+      - file.links
+    sort:
+      - property: No.
+        direction: ASC
+    columnSize:
+      note.Alias: 89
+      note.Type: 159
+      file.mtime: 154
+      file.ctime: 108
+  - type: cards
+    name: Card View
+    sort:
+      - property: No.
+        direction: ASC
+    cardSize: 240
+    imageFit: ""
+    image: note.Image
+  - type: table
+    name: Completed Only
+    filters:
+      and:
+        - file.tags.contains("Completed")
+    order:
+      - file.name
+      - No.
+      - Alias
+      - Type
+      - file.tags
+      - file.folder
+      - file.mtime
+      - file.ctime
+      - file.links
+    sort:
+      - property: No.
+        direction: ASC
+    columnSize:
+      note.Alias: 89
+      note.Type: 159
+      file.tags: 321
+      file.mtime: 154
+      file.ctime: 165
+  - type: table
+    name: Not Completed Only
+    filters:
+      and:
+        - '!file.tags.contains("Completed")'
+    order:
+      - file.name
+      - No.
+      - Alias
+      - Type
+      - file.tags
+      - file.folder
+      - file.mtime
+      - file.ctime
+      - file.links
+    sort:
+      - property: No.
+        direction: ASC

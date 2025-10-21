@@ -1,0 +1,59 @@
+filters:
+  and:
+    - '!file.name.contains("keyvisual")'
+    - '!file.name.contains("template")'
+views:
+  - type: table
+    name: Main View
+    order:
+      - file.name
+      - file.backlinks
+      - file.basename
+      - file.folder
+      - file.ext
+      - Alias
+      - excalidraw-plugin
+      - tags
+      - file.ctime
+      - file.tags
+    sort: []
+  - type: table
+    name: Stories
+    filters:
+      or:
+        - file.hasTag("Story")
+    order:
+      - file.name
+      - No.
+      - Type
+      - Alias
+      - file.tags
+      - file.folder
+      - file.backlinks
+      - file.path
+      - file.mtime
+      - file.ctime
+    sort:
+      - property: No.
+        direction: ASC
+    columnSize:
+      note.Type: 144
+      note.Alias: 83
+      file.tags: 322
+      file.path: 117
+      file.mtime: 153
+  - type: table
+    name: Plotlines
+    filters:
+      or:
+        - file.hasTag("Canon")
+        - file.hasTag("Story")
+    order:
+      - file.name
+      - Alias
+      - file.tags
+      - file.folder
+      - file.backlinks
+      - file.path
+      - file.ctime
+      - file.mtime

@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Demon World</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Quartz 4"/><meta property="og:title" content="Demon World"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Demon World"/><meta name="twitter:description" content="Overview --- start-multi-column: Overview border: disabled shadow: disabled number of columns: 3 column width: [30%, 30%, 30%] The Demon World is neither the place of the living nor the dead."/><meta property="og:description" content="Overview --- start-multi-column: Overview border: disabled shadow: disabled number of columns: 3 column width: [30%, 30%, 30%] The Demon World is neither the place of the living nor the dead."/><meta property="og:image:alt" content="Overview --- start-multi-column: Overview border: disabled shadow: disabled number of columns: 3 column width: [30%, 30%, 30%] The Demon World is neither the place of the living nor the dead."/><meta property="twitter:domain" content="quartz.jzhao.xyz"/><meta property="og:url" content="https://quartz.jzhao.xyz/Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/Demon-World"/><meta property="twitter:url" content="https://quartz.jzhao.xyz/Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/Demon-World"/><link rel="icon" href="../../../static/icon.png"/><meta name="description" content="Overview --- start-multi-column: Overview border: disabled shadow: disabled number of columns: 3 column width: [30%, 30%, 30%] The Demon World is neither the place of the living nor the dead."/><meta name="generator" content="Quartz"/><link href="../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxHYWJieVxccXVhcnR6XFxxdWFydHpcXGNvbXBvbmVudHNcXHN0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://quartz.jzhao.xyz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://quartz.jzhao.xyz/Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/Demon-World-og-image.webp"/><meta property="og:image:url" content="https://quartz.jzhao.xyz/Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/Demon-World-og-image.webp"/><meta name="twitter:image" content="https://quartz.jzhao.xyz/Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/Demon-World-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/Demon-World"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../..">Quartz 4</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-119"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-119" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Nagusaverse-Vault/">Nagusaverse Vault</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Nagusaverse-Vault/Loose-Leaf/">Loose Leaf</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../Nagusaverse-Vault/Loose-Leaf/Prev.-Versions/">Prev. Versions</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Demon World</a></div></nav><h1 class="article-title">Demon World</h1><p show-comma="true" class="content-meta"><time datetime="2025-10-21T05:23:44.000Z">Oct 21, 2025</time><span>45 min read</span></p><ul class="tags"><li><a href="../../../tags/Looseleaf" class="internal tag-link">Looseleaf</a></li><li><a href="../../../tags/Folder" class="internal tag-link">Folder</a></li></ul></div></div><article class="popover-hint"><h2 id="overview">Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#overview" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>--- start-multi-column: Overview</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="column-settings" data-theme="github-light github-dark"><code data-language="column-settings" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>border: disabled</span></span>
+<span data-line><span>shadow: disabled</span></span>
+<span data-line><span>number of columns: 3</span></span>
+<span data-line><span>column width: [30%, 30%, 30%]</span></span></code></pre></figure>
+<ul>
+<li>The Demon World is neither the place of the living nor the dead. It is not like Hell, and has more in common with purgatory or limbo.</li>
+<li>The Demon World exists in an entirely different ‘format’ to the human world, unique in every aspect. It resembles something closer to <em>Yomi</em> in Japanese mythology.</li>
+<li><em>Yomi</em> has been and is inhabited, just as the Demon World is, despite its sparsity.</li>
+</ul>
+<p>--- end-column ---</p>
+<p><strong>Classification</strong>: Otherworld (Dimensional)
+<strong>Type</strong>: Metropolis
+<strong>Government</strong>: Monarchy
+<strong>Primary Imports:</strong> Human items of all sorts
+<strong>Primary Exports:</strong> Specialist anti-entity weapons, metals and ores
+<strong>Languages:</strong> Demonic / Human languages. Many demons tend to learn a second human language out of necessity.
+<strong>Tags:</strong> <a href="../../.././../../tags/Looseleaf" class="tag-link internal alias" data-slug="tags/Looseleaf">Looseleaf</a> <a href="../../.././../../tags/Folder" class="tag-link internal alias" data-slug="tags/Folder">Folder</a></p>
+<p>--- end-column ---</p>
+<p><em>SYSTEM REPORT: 2434:\VirtualWorld0\DemonWorld</em>
+<em>[1] The Demon World is a <a href="../../../Worldbuilding/Virtual-Universe/Otherworlds/Otherworlds#dimensional-otherworlds" class="internal alias" data-slug="Worldbuilding/Virtual-Universe/Otherworlds/Otherworlds">dimensional otherworld</a>.
+[2] There are two contexts for how the Demon World is referred to:</em>
+<em>1. In the context of being a realm, where it is being referred to as a whole.</em>
+<em>2. In the context of being a city, place, or home. Where the term ‘Demon World’ is confined to the city in which civilised demons base themselves.</em>
+<em>[3] Human survival in the Demon World is <strong>highly improbable</strong>, though certain otherworlders may find it habitable.</em></p>
+<p>--- end-multi-column</p>
+<blockquote class="callout the" data-callout="the" data-callout-metadata=" Demon World, as Perpetuity">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>The</p></div>
+                  
+                </div>
+</blockquote>
+<pre><code>> &quot;In all my time surfing the network, I had seldom actually done so by way of accident.
+</code></pre>
+<blockquote>
+<p>I had known little of the Demon World– which, in my encounters with various inhabitants, I had surmised to be different to the Demon World of Helesta, or Hell. I had been sheltering from a storm in an alcove at the base of a mountain– an alcove that I found to be rather deep. It is in my nature as an explorer to investigate, and so off I went. And the cave went on and on, until I found myself unable to turn back. The way had disappeared.</p>
+<p>I understand my lifestyle is very unappealing to most, and I truly had felt no remorse in it until I was met with the unrelenting blackness spread before me. Perpetual, unending. I cannot guess as to the Demon World’s larger purpose in the scope of the Virtual Universe, but it is an inherently unkind, inhospitable land. Roamed by unholy, monstrous creatures of loping shapes… and odd ones, too, if my eyes did not deceive me. In old legends, they are claimed to be guards, and I wonder if this realm is the originator of the Japanese tales of “Yomi”. But I argue there is nothing to guard but wastelands and mountains. The demons I had met– the ones who made no attempts on my life– had never spoken of how vast their motherland was, and I found myself lucky that the slip in the network was close to the nexus city.</p>
+<p>I was picked up at the edge of the border by a group of civilian patrolmen, who seemed fittingly surprised at my survival in-so-far. Though I dwelt there for a number of days, I never once heard a name for the metropolis the demons inhabit, but it is simultaneously medieval and modern. For instance, the castle looked as if ripped straight from gothic fantasy. But the outer districts, where I spent most of my time, reminded me more of the suburban housing of my own town far, far away.&lt;/</p>
+<p>With fortune, I eventually returned to my origin lands– apparently, it is not impossible for mortals to slip through the cracks. I was not the first and would not be the last. In the past, it would not have been possible for me to have survive walking those streets. Even then, I felt hungry eyes upon me. Somehow, these creatures make their living here… I do not think they are aware of how fractious and disorderly their way of life is. But if there is more to be said, it is that– in some strange way– their endless realm meshes liminality with naturality. I felt as if I was passing, not beyond or below, just through. And, might I be called odd in sense, I felt rather at peace.”</p>
+<p><em>- ‘Traveller’s Diary vol.III: Realms of the Strange’, Anonymous</em></p>
+</blockquote>
+<hr/>
+<h2 id="environment">Environment<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#environment" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h4 id="physicality">Physicality<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#physicality" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>An infinite wasteland of darkness, with biomes ranging from flatlands to mountains. There is even flowing water.</li>
+<li>The Demon World expands infinitely– both outwards unto the horizon, but also down. Nobody has ever mined to the bottom.
+<ul>
+<li>Some demons may be brave enough to travel, but there is little point in it other than exile or danger.</li>
+</ul>
+</li>
+<li>Like its inhabitants, it is both unchanging and eternal, promising perpetuality.</li>
+</ul>
+<h6 id="climate--weather">Climate &amp; Weather<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#climate--weather" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>The Demon World does not have seasons. There is no sun or moon.</li>
+<li>Not near freezing temperatures, but not particularly warm either.</li>
+<li><a href="../../../Manastorm" class="internal alias" data-slug="Manastorm">Manastorms</a> are a natural disaster that may cause the sky and land to distort, change colour, erupt, fracture, or mutate.</li>
+<li>Auroras created from mana may also appear in the sky or air.</li>
+<li>The only natural light is emitted by mana geodes that grow within the landscape.</li>
+</ul>
+<p></p><blockquote class="transclude" data-url="Mana" data-block="#overview" data-embed-alias="Overview"><h5 id="overview">Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#overview" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p><em>Supertype:</em> Resource | <em>Subtype:</em> Ethereal | <em>Element:</em> Typeless</p>
+<ul>
+<li>A fundamental resource innate to demons and other creatures of the <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Worldbuilding/Virtual-Universe/Otherworlds/Demon-World/Demon-World" class="internal alias" data-slug="Worldbuilding/Virtual-Universe/Otherworlds/Demon-World/Demon-World">Demon World</a>.</li>
+<li>The relationship between <em>innate mana</em> (within organisms) and <em>ambient mana</em> (in the environment) mirrors that of magma and lava—connected but distinct in function.</li>
+<li>Demons routinely replenish and expel mana to sustain life and prevent <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Loose-Leaf/Prev.-Versions/Demon-World#mana-combustion" class="internal alias" data-slug="Loose-Leaf/Prev.-Versions/Demon-World">mana combustion</a>. This aligns with their combative nature, as battle provides a natural outlet for mana release.</li>
+<li>Mana can be recovered <em>over time</em> and through other <em>nutritional means</em>.
+--- start-multi-column: Overview</li>
+</ul>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="column-settings" data-theme="github-light github-dark"><code data-language="column-settings" data-theme="github-light github-dark" style="display:grid;"><span data-line><span>border: disabled</span></span>
+<span data-line><span>shadow: disabled</span></span>
+<span data-line><span>number of columns: 3</span></span>
+<span data-line><span>column width: [40%, 40%, 10%]</span></span></code></pre></figure>
+<h6 id="innate-mana">Innate Mana<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#innate-mana" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Mana contained within a demon’s body, serving as a vital life resource akin to blood.</li>
+<li>Stored in what is known as <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-recesses" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">mana recesses</a> and circulated through <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-flow" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">mana flow</a>.
+<ul>
+<li>Deeper mana recesses and greater reserves are often inherited traits, tied to the inherent strength of a demon’s lineage.</li>
+</ul>
+</li>
+<li>Enables magic and other abilities unique to demons.</li>
+<li>Participates in <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-flow" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">regenerative processes</a> and overall vitality.</li>
+<li>Mana is a key component in the creation and birth of new demons, shaping their inherent traits and abilities.</li>
+</ul>
+<p>--- end-column ---</p>
+<h6 id="ambient-mana">Ambient Mana<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ambient-mana" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Naturally occurring mana that suffuses the world, abundant and omnipresent like air.</li>
+<li>Demons absorb ambient mana passively, akin to breathing oxygen.</li>
+<li>Mana may manifest as <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana-Geode" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana-Geode">mana geode</a>, which contain mana that can only be used and not absorbed.
+<ul>
+<li>These are often turned into <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Mana-Cache" class="internal alias" data-slug="Mana-Cache">mana caches</a>, or exchanged as currency amongst low-ranking demons (as high-ranking demons wouldn’t need them, already inherently retaining deep mana recesses).</li>
+</ul>
+</li>
+<li>High concentrations of ambient mana can coalesce into living beings or phenomena, creating:
+<ul>
+<li>Monstrous, plant-like, or animalistic entities.</li>
+<li>Natural disasters like <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana/../../../../../../Manastorm" class="internal alias" data-slug="Manastorm">manastorms</a> or mana-based auroras.</li>
+</ul>
+</li>
+<li>Some worlds are more mana-saturated than others, affecting the abundance of ambient mana.</li>
+</ul>
+<p>--- end-multi-column</p>
+<hr/>
+<a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#overview" class="internal transclude-src">Link to original</a></blockquote><p></p>
+<hr/>
+<h3 id="major-locations">Major Locations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#major-locations" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>The Demon World is an expansive realm, but the entirety of the population is essentially nested in the city surrounding the King’s castle.</li>
+<li>The entirety of the race is concentrated in that area, and therefore the city itself knows no name and is inherently referred to by its people as the ‘Demon World’.</li>
+<li>The Demon World is considered the <em>absolute center</em> of the entire realm due to the fact that the edges of the world are unknown.</li>
+</ul>
+<blockquote>
+<p><em><strong>The Demon World’s Sole City</strong></em></p>
+<p>“Rising from the endless, dark plain, the Demon World– that is, the city– rests upon a solitary hill. It is not difficult to see, with its towers and castle glowing with mana geodes. The concentric rings of the city spiral outward from the castle, and the land stretches flat in every direction. Unbroken and bleak, and yet the demons have no more defense than some paltry walls. I wonder if their arrogance is reflected in the placement of their settlement, as they are vulnerable to the open air and whims of the land pressing against them. The wilderness beyond seemed eager to claim what they so boldly showcased, but I believe this what the demons intend– taking their dominion over a world that seems ready to consume them. Pride, it seems, is both their strength and their folly.</p>
+<p>There are spats of geysers leading toward it, which I imagine, are part of the water system they seem to have mastered. I remember seeing a network of rivers, dredged from and disappearing into the ground. I suspect they rely on subterranean water. In my very short stay, I learnt that mana flows well with water, as it does with blood. Perhaps it is something similar to the way oxygen dissolves in water, and this may be why the city has terraformed its system– to safely expel the concentrations of mana that tend to accumulate. From what I gathered, keeping high amounts of mana in one space for too long is incredibly dangerous. Given how compact the city is, and that it is inhabited by a race that both absorbs and exudes it, I loathe to imagine the possibilities.</p>
+<p>There is a beauty in the balance they maintain, though I cannot help but see it as precarious. But, perhaps it is not their character to bend knee to nature.”</p>
+<p><em>‘Traveller’s Diary vol.III: ‘Realms of the Strange’, Anonymous</em></p>
+</blockquote>
+<h4 id="a-geographical-hierarchy">A Geographical Hierarchy<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#a-geographical-hierarchy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>
+<p>The Demon World city is a sprawling metropolis structured in <strong>concentric rings</strong> radiating outward from the <strong>King’s castle</strong> at its center.</p>
+</li>
+<li>
+<p>The rings are divided into areas, each serving distinct roles and housing specific classes of demons, from the highest nobility to commoners and outcasts.</p>
+</li>
+<li>
+<p>In the Demon World, <em>strength is not only a virtue but a necessity</em>.</p>
+</li>
+<li>
+<p><em>The demon race places extreme value on strength– in their world, survival is of the fittest. As such, strength– decided by factors like <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-recesses" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">mana recesses</a>, combat prowess, intelligence, and physical capability– is proportionate to authority.</em> These factors can also be hereditary.</p>
+</li>
+<li>
+<p>Proximity to the center denotes strength; the lower the number on your address, the greater your power.</p>
+</li>
+<li>
+<p>Strength here refers not just to raw power but also to tactical intelligence, resourcefulness, and dominance in demon society.</p>
+</li>
+</ul>
+<h5 id="area-0-castle-tenbrelith">Area 0: Castle Tenbrelith<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-0-castle-tenbrelith" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li><em>The <a href="../../../Royal-House" class="internal alias" data-slug="Royal-House">Royal House</a>, where the royal family reside.</em></li>
+<li>The entirety of this area is the castle estate.</li>
+</ul>
+<blockquote>
+<p><em><strong>A Peculiar Blend of Fantasy &amp; Mundane</strong></em></p>
+<p>“I had only known of Castle Tenbrelith through my excessive studies of otherworlds. It is to my understanding that demons do not refer to the castle by any name at all, but it exists in records nonetheless. I imagine humanity could only bear so much of the demon race’s vague naming schemes, and simply made one for them. In my transmundology classes, it was often a topic of contention to the point where the very concept of the castle itself began to seem comical.</p>
+<p>I was wholly unprepared for the castle’s otherworldly majesty. It is well-known the Demon World’s main trade is in metals, ores, and weapons, but to see the very path leading to it laden with flecks of gold and ruby… the wealth is beyond my comprehension. It is no wonder that the god of the underworld is also known as the god of riches in Greek mythos. Its arches, windows, what-have-you, were laced with mana geodes, lending it a faint glow.</p>
+<p>What struck me most, however, was the stark contrast between this ancient edifice and the outer rings of the city. The circles that radiate outward from the castle grow progressively modern, culminating in structures reminiscent of Japanese family homes. I understand the Demon World has held a particular fondness for Japan since the Demon-Human Interworld War, but I found this almost amusing.</p>
+<p>This dissonance seemed almost intentional, as though the Demon World’s metropolis sought to mirror both its storied past and its strange kinship with humanity’s modernity.”</p>
+<p><em>‘Traveller’s Diary vol.III: Realms of the Strange’, Anonymous</em></p>
+</blockquote>
+<h5 id="area-1-territory-of-the-high-houses">Area 1: Territory of the High Houses<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-1-territory-of-the-high-houses" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>*Lords, ladies, and other members of the High Houses.</li>
+<li>Encircles <strong>Area 0</strong> and serves as the residence for the High Houses of demon society.</li>
+<li>Lavish estates and mana-fueled infrastructure reflect their wealth and influence.</li>
+</ul>
+<h6 id="residents">Residents<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#residents" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p><strong>The High Houses</strong></p>
+<ul>
+<li>
+<p>The High Houses are the <em>elite nobility</em>, exhibiting deep mana reserves, strength and combat prowess, and close ties with the royal family. They are comprised of the <em>family head– the Lord or Lady– and their kin.</em></p>
+<ul>
+<li>The head of each house holds their position by <em>virtue of strength</em>.</li>
+<li>They wield authority over lower districts, and largely act as commanders of military forces.</li>
+<li>Few in number, they are usually sent on solo missions by royal order, often to other worlds to apprehend high-profile and extremely dangerous or disruptive Demon World criminals.</li>
+<li>Lords and Ladies also act as <em>commanders</em> in times of dire combat.</li>
+<li>Lords and Ladies may act as <em>advisors, attendants or retainers</em> to the royal family.</li>
+<li>Frequently undertake high-stakes missions involving <em>otherworldly diplomacy and threat suppression</em>.</li>
+</ul>
+</li>
+<li>
+<p>Families of the Lord or Lady provide support in governing and defending the realm, particularly during their frequent absences.</p>
+<ul>
+<li>Succession within noble families is determined through combat trials or displays of power, ensuring only the strongest assume leadership.</li>
+</ul>
+</li>
+<li>
+<p>Manage day-to-day affairs during the house head’s absence, including administration, defense, and infrastructure upkeep.</p>
+</li>
+<li>
+<p>Coordinate militia patrols to defend against lessers and ferals breaching the outskirts.</p>
+</li>
+<li>
+<p><em>Intense competition exists both between houses and within families</em>, as successors are often determined through combat or displays of power.</p>
+</li>
+<li>
+<p>Political scheming is rampant, with families vying for resources, influence, and proximity to the royal family.</p>
+</li>
+</ul>
+<blockquote>
+<p><em><strong>A High House Lord, Merely a Boy</strong></em></p>
+<p>“During my unplanned stay, I encountered a young man in noble garb, his demeanor surprisingly approachable for a demon of his rank. He offered me a mana cache in exchange for the strawberries I had stashed in my pack. I gave them to him for free, as I cannot use a mana cache. He was delighted by the fact the gift was free. I asked if there was some form of ritual involved, but he merely said it was ‘no big deal, he just really likes strawberries’, popped one in his mouth, and sauntered off. At the time, I thought him no more than a wealthy eccentric with a good sense of smell.</p>
+<p>A bystander froze mid-step, their eyes wide with shock, before cautiously approaching me and whispering in hushed tones. Only then did I learn I had spoken to Commander Aleksandre Lagusa, Lord of the most influential High House! Renowned for his cunning in battle and critical role during the Demon-Human Interworld War, I was flabbergasted. For what purpose was the Demon King’s Watchdog gallivanting about in the outer rings? That such a notorious figure would bargain for strawberries… I will surely remember it for the rest of my days.</p>
+<p>I could not help but be jealous of his youth, despite his minimum sixty years of life. And I had to wonder– it was thanks to that boy that peace was achieved between the human and demon realms. But looking so young, I was struck by the fact he surely could not have done it alone. If I recall, there are faint records of a human soldier, whose name is lost to time. That human was shunned for treason and executed, though we are not taught why his death brought an end to the war.</p>
+<p>Recalling Lord Lagusa, I cannot help think of that nameless young man.”</p>
+<p><em>‘Traveller’s Diary vol.III: Realms of the Strange’, Anonymous</em></p>
+</blockquote>
+<h5 id="area-2-military-district">Area 2: Military District<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-2-military-district" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>
+<p><em>Officers, enforcers, patrolmen, and other personnel</em> directly responsible for:</p>
+<ul>
+<li>Defending the city from external threats like ferals and lessers.</li>
+<li>Conducting strategic military campaigns beyond the city and defending mine operations.</li>
+<li>Enforcing the laws of the crown.</li>
+<li>Exterminating ferals, containing outbreaks of mana mutations, or securing resources in volatile areas.</li>
+</ul>
+</li>
+<li>
+<p>Encircling <strong>Area 1</strong>, serving as a strategic buffer between the nobility and the broader city.</p>
+</li>
+<li>
+<p>The third-largest area ring.</p>
+</li>
+<li>
+<p>The command center for all militant operations in the Demon World.</p>
+</li>
+<li>
+<p>Provides ongoing military training, combat preparation, and <em>mana control education</em> to its residents, which <em>overseen by the High Houses</em>.</p>
+</li>
+<li>
+<p>Despite their military focus, <strong>Area 2</strong> residents do not engage in interworld activities unless a full-scale war demands it.</p>
+</li>
+<li>
+<p>Resources and training often emphasize internal threats, meaning some residents are less experienced in dealing with the unique challenges of other dimensions compared to those in <strong>Area 1</strong>.</p>
+</li>
+<li>
+<p>Residents tend to possess <em>moderate to high levels of mana control</em> and combat prowess, though not on par with the elites of <strong>Area 1</strong> or <strong>Area 0</strong>.</p>
+</li>
+<li>
+<p>A disciplined and hierarchical environment, where <em>respect is earned through demonstrated strength, tactical skill, and service.</em></p>
+</li>
+<li>
+<p>Residents are loyal to their commanders and the crown but also harbor rivalries within the military hierarchy.</p>
+</li>
+<li>
+<p>Pride in their role as protectors of the Demon World, though many feel overshadowed by the High Houses of Area 1, who take on more prestigious and high-stakes missions.</p>
+</li>
+<li>
+<p>A strong sense of community, forged through shared purpose and the constant threat of external dangers.</p>
+</li>
+<li>
+<p>A large amount of these residents may also be frequent secret participants in the activities of <strong>Area 4</strong>.</p>
+</li>
+</ul>
+<h5 id="area-3-educational-district">Area 3: Educational District<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-3-educational-district" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>
+<p><em>Sparse schools and engineering.</em></p>
+</li>
+<li>
+<p>A district of “technicians,” undervalued compared to the martial or trade districts.</p>
+</li>
+<li>
+<p>The smallest ring.</p>
+</li>
+<li>
+<p>Caters to education, research, and the *development of engineering and architectural advancements.</p>
+</li>
+<li>
+<p><em>There is no medical research in the Demon World.</em></p>
+</li>
+<li>
+<p>Its contributions are often taken for granted, despite their importance to the Demon World’s survival.</p>
+</li>
+<li>
+<p>The home of mana-related advancements, including efficiency research and support against natural disasters and for the heavy mana output of demon society.</p>
+</li>
+<li>
+<p>Architects are responsible for the layout and expansion of the city’s concentric rings. Many architects are studious and eclectic, channeling their demonic fervor into their jobs instead of violence.</p>
+<ul>
+<li>As such, their innovations aren’t very thematic, and tend to pull from a variety of cultures– Japan the most popular among them.</li>
+</ul>
+</li>
+<li>
+<p>Schools provide young demons with tion on <em>mana manipulation, history, and demon survival,</em> and usually one human language of their choice.</p>
+<ul>
+<li>Higher institutions focus on weapon-crafting, mana infrastructure, engineering, architecture, and interworld studies and lingual studies.</li>
+<li>Archives support the records of Demon World history.
+<ul>
+<li>Demons place little value on history, so there are only one or two in the entire ring.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h5 id="area-4-trade-district">Area 4: Trade District<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-4-trade-district" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>
+<p>The Demon World’s <em>commercial hub</em>, housing <em>merchants, traders, and messengers</em> for maintaining economy.</p>
+</li>
+<li>
+<p><em>The primary link between internal demon society and otherworldly trade networks.</em></p>
+</li>
+<li>
+<p>A legitimate center of commerce and a <em>hotspot for underground activities</em>.</p>
+</li>
+<li>
+<p>Home of <em>artisans and blacksmiths</em>, responsible for crafting mana and enchanted weapons and goods.</p>
+</li>
+<li>
+<p>Home of the <strong>Red Market</strong> and the designated checkpoint for <em>messengers</em>.</p>
+</li>
+<li>
+<p><em>Messengers</em> are official envoys who facilitate legitimate interworld communication and trade. They navigate between worlds with sanction from the royal family or High Houses.</p>
+</li>
+<li>
+<p>Highly trusted individuals, <em>not always demons</em>, who are selected for their loyalty, strength, and discretion.</p>
+</li>
+<li>
+<p>Though not numerous, they often reside in the district temporarily between missions.</p>
+</li>
+<li>
+<p>Messengers operating out of Area 5 are authorized by the royal family or High Houses to:</p>
+<ul>
+<li>Deliver goods and information to allied realms.</li>
+<li>Negotiate trade agreements or mediate conflicts.</li>
+<li>Escort valuable shipments across dimensions.</li>
+</ul>
+</li>
+<li>
+<p>Some messengers serve as diplomats in interworld relations.</p>
+</li>
+</ul>
+<h6 id="residents-1">Residents<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#residents-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p><strong>Legal Traders</strong></p>
+<ul>
+<li><a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana-Geode" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana-Geode">Mana geodes</a> are mined and accepted by the royal family, in exchange for resources and facilities in daily life. They are then issued for processing, refined into weaponry for trade or into mana caches.</li>
+<li>Weapons and ores are exported to other worlds.
+<ul>
+<li>Weapons are traded to the <a href="../../../Loose-Leaf/Prev.-Versions/Demon-World#realm-relations" class="internal alias" data-slug="Loose-Leaf/Prev.-Versions/Demon-World">Ouma Kingdom</a> due to the high demand for specialist, anti-entity weapons.</li>
+<li>The Demon World also retains strong relations with <a href="../../../Loose-Leaf/Prev.-Versions/Demon-World#realm-relations" class="internal alias" data-slug="Loose-Leaf/Prev.-Versions/Demon-World">Hell</a>, to supplement their perpetual war. They may also have a kinship in having their worlds constantly confused with each other.</li>
+<li>Ores from the Demon World are extremely beautiful and unique in their excellent quality, making them valuable trade to any other world, including the human one.</li>
+<li><em>Ores, jewels, jewellery, etc. make up the majority of the Demon World’s trade commerce.</em></li>
+</ul>
+</li>
+<li>Due to the <em>illegalisation of human trafficking and predation after the <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Demon-Human-Interworld-War" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Demon-Human-Interworld-War">Demon-Human Interworld War</a></em>, human food, trinkets, and artifacts are imported to the Demon World to supplement <em>nutrition</em> as substitute, or for their novelty.</li>
+</ul>
+<h6 id="points-of-interest">Points of Interest<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#points-of-interest" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<p><strong>Red Market</strong></p>
+<ul>
+<li>The <strong>Red Market</strong> flourishes due to the deeply ingrained demon perspective on humanity.
+<ul>
+<li><em>For many demons, humans are still seen as inferior or as resources</em>, a relic of ancient predation that persists despite modern agreements outlawing such practices.</li>
+<li>Human predation is <em>looked down upon by most of higher standing</em>, but there are many nobles in the High Houses who are hypocrites and supremacists.
+<ul>
+<li><a href="../../../Vampire" class="internal alias" data-slug="Vampire">Vampires</a> and <a href="../../../Loose-Leaf/Prev.-Versions/Demon-World#purebloods" class="internal alias" data-slug="Loose-Leaf/Prev.-Versions/Demon-World">purebloods</a> are especially prone to feelings of supremacy.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Area 4</strong> is notorious for underground trafficking networks.
+<ul>
+<li>The illegal merchants of the Red Market are <em>in the business of keeping their race alive</em>.
+<ul>
+<li><em>Demons require essence-like energy for survival, often substituting human-derived products</em> when other options are unavailable. This creates a constant demand for illicit goods.</li>
+<li>Red Market merchants deal in <em>essence-based commodities</em> like blood, mana-infused artifacts, and even human captives.</li>
+</ul>
+</li>
+<li><a href="../../../Mana-Cache" class="internal alias" data-slug="Mana-Cache">Mana caches</a> are forged from a high number of mana geodes, and crafting them is equally accessible as it is illegal.
+<ul>
+<li>They circulate widely, <em>allowing weaker demons to falsely amplify their power, often creating facades of higher rank, wealth, or authority</em>.</li>
+</ul>
+</li>
+<li>Counterfeit mana geodes and enchanted items are abundant, used to deceive buyers or bypass Demon World regulations.</li>
+</ul>
+</li>
+<li>Demon authorities are <em>primarily focused on interworld conflicts or feral outbreaks, leaving domestic illegal activities unchecked</em>.</li>
+<li>The disdain for humans discourages stringent policing of human-related black market trade.</li>
+</ul>
+<h5 id="area-5-commoners-district">Area 5: Commoner’s District<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-5-commoners-district" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>
+<p><em>Families, workers, daring travelers, and inns.</em></p>
+</li>
+<li>
+<p>The most populous ring of the Demon World city, housing the <em>majority of the demon population</em>.</p>
+</li>
+<li>
+<p>The architecture here is utilitarian and practical, reflecting the district’s focus on function over luxury.</p>
+</li>
+<li>
+<p>Has the lowest concentration of mana-based enhancements, as <em>the widening radius of area circles and lower individual mana potential decreases the need for mana checks and management.</em></p>
+</li>
+<li>
+<p>Artisans creating tools, clothing, and equipment needed for both domestic life and military operations also may live in this area.</p>
+</li>
+<li>
+<p>Local markets bustle with activity, featuring basic goods and occasional unique items brought by non-demon travelers.</p>
+</li>
+<li>
+<p>Inns often double as informal trading hubs where demons and travelers barter for supplies, information, and artifacts.</p>
+</li>
+<li>
+<p>Inns cater to non-demon visitors brave enough to enter the Demon World, offering lodging and basic amenities.</p>
+<ul>
+<li>Tend to be run by shrewd demons with the Demon World equivalent of street smarts.</li>
+<li>A lot of inns are also run by <a href="../../../Succubus" class="internal alias" data-slug="Succubus">succubi</a> and <a href="../../../Incubus" class="internal alias" data-slug="Incubus">incubi</a>… these inns are dangerous.</li>
+</ul>
+</li>
+<li>
+<p>Travelers are rare but not unheard of, often seeking knowledge, trade, or daring exploration. They are usually advised to stay within designated safe zones.</p>
+</li>
+<li>
+<p>A significant portion of commoners work as <em>militia</em> enforcers, patrolling the borders, <strong>Area 7</strong>, to protect it from lessers and ferals.</p>
+</li>
+<li>
+<p>The <em>militia</em> is considered a legitimate career due to the relentlessness of lessers and ferals. <em>Militia members</em> dominate the majority of labourers, and are paid in resources, amenities, and facilities by the royal family.</p>
+</li>
+<li>
+<p>The militia serves as a proving ground for commoners to demonstrate their strength, with rare opportunities for promotion into the military ranks of <strong>Area 2</strong>.</p>
+</li>
+<li>
+<p>Commoners are also heavily involved in <em>mining operations</em>, an essential labour for the Demon World’s economy.</p>
+</li>
+<li>
+<p>Even in this lower-ranked district, <em>strength dictates status</em>. Those who excel in mining, trade, or militia service gain respect and, occasionally, upward mobility.</p>
+</li>
+<li>
+<p>Non-demon travelers are viewed with a mix of curiosity and suspicion. <em>While some demons see them as opportunities for trade or novelty, others regard them as intruders or potential prey</em>.</p>
+</li>
+<li>
+<p>Mining accidents and militia casualties are common due to dangerous working conditions and frequent lesser or feral demon incursions.</p>
+</li>
+<li>
+<p><em>Some commoners resort to black market dealings to survive, smuggling illegal goods or participating in human trafficking schemes fueled by the lingering disdain many demons hold for humanity.</em></p>
+</li>
+</ul>
+<h5 id="area-6-the-outskirts">Area 6: The Outskirts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-6-the-outskirts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>
+<p><em>A vast and sparsely populated ring that marks the beginning of the Demon World’s true wilderness.</em></p>
+</li>
+<li>
+<p>A transitional zone between the relative safety of the city’s inner districts and the chaotic expanse of <strong>Area 7</strong> and the infinite wastelands beyond.</p>
+</li>
+<li>
+<p>Vital for resource extraction and defense, as many battles are better taken place where there will be no casualties or property damage.</p>
+</li>
+<li>
+<p>But it is also dangerous, as ferals and lessers constantly assault its borders.</p>
+</li>
+<li>
+<p>Sprawling quarries, barren landscapes, and minimal infrastructure.</p>
+</li>
+<li>
+<p>Few demons live here permanently, as it is primarily a work zone for miners and militia patrols.</p>
+<ul>
+<li>The <em>militia</em> patrols to prevent feral and lesser incursions into the city.</li>
+<li>Area 6 is constantly under siege by ferals and especially lessers, which are drawn to the city from even far corners by the high concentrations of mana produced by the population.</li>
+<li>Patrol routes are extensive and dangerous, requiring demons to stay in this area for extended periods.</li>
+<li>These patrols also <em>retrieve survivors who accidentally slip into the Demon World through the network, particularly near breaches between dimensions</em>.</li>
+<li>Watchtowers and emergency outposts are used by the militia and mining teams, and act as temporary shelters for working soldiers.</li>
+</ul>
+</li>
+<li>
+<p>Also a designated execution and exile zone, where criminals, traitors, or feral demons are dealt with.</p>
+</li>
+<li>
+<p>Exile rituals are carried out here, casting out demons deemed too dangerous or unworthy of reintegration.</p>
+</li>
+<li>
+<p>Some condemned demons are intentionally left to fend for themselves against the ferals, a fate considered worse than death.</p>
+</li>
+</ul>
+<h5 id="area-7-the-borderline">Area 7: The Borderline<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#area-7-the-borderline" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li><em>Outermost boundary of the Demon World city.</em></li>
+<li>Where civilization meets the vast, unending expanse of the Demon Wastelands.</li>
+<li>Beyond the walls lies an inhospitable, uncharted void—an infinite, dark expanse teeming with mana mutations, monstrous entities.</li>
+<li>Exiles, condemned criminals and feral outcasts are often thrown out from here.</li>
+<li>The walls are <em>not well-maintained</em>, with wearying stone and unmanaged mana ruptures, likely because the demons take more pride in their offense than defense.</li>
+</ul>
+<hr/>
+<h2 id="inhabitants">Inhabitants<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#inhabitants" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>The Demon World’s demons, not to be mistaken for devils– which are born from humanity’s vices– have existed as long as human civilisation, isolated to their own dimension.</li>
+<li>All demons possess capacity for regeneration.</li>
+<li>Most demons have some measure of shapeshifting ability. The degree is species-dependent.
+<ul>
+<li>Most demons have traits like wings, horns or both, that can be hidden via shapeshifting.</li>
+<li>The vast majority of demons have wings.</li>
+</ul>
+</li>
+<li>Due to their predation on humans, contact was largely done in secret.
+<ul>
+<li>After the <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Demon-Human-Interworld-War" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Demon-Human-Interworld-War">Demon-Human Interworld War</a> secrecy was no longer necessary.</li>
+</ul>
+</li>
+<li>Interactions with humans inevitably leaked into myths and legends.</li>
+<li>Perhaps due to their long lifespans, <em>demons have an extremely low libido.</em></li>
+<li>In exchange, <em>they receive high amounts of pleasure from destructive, manipulative and materialistic acts</em>.</li>
+<li>Some demons may channel this drive into creative endeavours for the betterment of the realm, but often still participate in recreational violence.
+<ul>
+<li>Though very uncommon, some demons may not be interested or stop seeing the appeal after centuries.</li>
+<li>These are the demons that tend to migrate to the <a href="../../../Nagusaverse-Vault/Worldbuilding/Virtual-Universe/Virtual-Universe#virtual-earth" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Virtual-Universe/Virtual-Universe">human realm</a>, which is entirely anti-violent by comparison.</li>
+</ul>
+</li>
+</ul>
+<h4 id="civilised-demons">Civilised Demons<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#civilised-demons" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>Construct Demon World society.</li>
+<li>Intelligence and sense equal to that of humans, with a strong focus on mana, strength and hierarchy.</li>
+<li>Civilized demons vary widely in appearance, abilities, and nature. Some closely resemble humans, while others have monstrous traits. ( <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Bestiary/Otherworld-Bestiary" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Bestiary/Otherworld-Bestiary">Otherworld Bestiary</a>→ )</li>
+</ul>
+<h6 id="purebloods">Purebloods<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#purebloods" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Form the majority of the Demon World population.</li>
+<li><em>Have a higher number of fatal weaknesses.</em></li>
+<li>The <em>pinnacle of demon evolution</em>, exhibiting regal strength and standing, and generally known to be unanimously beautiful or handsome.</li>
+<li>Their lifespans exceed others of their species.</li>
+<li>They are war-like and/or survival-oriented, and are normally incredibly selfish, egotistical, narrow-minded and prideful.</li>
+<li>While most demons historically regarded humans as inferior or as prey, this perspective has shifted slightly due to hybridization and interworld treaties.</li>
+</ul>
+<h6 id="half-bloods">Half-bloods<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#half-bloods" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li><em>Half-demon, half-human.</em> Extremely uncommon.</li>
+<li>They are rare, as many demons remain repulsed by such a manner of fraternisation with the human species, but <em>increasingly influential</em>. Traditionalists resent them.</li>
+<li>They have a <em>reduced number of fatal weaknesses</em>.</li>
+<li>Less likely to succumb to mana overexposure or essence starvation.</li>
+<li>Higher degrees of adaptability to different environments.</li>
+<li>Due the Demon World’s emphasis on <em>strength above all else,</em> half-blood demons have an advantage, and, should they decide to do so, can ascend high in standing.</li>
+<li>Have a <em>lower drive for destruction and other demon-like tendencies.</em></li>
+<li>Deeper mana recesses due to <em>a greater number of blood cells</em> make them less prone to combustion.</li>
+</ul>
+<h6 id="hybrids">Hybrids<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hybrids" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Demons that are hybrid of two demon species.</li>
+<li>Differences between them and purebloods depends solely on the species and traits of their parents.</li>
+<li>Generally have a higher rate of adaptability, as they have more options in <em>essence</em> to substitute for.</li>
+<li>Are more prone to species-specific diseases.</li>
+<li>Are more prone to <em>mana overexposure or combustions.</em></li>
+</ul>
+<h6 id="guardians">Guardians<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#guardians" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Not demons in the traditional sense.</li>
+<li>Few in number, they are special and rare entities with entirely different temperaments.</li>
+<li>They are unlikely to actually be in the Demon World at all, and may instead be instinctually tasked with guarding ruptures in the network, or even the spaces between dimensions.</li>
+<li>Also known as gatekeepers.</li>
+<li>The only known guardian at present is the <a href="../../../Cerberos" class="internal alias" data-slug="Cerberos">cerberos</a>, who guard ruptures in the network and gates between worlds– commonly the Demon World,  but not always.</li>
+<li>While other demons are aware of their existence, the guardians’ scarcity makes them as good as myth in most cases. Very few have interacted with a guardian.</li>
+<li>They are soloists and individuals, and mostly exist outside of demon law and awareness as they do not live within the domain.</li>
+<li>It is unknown whether they have innate mana.</li>
+</ul>
+<h4 id="hostile-demons">Hostile Demons<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hostile-demons" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<h6 id="lesser-demons">Lesser Demons<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lesser-demons" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>
+<p>Lesser demons are creatures that more closely resemble monsters or animals in behaviour and intellect.</p>
+</li>
+<li>
+<p>They are sentient but lack the intelligence or sophistication of full-blooded demons.</p>
+</li>
+<li>
+<p>Often hostile and animalistic, lesser demons are driven by instinct rather than strategy.</p>
+</li>
+<li>
+<p>They have a perpetual drive to obtain mana, as they are fueled by it.</p>
+</li>
+<li>
+<p>They are frequently used as tools of war or experimentation by more intelligent demons, that have often been outcast as <em>feral</em>.</p>
+</li>
+<li>
+<p>Some lesser demons are actually <em>non-hostile, and these ones tend to be small and kept as pets.</em></p>
+</li>
+<li>
+<p><strong>Mana mutations</strong>: Formed when ambient mana warps animals or weaker demons into monstrous forms.</p>
+</li>
+<li>
+<p><strong>Diseased transformations</strong>: Certain curses and diseases can degrade demons into lesser forms.</p>
+</li>
+<li>
+<p><strong>Environment-induced</strong>: Exposure to unstable mana zones in the Demon World can lead to lesser demon creation.</p>
+</li>
+</ul>
+<h6 id="feral-demons">Feral Demons<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#feral-demons" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Demons who have <em>lost their sanity or surrendered their sense to primal instincts</em>.</li>
+<li><em>Outlaws, criminals and practitioners of illegal arts are also labelled feral demons.</em>
+<ul>
+<li>The Demon World does not offer redemption</li>
+</ul>
+</li>
+<li>They are highly dangerous and feared even within demon society.</li>
+<li>Feral demons are <em>unpredictable and violent</em>, attacking indiscriminately.</li>
+<li>Unlike lesser demons, they retain their former power, making them significant threats.</li>
+<li>They are often hunted down by the militia or military forces of the Demon World.</li>
+</ul>
+<h2 id="diseases-sickness-and-deficiency">Diseases, Sickness, and Deficiency<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#diseases-sickness-and-deficiency" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<hr/>
+<ul>
+<li>The Demon World harbors unique afflictions, often tied to its mana-rich environment.</li>
+<li>These diseases can affect demons of all types, ferals, and even lessers.</li>
+<li>Demons do not contract human sicknesses.</li>
+</ul>
+<h6 id="crumbling-fever">Crumbling Fever<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#crumbling-fever" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>A degenerative disease caused by defects or failures in *a demon’s <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-flow" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">regenerative processes</a>.</li>
+<li>Leads to the breakdown of a demon’s body and <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-recesses" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">mana recesses</a>.</li>
+<li>This process is often quick, occurring in a matter of days.</li>
+<li>A rare disease, but more common in demons with deeper mana recesses.</li>
+</ul>
+<h6 id="draemuril-venis">Draemuril Venis<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#draemuril-venis" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Also known as <em>marrowblight</em> or <em>hollowbone</em>.</li>
+<li>Caused by a defect in a *demon’s <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana#mana-flow" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Mana">mana flow</a>.</li>
+<li>Eats away at the bone marrow, making it impossible for the body to produce new blood cells.</li>
+<li>Fatigue, paleness, muscles aches, bruises, bleeding, mana instability, haemorrhaging, bone deformity.</li>
+<li>Demons often succumb to mana combustion or essence starvation as a result.</li>
+</ul>
+<h6 id="essence-starvation">Essence Starvation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#essence-starvation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Results from a lack of essence or essence-like sustenance, which many demons require to maintain their strength and sanity.</li>
+<li>Symptoms include weakness, fatigue, muscle aches, migraines, hallucinations, and eventual ferality.</li>
+<li>Demons who’ve gone feral from essence starvation are prone to dying if they are unable to feed.</li>
+<li>Happens the most in <strong>Areas 5, 6 and 7</strong>.</li>
+</ul>
+<h6 id="mana-combustion">Mana Combustion<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mana-combustion" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>When a demon absorbs <em>too much mana with recesses that are not deep enough.</em></li>
+<li>Caused by overexposure and lack of mana expulsion. Spontaneous combustion.</li>
+<li>Hybrids are especially prone.</li>
+</ul>
+<h6 id="mana-poisoning">Mana Poisoning<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mana-poisoning" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>Caused by overexposure to <em>unstable or corrupted mana</em>.</li>
+<li>Symptoms include physical degradation, madness, and eventual transformation into a lesser demon.</li>
+</ul>
+<h6 id="outburst-flu">Outburst Flu<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#outburst-flu" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>A contagious sickness caused by the  <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Amplifloris" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Otherworld-Dictionary/Demon-World-Dictionary/Amplifloris">amplifloris</a> plant within the Demon World.</li>
+<li>Demons who have contracted it are prone to emotional outbursts as well as fever-like symptoms.</li>
+<li>Non-fatal. Passes within the week.</li>
+<li>This disease is contractable by humans in the form of <a href="../../../Hanahaki-Disease" class="internal alias" data-slug="Hanahaki-Disease">hanahaki disease</a>.</li>
+</ul>
+<h6 id="vitamin-and-mineral-deficiency">Vitamin and Mineral Deficiency<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vitamin-and-mineral-deficiency" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li>The vast majority of demons, being reliant on essence or essence-like substances to survive, also suffer vitamin and mineral deficiencies in relation to these substances.</li>
+<li>For example, <a href="../../../Vampire" class="internal alias" data-slug="Vampire">vampires</a> are more prone to blood loss and iron deficiency.</li>
+</ul>
+<h2 id="philosophy-religion-and-mythology">Philosophy, Religion and Mythology<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#philosophy-religion-and-mythology" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<hr/>
+<h4 id="philosophical-principles">Philosophical Principles<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#philosophical-principles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>The Demon World lacks a strict moral code or structured religious system. Instead, its inhabitants follow principles rooted in their nature, environment, and societal needs. These philosophies shape their worldview, emphasizing survival, strength, and the unyielding flow of mana.</p>
+<h6 id="societal-beliefs-the-ten-virtues">Societal Beliefs: The Ten Virtues<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#societal-beliefs-the-ten-virtues" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li><strong>“Strength is virtue.”</strong>
+<ul>
+<li><em>Strength is the axis upon which all morality turns.</em></li>
+<li>Strength is not merely physical or magical power but also encompasses wit, cunning, and resilience.</li>
+<li>The weak have value only in their ability to serve or better themselves under the tutelage of the strong. Protecting subordinates is seen as both a burden and a mark of power.</li>
+<li>The strong lead because they prove themselves capable of withstanding and conquering challenges. Leadership is earned.
+<ul>
+<li>Masters or nobles who fail to protect their subordinates are seen as unworthy.</li>
+</ul>
+</li>
+<li>Strength by inherited traits is seen as fortune, something that is begrudged, but respected.</li>
+<li>Fights for dominance are viewed as natural and necessary; the cutthroat nature of the Demon World can only be handled by the best.</li>
+<li>This philosophy creates a society where mentorship and rivalry coexist, forming a volatile balance between cooperation and individualism.</li>
+</ul>
+</li>
+<li><strong>“Power is absolute.”</strong>
+<ul>
+<li><em>Power is the absolute authority. Those who are in authority belong there.</em></li>
+<li>Those who know they are weaker must know their place and defer.</li>
+<li>Authority stems from might, and challenges to authority are viewed as a natural part of societal function.</li>
+<li>The weak may rise in proving themselves, and the strong must constantly defend their position.</li>
+<li>This fosters a ‘never rest’ mentality, where complacency is therefore considered the greatest sin.
+<ul>
+<li>The “never rest” mentality extends beyond combat into intellectual and magical pursuits.</li>
+<li>Mana mastery is seen as an ongoing responsibility to oneself and one’s place in the hierarchy.</li>
+<li>Failure to innovate or improve oneself risks one’s position in the hierarchy.</li>
+</ul>
+</li>
+<li>Succession in noble houses is determined by combat and displays of strength.</li>
+<li>A challenge must never be refused, lest you be seen as weak or unfit.</li>
+<li>Even the royal family is constantly scrutinised, and challenged to prove they deserve their authority.</li>
+<li>“Stagnation is death” is a common saying tied to this principle.</li>
+</ul>
+</li>
+<li><strong>“Mana, the Lifeblood.”</strong>
+<ul>
+<li><em>Mana is sacred, representing both a personal and universal life force.</em>
+<ul>
+<li>It is a privilege, not a right, to wield mana.</li>
+<li>Misuse or neglect of mana is viewed as moral failure.</li>
+</ul>
+</li>
+<li>Mana is the essence of existence, and must be granted the utmost respect.</li>
+<li>Mana flows through all things, and its dispersal upon death into the atmosphere ties into reincarnation beliefs.</li>
+<li>Rituals or practices exist to honour mana’s return to the Demon World upon one’s death.</li>
+<li>Philosophical debates might revolve around whether mana is something demons own or something they borrow and must repay.</li>
+<li>Demons do not interfere with natural disasters caused by mana, nor do they seek to over-industrialise it.</li>
+<li>Many demons understand mana to be a gift, granted to them to make them higher beings.
+<ul>
+<li>This point is double-sided. It causes superiority complexes and discrimination, but humbles demons in the use of their ‘gift’.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Eternalism</strong>
+<ul>
+<li>The philosophy that <em>existence is eternal.</em></li>
+<li>The infinite nature of the Demon World reflects the belief in an unbroken cycle of existence.</li>
+<li>The wastelands and endless underground caverns symbolize eternal life and death as part of the same continuum.</li>
+<li>Demons see themselves as pieces of an eternal network: <em>they are born of mana, live to use it, and return it upon death</em>.</li>
+<li>Their immortality is not absolute, and many die early deaths in the Demon World. <em>When demons die, they dissolve into ash, and their mana is dispersed into the atmosphere.</em></li>
+<li>Reincarnation is not romanticized; it is viewed pragmatically as a simple truth.</li>
+<li>Fosters a deep sense of fatalism in many demons.</li>
+<li>For others, this fosters apathy or despair, especially in those with <em>lower destructive drives</em>, resulting in mental illnesses like depression or susceptibility to <a href="../../../Loose-Leaf/Prev.-Versions/Demon-World#outburst-flu" class="internal alias" data-slug="Loose-Leaf/Prev.-Versions/Demon-World">outburst flu</a>.</li>
+</ul>
+</li>
+<li><strong>“Pride is identity.”</strong>
+<ul>
+<li><em>Pride is the cornerstone of a demon’s identity and actions.</em></li>
+<li>Demons must never diminish themselves or allow their reputation to falter.</li>
+<li>Insults and defeats are viewed as assaults on one’s very existence.</li>
+<li>Pride is not blind arrogance but a commitment to defending one’s worth and contributions.
+<ul>
+<li>Acts of humility are understood as weakness.</li>
+</ul>
+</li>
+<li>Creative pursuits, such as art or battle, are seen as extensions of one’s pride and individuality.</li>
+</ul>
+</li>
+<li><strong>“Accept no slight.”</strong>
+<ul>
+<li><em>Insults or betrayals must be addressed, as unresolved grievances tarnish one’s honour.</em></li>
+<li>Challenges, revenge, manipulation, coercion, seduction, threats, blackmail and blood feuds are all valid ways to settle disputes and disagreements.</li>
+<li>The longer a slight festers without resolution, the greater the loss of respect from one’s peers.
+<ul>
+<li>As such, communication is very straight-forward in the Demon World.</li>
+<li>This may alternatively lead to demon’s being cagey about their thoughts and/or emotions.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>“Destruction, an art.”</strong>
+<ul>
+<li><em>Violence and destruction are not viewed as senseless acts but as expressions of creativity and dominance.</em></li>
+<li>Battle is a performance; the victor demonstrates superiority not just in strength but also in technique and artistry.</li>
+<li>Demons also believe destruction to be part of the eternal cycle– strongly represented by their constant defense against lessers and ferals at the walls.</li>
+<li>Architecture in the Demon World reflects this philosophy, often blending brutal functionality with aesthetic beauty.</li>
+</ul>
+</li>
+<li><strong>“Death is destruction.”</strong>
+<ul>
+<li><em>Death is not viewed as an end but as a violent return to mana’s eternal cycle.</em></li>
+<li>The act of death—be it battle, execution, or decay—is considered the ultimate form of destruction, and destruction is seen as release, then creation in reincarnation.</li>
+<li>To die without leaving an impression (whether through battle, art, or legacy) is viewed as a failure.</li>
+<li>The ashes of the dead, rich with dispersed mana, are often revered. They are sometimes collected and used in rituals to strengthen mana reserves or to fertilize mana-infused soil for symbolic renewal.</li>
+<li>This philosophy fosters a disdain for passive deaths or those that lack impact, creating a cultural obsession with “worthy ends.”</li>
+<li>Cowardice in death or intentional loss is considered a disgrace and moral failure.</li>
+<li>While demons believe in reincarnation, this does not diminish their respect for the finality and transformative power of destruction.</li>
+</ul>
+</li>
+<li><strong>“Weakness is your own.”</strong>
+<ul>
+<li><em>Demons who fail to survive or ascend have only themselves to blame.</em></li>
+<li>Suffering is a private matter, and failure is rarely pitied.</li>
+<li>Public displays of helplessness are deeply shameful, though the strong may offer aid to prove their superiority.</li>
+<li>This philosophy is harsher but widely respected in lower ranks.</li>
+<li>This philosophy is precarious for higher ranks, where pride often outweighs the cost of surviving a failure.</li>
+</ul>
+</li>
+<li><strong>Hierarchal harmony</strong>
+<ul>
+<li><em>The societal hierarchy is not a rigid caste but a dynamic system where strength, intelligence, and cunning dictate one’s place.</em></li>
+<li>Respect flows upward, but protection flows downward.</li>
+<li>While weaker demons serve their superiors, they do so in exchange for security and resources.</li>
+<li>Conflicts within the hierarchy are expected, but chaos is despised.
+<ul>
+<li>Challenges can be issued to whomever, by whomever, wherever, but challenges and personal vendettas should not disrupt societal function.</li>
+<li>Otherwise, <em>exile is swift and unrelenting.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h6 id="archaic-beliefs">Archaic Beliefs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#archaic-beliefs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h6>
+<ul>
+<li><strong>“Isolation makes purity.”</strong>
+<ul>
+<li>A belief that mixing with other species, especially humans, dilutes a demon’s inherent strength and purity.</li>
+<li>The belief that the individualism of the demon race is preserved by their isolated environment.</li>
+<li>Often associated with traditionalist noble houses or anti-human factions.</li>
+</ul>
+</li>
+<li><strong>“Compassion is weakness.”</strong>
+<ul>
+<li>Mercy was once viewed as a betrayal of demon nature.</li>
+<li>After the incident that ended the <a href="../../../Nagusaverse-Vault/Worldbuilding/Dictionary/Demon-Human-Interworld-War" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Dictionary/Demon-Human-Interworld-War">Demon-Human Interworld War</a>, it has softened over time.</li>
+<li>Modern interpretations see selective mercy as a sign of wisdom and control.</li>
+</ul>
+</li>
+</ul>
+<h4 id="religion">Religion<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#religion" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><strong>No Gods, Only Greatness</strong></p>
+<ul>
+<li>While demons do not worship gods, the highest-ranking and most powerful demons are sometimes venerated as living embodiments of strength and mana.</li>
+<li>The royal family may be viewed as the ultimate expression of mana’s potential.</li>
+<li>Nobles and warriors who demonstrate exceptional skill or power may inspire cult-like reverence among lower-ranking demons.</li>
+</ul>
+<p><strong>Mana as Divinity</strong></p>
+<ul>
+<li>Mana is regarded as the closest equivalent to a celestial force. It is eternal, omnipresent, and the source of all life and strength in the Demon World.</li>
+<li>Demons believe mana is both a gift and a responsibility, something to be wielded with respect and purpose.</li>
+<li>Rituals often center on mana’s flow, honoring its presence in the land, the self, and the cosmos.</li>
+</ul>
+<p><strong>The Eternalistic Truth</strong></p>
+<ul>
+<li>The eternal nature of the Demon World reinforces a sense of awe and respect for the unbroken cycles of creation, destruction, and reincarnation.</li>
+<li>Rituals and ceremonies acknowledge the infinite wastelands and underground as sacred spaces representing eternity.</li>
+<li>Death is seen as a sacred transition, returning mana to the world and continuing the eternal cycle.</li>
+</ul>
+<h4 id="rituals-and-practices">Rituals and Practices<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#rituals-and-practices" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><strong>Mana Renewal Ceremonies</strong></p>
+<ul>
+<li>Performed when a demon dies and dispels into ash and mana, to honour the return of their essence to the Demon World.</li>
+<li>These rituals are overseen by demons from <strong>Areas 1 and 2</strong>, and in extremely special cases, the <a href="../../../Royal-House" class="internal alias" data-slug="Royal-House">Royal House</a>.</li>
+<li>Ashes of the deceased are scattered into the air.</li>
+<li>These ceremonies are quiet, and the attendance of nobles in their best attire is a symbol of recognition for the deceased.</li>
+</ul>
+<p><strong>Combat as Worship</strong></p>
+<ul>
+<li>Ritual combat is used to resolve disputes and prove worth.</li>
+<li>Challenges made ad repente often command a large street audience.</li>
+<li>Challenges to nobles, especially High Houses and the Royal House, are more formal, and always take place in <strong>Area 6</strong> to prevent city damage from high mana output.</li>
+<li><em>Proof of valour or strength is required to challenge the High Houses or Royal Family,</em> but members of the High House may accept informal challenges if approached directly.</li>
+<li>Challenges are not always safe, but death in challenge is seen as a high honour.</li>
+<li><em>Challenges cannot be made on behalf of another person.</em></li>
+</ul>
+<p><strong>Blessed Feasts</strong></p>
+<ul>
+<li>The emergence of mana auroras and manastorms close to the city is cause for great celebration afte they pass.</li>
+<li>These celebrations involve feasting, offerings to mana springs, festivals, markets, and parades.</li>
+<li>Nobody parties harder than demons.</li>
+</ul>
+<p><strong>Oath Wayfaring</strong></p>
+<ul>
+<li>A traditional rite to inaugurate new lords and ladies of the High Houses.</li>
+<li>To earn their title, they must pilgrimage to large and ancient mana wells, geode pockets, or other natural wonders of the Demon World, which produce only the most lustrous of mana ores.</li>
+<li>They must return with a lustrous geode that will embellish their weapon of choice, a gift from the King.</li>
+<li>A ceremony will then be held to take their oath, reciting the Ten Virtues. They are then officially granted their weapon and named Lord or Lady.</li>
+<li>There has been no handover of the royal crown in centuries, so the ritual involved in the inauguration of the royal family has somewhat faded into obscurity.</li>
+</ul>
+<p><strong>Challenge Day</strong></p>
+<ul>
+<li>On the birthdays of Lords, Ladies, and acting members of the royal family, they are open to receiving <em>challenges from anyone, even children.</em></li>
+<li>This is combat as worship, and failure for a Lord, Lady or member of the royal family to be present in the Demon World on this day is grounds for stripping title.</li>
+<li><em>Challenges can be made for any purpose</em>– to absolve a crime, or as a challenge for authority, succession, possession, debt, etcetera. They can even be made on grounds of death.</li>
+<li><em>A challenger only bears right to one challenge to the receiving party on this day.</em></li>
+</ul>
+<h4 id="other-customs">Other Customs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#other-customs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><strong>Thing of Importance</strong></p>
+<ul>
+<li>Relevance</li>
+</ul>
+<h2 id="law-politics-and-the-judicial-system">Law, Politics and the Judicial System<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#law-politics-and-the-judicial-system" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<hr/>
+<h3 id="structure">Structure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#structure" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p><em><strong>On Question of Laws in the Demon World</strong></em></p>
+<p>“For my brief time in the otherworld, I am often asked if demons are as unruly and violent as they seem. It is a difficult question to answer, because many of them appear rather civil. t is a challenging question to answer, for while they often appear quite civil, their world operates on rules unlike any other. From what I observed, many demons have little time interest in entertaining humans as no more than a resource or novelty. Their lives are consumed by a relentless drive to prove themselves. My tour guide was the patrolman who had found me after I slipped through the network. I was bound for Area 4, in need of transportation back to the human realm, and what I found there was as interesting as it was stomach-churning.</p>
+<p>At one point, we passed a covered cart trundling down the street. The faint, metallic tang in the air was unmistakable, even to me. My pulse quickened as a dreadful possibility came to mind, though the patrolman beside me showed no sign of concern. I hesitated, my gaze lingering on the cart as it turned down the gold-flecked road.
+The patrolman beside me, catching my gaze, smirked. ‘Don’t stare too hard,’ he said lightly. ‘You might end up in there yourself.’
+Horrified, or morbidly intrigued, I queried, tentatively, the contents.
+He chuckled. Chilling. ‘Just cargo, nothing you’d want to be part of.’ When he saw my pallor, he slapped my shoulder warmly, ‘Relax. You’re with me, aren’t you?’
+Unable to suppress my unease, I carefully asked about laws in the Demon World.
+‘Laws?’ he repeated, tone laced with amusement, ‘Like rules? Yeah, we’ve got those, I guess. But it’s mostly just stuff nobody cares about. Unless you’re talking about the Ten Virtues, those are different. But  it’s not like the bigwigs are around to enforce anything these days… and there’s no point stopping them. If they’re weak enough to get caught, that’s their problem. And if the nobles aren’t diligent enough to catch them, then, well. That’s theirs.’</p>
+<p>He dismissed me like water off metal, leaving me to wrestle my own thoughts.
+I couldn’t believe his nonchalance, but I was more so shocked by the absolute obviousness of the cart’s conduct. I suppose I shouldn’t have been surprised by the demon race’s ubiquitous opinion of illegal activities– I believe this is another symptom of the race’s inherent arrogance. To disguise an act is to admit weakness, and in this world, the strong have no reason to hide. The weak lose to the strong, and so the strong cannot be apprehended by the weak.</p>
+<p>As we walked on, I could not shake the dissonance. Bonds here were forged not in kindness but in survival, some form of double-standard rivalry. A paradoxical society that thrived on hierarchal unity and yet ruthless individualism. It was both awe-inspiring and deeply unsettling, and what disturbed me most was my capacity to so easily understand it.”</p>
+<p><em>- ‘Traveller’s Diary, vol.III: Realms of the Strange’, Anonymous</em>
+<font color="#8db3e2"></font></p>
+</blockquote>
+<h5 id="royal-decree">Royal Decree<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#royal-decree" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>The word of the <a href="../../../Royal-House" class="internal alias" data-slug="Royal-House">Royal House</a> is absolute.</li>
+<li>Demons see little point in challenging the royal decree, as the strength of the royal family is unmatched, even by the highest-ranking High House, <a href="../../../House-Lagusa" class="internal alias" data-slug="House-Lagusa">House Lagusa</a>.</li>
+<li>The strength of the royal family, particularly the reigning Demon King, ensures compliance. Even the High Houses, including the most influential, cannot openly defy commands.</li>
+</ul>
+<h5 id="high-court">High Court<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#high-court" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>Composed of representatives from the High Houses, and in exceptional cases, also the King.</li>
+<li>Deals with disputes among nobility, interworld policy violations, or matters threatening the Demon World’s stability.</li>
+<li>The High Court is notorious for its inefficiency, as many Lords and Ladies are often away on interworld missions or personal pursuits.
+<ul>
+<li>This leaves cases delayed or mishandled, leading to unrest in lower districts.</li>
+</ul>
+</li>
+<li>Cases in the High Court often rely on displays of strength, combat trials, or mana demonstrations to determine rulings.</li>
+</ul>
+<h5 id="military-tribunal">Military Tribunal<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#military-tribunal" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>Oversees offenses committed by military personnel and enforcers.</li>
+<li>Focuses on desertion, treason, and abuse of authority.</li>
+<li>Punishments include demotion, exile, or public execution.</li>
+</ul>
+<h5 id="enforcement">Enforcement<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#enforcement" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>Lower districts rely on local enforcers and militia to handle common crimes like theft, assault, and smuggling.</li>
+<li>Punishments include temporary imprisonment, exile to <strong>Area 7</strong>, or forced labour in the mines of <strong>Area 6</strong>.</li>
+</ul>
+<hr/>
+<h3 id="punishments">Punishments<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#punishments" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>The Demon World takes little mercy, but in exchange, suffers an inability to address prominent crime.</li>
+</ul>
+<p><strong>Public Exile</strong></p>
+<ul>
+<li>One of the most feared punishments, exile involves being cast out into <strong>Area 7</strong> or beyond.</li>
+<li>It is not feared for its brutality, but rather the aspect of public humiliation.</li>
+<li>Exiled demons publicly have their <em>wings clipped</em> and <em>mana recesses sealed</em> before being thrown out of the city.</li>
+<li>Only the thrifty can truly survive, doomed to turn feral.</li>
+</ul>
+<p><strong>Public Execution</strong></p>
+<ul>
+<li>Used for treason, rebellion, or crimes against the crown.</li>
+<li>Executions are ceremonial, with the offender’s mana dispersal symbolizing their return to the Demon World.</li>
+<li>Spectators view these events as both a warning and spectacle.</li>
+</ul>
+<p><strong>Trial by Combat</strong></p>
+<ul>
+<li>Reserved for disputes or challenges to authority, where strength determines justice.</li>
+<li>Criminals may also propose trial by combat to escape sentencing, at the cost of a <em>greater sentence should they lose.</em>
+<ul>
+<li>As such, criminals are allowed to <em>choose their opponents from a selection of High House representatives.</em> Cheating is seen as a viable strategy.</li>
+<li>Some crimes are orchestrated purely to grant challenge rights against the High Houses, which are normally unobtainable for lower-ranking demons.</li>
+</ul>
+</li>
+<li>Combat is to the death or until surrender, with the victor’s claim upheld.</li>
+<li>Death during a combat trial is seen as an honourable resolution.</li>
+</ul>
+<p><strong>Mana Sealing</strong></p>
+<ul>
+<li>For crimes involving mana misuse or illegal mana practices, the offender’s mana recesses are sealed, rendering them powerless.</li>
+<li>Often used as a precursor to exile or servitude, as mana-sealed demons cannot defend themselves effectively.</li>
+</ul>
+<p><strong>Forced Labour</strong></p>
+<ul>
+<li>Common punishment for resource-related crimes.</li>
+<li>Offenders are sent to the mines of <strong>Area 6</strong>, where they extract mana geodes under harsh conditions.</li>
+</ul>
+<hr/>
+<h3 id="laws">Laws<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#laws" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h5 id="interworld-trade-laws">Interworld Trade Laws<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#interworld-trade-laws" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p><strong>Authorized Trade Only (The Trade Sanction Act):</strong></p>
+<ol>
+<li>All exports and imports must be sanctioned by the Royal Court or High Houses.</li>
+<li>Unauthorized trade is punishable by confiscation of goods, exile to <strong>Area 7</strong>, or forced labour in <strong>Area 6</strong>.
+<ul>
+<li>Sanctioned items include:
+<ul>
+<li>Exports: Anti-entity weapons, enchanted metals, and ores.</li>
+<li>Imports: Human food, trinkets, and technological artifacts.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Restricted Goods (The Mana Regulation Act):</strong>
+<ul>
+<li>Mana geodes and raw mana are considered highly sensitive.
+<ul>
+<li>Exporting raw mana interworld in any form is prohibited due to their potential to disrupt and cause damage.</li>
+<li>Violations result in mana sealing and imprisonment.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Fair Trade Compliance (The Essence Fairness Doctrine):</strong>
+<ul>
+<li>Essence-based trade (e.g., blood or soul energy) must comply with interworld agreements.</li>
+<li>Extraction of essence from non-consenting beings (humans, spirits, or otherworlders) is outlawed, with violators sentenced to public execution or exile.</li>
+<li>Demons found trafficking humans for essence face permanent mana sealing and exile.</li>
+</ul>
+</li>
+<li><strong>Quality Assurance (The Craft Purity Mandate):</strong>
+<ul>
+<li>Exported weapons and ores must meet Demon World craftsmanship standards, which are <em>very high.</em></li>
+<li>Counterfeit or defective goods found in trade lead to severe penalties for the artisan and their sponsor, including confiscation of resources and loss of privileges.</li>
+</ul>
+</li>
+</ol>
+<h5 id="interworld-and-migratory-laws">Interworld and Migratory Laws<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#interworld-and-migratory-laws" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ol>
+<li><strong>Restricted Entry (The Dimensional Boundary Act):</strong>
+<ul>
+<li>Non-demons may only enter the Demon World through officially sanctioned gates or ruptures, with a valid reason such as trade, diplomacy, accident, or sanctioned exploration.</li>
+<li>Unauthorized entry results in detainment and forced deportation or, in extreme cases, immediate execution.</li>
+</ul>
+</li>
+<li><strong>Residency Permits (The Integration Protocol):</strong>
+<ul>
+<li>Non-demons wishing to reside in the Demon World must apply for a residency permit, the processes to obtain begin in <strong>Area 5</strong>.</li>
+<li>Permits are granted based on:
+<ul>
+<li>Demonstrated contribution to society (e.g., skilled artisans, merchants, or diplomats).</li>
+<li>Proof of mana adaptability (to ensure survival in the mana-rich environment).</li>
+</ul>
+</li>
+<li>Unauthorized residency leads to expulsion or forced labour.</li>
+</ul>
+</li>
+<li><strong>Illegal Immigration Penalties (The Border Violation Act):</strong>
+<ul>
+<li>Illegal immigrants, including humans, ferals, and rogue demons, are subject to:
+<ul>
+<li>Imprisonment in <strong>Area 6.</strong></li>
+<li>Exile to <strong>Area 7</strong> if deemed a danger to society.</li>
+</ul>
+</li>
+<li>Traffickers facilitating illegal immigration face combat trials or execution.</li>
+</ul>
+</li>
+<li><strong>Exiled Demon Monitoring (The Exile Reinstatement Clause):</strong>
+<ul>
+<li>Exiled demons are forbidden from re-entering the Demon World without direct royal approval.</li>
+<li>Unauthorized return is considered treason, punishable by immediate execution.</li>
+</ul>
+</li>
+<li>**Retirement (The Dismissal Protocol):
+<ul>
+<li>Demons must then apply for a <em>citizenship</em> from their desired place of relocation before being permitted severance from the Demon World.
+<ul>
+<li>Obtaining a citizenship involves a series of screenings, including <em>levels of violence, criminal records, character testimony, achievements, liabilities, and health.</em></li>
+</ul>
+</li>
+<li>Demons whose citizenships are denied must continue service in the Demon World.</li>
+<li>Demons who successfully obtain a citizenship must declare any titles, status, and assets, including ones they intend to take with them, before being permitted severance from the Demon World.
+<ul>
+<li>Nonpermissed assets will be seized.</li>
+<li>Demons in <strong>Areas 4, 2 and 1</strong> are also required to seek approval from their associated mentors, masters, commanders, or superiors.</li>
+</ul>
+</li>
+<li>Many demons simply flee the Demon World, dismissing the benefits of declaration, which include <em>methods of contact for family and friends</em>, and a period of <em>severance pay</em> to support relocation (which is difficult due to prejudice and circumstance).</li>
+</ul>
+</li>
+<li><strong>Non-Interference Mandate (The Dimensional Sovereignty Act):</strong>
+<ul>
+<li>Demons are prohibited from interfering with natural disasters, wars, or internal politics of other realms unless explicitly authorized by the Royal Court.</li>
+<li>Unauthorized interference results in exile, combat trials, or execution.</li>
+</ul>
+</li>
+<li><strong>Diplomatic Immunity (The Envoy Safeguard):</strong>
+<ul>
+<li>Diplomatic envoys are granted full immunity in the Demon World, provided they follow interworld laws.</li>
+<li>Harm against envoys, intentional or accidental, results in severe penalties, including combat trials.</li>
+</ul>
+</li>
+<li><strong>War Protocols (The Interworld Conflict Accord):</strong>
+<ul>
+<li>Declaring war on another realm hinges only the sovereign’s word.</li>
+<li>Unauthorized war efforts or rogue campaigns lead to combat trials for the perpetrators and their families.</li>
+</ul>
+</li>
+</ol>
+<h5 id="mana-laws">Mana Laws<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mana-laws" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ol>
+<li><strong>Mana Conservation (The Lifeblood Accord):</strong>
+<ul>
+<li>Mana wells and springs are protected by law; over-extraction is prohibited.</li>
+<li>Violators face mana sealing and exile for disrupting the ecosystem.</li>
+</ul>
+</li>
+<li><strong>Essence Harvesting (The Essence Ethics Act):</strong>
+<ul>
+<li>Essence harvesting must follow strict ethical guidelines:
+<ul>
+<li>Consent is mandatory for harvesting from sentient beings.</li>
+<li>Extraction exceeding sustainable limits is forbidden.</li>
+</ul>
+</li>
+<li>Non-compliance results in exile, execution or combat trials.</li>
+</ul>
+</li>
+<li><strong>Mana Cache Prohibition (The Cache Contraband Rule):</strong>
+<ul>
+<li>Mana caches, which amplify power artificially, are illegal unless sanctioned for military use.</li>
+<li>Possession or creation of unauthorized mana caches leads to confiscation and permanent mana sealing.</li>
+</ul>
+</li>
+<li><strong>Mutated Mana Containment (The Corruption Quarantine Act):</strong>
+<ul>
+<li>Mana poisoning or corrupted mana must be reported immediately.</li>
+<li>Failure to report or attempts to weaponize corrupted mana result in public execution or exile.</li>
+</ul>
+</li>
+</ol>
+<h5 id="domestic-governance-and-crime-laws">Domestic Governance and Crime Laws<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#domestic-governance-and-crime-laws" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ol>
+<li><strong>Trade and Commerce (The Merchant Compliance Rule):</strong>
+<ul>
+<li>Merchants must register their goods with <strong>Area 4’s</strong> Trade Commission.</li>
+<li>Failure to register or attempting to sell banned items results in confiscation and temporary imprisonment.</li>
+</ul>
+</li>
+<li><strong>Black Market Suppression (The Red Market Directive):</strong>
+<ul>
+<li>Participation in or support of the Red Market is outlawed.</li>
+<li>Smugglers, counterfeiters, and traffickers face execution or exile to feral zones.</li>
+</ul>
+</li>
+<li><strong>Militia Conduct (The Vigilance Code):</strong>
+<ul>
+<li>Militia members who abuse their power or fail to protect the populace face penalties, including demotion, imprisonment, or combat trials.</li>
+</ul>
+</li>
+<li><strong>Illegal Mana Use (The Recess Safeguard Act):</strong>
+<ul>
+<li>Unauthorized use of mana for destructive purposes, particularly within city limits, is strictly forbidden.</li>
+<li>Offenders are subject to mana sealing and forced labour.</li>
+</ul>
+</li>
+</ol>
+<hr/>
+<h3 id="realm-relations">Realm Relations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#realm-relations" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h5 id="human-realm"><a href="../../../Nagusaverse-Vault/Worldbuilding/Virtual-Universe/Virtual-Universe#virtual-earth" class="internal alias" data-slug="Nagusaverse-Vault/Worldbuilding/Virtual-Universe/Virtual-Universe">Human Realm</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#human-realm" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li>Detail</li>
+</ul>
+<h5 id="ouma-kingdom"><a href="../../../Ouma-Kingdom" class="internal alias" data-slug="Ouma-Kingdom">Ouma Kingdom</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ouma-kingdom" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li></li>
+</ul>
+<h5 id="kingdom-of-helesta"><a href="../../../Kingdom-of-Helesta" class="internal alias" data-slug="Kingdom-of-Helesta">Kingdom of Helesta</a><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kingdom-of-helesta" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<ul>
+<li></li>
+</ul>
+<hr/>
+<h2 id="relevant-history">Relevant History<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#relevant-history" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h4 id="event">Event<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#event" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<ul>
+<li>Overview of how realm was affected</li>
+</ul>
+<hr/>
+<h5 id="myths-and-legends">Myths and Legends<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#myths-and-legends" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h5>
+<p><strong>Title</strong></p>
+<ul>
+<li>Detail</li>
+</ul>
+<hr/></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-1" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#overview" data-for="overview">Overview</a></li><li class="depth-0"><a href="#environment" data-for="environment">Environment</a></li><li class="depth-1"><a href="#major-locations" data-for="major-locations">Major Locations</a></li><li class="depth-0"><a href="#inhabitants" data-for="inhabitants">Inhabitants</a></li><li class="depth-0"><a href="#diseases-sickness-and-deficiency" data-for="diseases-sickness-and-deficiency">Diseases, Sickness, and Deficiency</a></li><li class="depth-0"><a href="#philosophy-religion-and-mythology" data-for="philosophy-religion-and-mythology">Philosophy, Religion and Mythology</a></li><li class="depth-0"><a href="#law-politics-and-the-judicial-system" data-for="law-politics-and-the-judicial-system">Law, Politics and the Judicial System</a></li><li class="depth-1"><a href="#structure" data-for="structure">Structure</a></li><li class="depth-1"><a href="#punishments" data-for="punishments">Punishments</a></li><li class="depth-1"><a href="#laws" data-for="laws">Laws</a></li><li class="depth-1"><a href="#realm-relations" data-for="realm-relations">Realm Relations</a></li><li class="depth-0"><a href="#relevant-history" data-for="relevant-history">Relevant History</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../../../postscript.js" type="module"></script></html>
