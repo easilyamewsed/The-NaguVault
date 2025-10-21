@@ -1,16 +1,17 @@
 ---
 title: "The NaguVault"
+enableToc: false
+enableBackLinks: false
 ---
 
 # 🜲 Welcome to the NaguVault
 
-A sprawling archive of worlds, timelines, and stories from the **Nagusaverse**.  
-Browse through the sidebar or search to explore worldbuilding notes, AU timelines, and plotlines.
+Browse the archive of worlds, timelines, and stories below.
+Use the **sidebar** or **search bar** to navigate through notes.
 
 ---
 
-**Quick access**
-- [🌌 Worldbuilding](./Worldbuilding/)
-- [📖 Plotlines](./Plotlines/)
-- [💭 Loose Leaf](./Loose-Leaf/)
-- [📚 Minis & Requests](./Loose-Leaf/Minis%20and%20Requests/)
+[[Worldbuilding]]  
+[[Plotlines]]  
+[[Loose Leaf]]  
+[[Minis and Requests]]
